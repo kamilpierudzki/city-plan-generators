@@ -1,0 +1,2314 @@
+{
+  "city": "Warszawa",
+  "lastUpdateTimestampInMillis": 1630527281,
+  "humanReadableLastUpdateTimestamp": "01-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "1",
+      "destination": "Annopol 03"
+    },
+    {
+      "number": "1",
+      "destination": "Banacha 04"
+    },
+    {
+      "number": "2",
+      "destination": "Metro Młociny 28"
+    },
+    {
+      "number": "2",
+      "destination": "Tarchomin Kościelny 02"
+    },
+    {
+      "number": "3",
+      "destination": "Annopol 02"
+    },
+    {
+      "number": "3",
+      "destination": "Gocławek 06"
+    },
+    {
+      "number": "4",
+      "destination": "Wyścigi 06"
+    },
+    {
+      "number": "4",
+      "destination": "Żerań Wschodni 01"
+    },
+    {
+      "number": "6",
+      "destination": "Metro Młociny 09"
+    },
+    {
+      "number": "6",
+      "destination": "Gocławek 06"
+    },
+    {
+      "number": "7",
+      "destination": "Kawęczyńska-Bazylika 02"
+    },
+    {
+      "number": "7",
+      "destination": "P+R Al.Krakowska 03"
+    },
+    {
+      "number": "9",
+      "destination": "P+R Al.Krakowska 01"
+    },
+    {
+      "number": "9",
+      "destination": "Gocławek 06"
+    },
+    {
+      "number": "10",
+      "destination": "Metro Młociny 14"
+    },
+    {
+      "number": "10",
+      "destination": "Wyścigi 07"
+    },
+    {
+      "number": "13",
+      "destination": "Kawęczyńska-Bazylika 03"
+    },
+    {
+      "number": "13",
+      "destination": "Koło 01"
+    },
+    {
+      "number": "14",
+      "destination": "Banacha 06"
+    },
+    {
+      "number": "14",
+      "destination": "Metro Wilanowska 05"
+    },
+    {
+      "number": "15",
+      "destination": "Marymont-Potok 04"
+    },
+    {
+      "number": "15",
+      "destination": "P+R Al.Krakowska 02"
+    },
+    {
+      "number": "17",
+      "destination": "Tarchomin Kościelny 02"
+    },
+    {
+      "number": "17",
+      "destination": "PKP Służewiec 12"
+    },
+    {
+      "number": "18",
+      "destination": "Żerań FSO 06"
+    },
+    {
+      "number": "18",
+      "destination": "PKP Służewiec 13"
+    },
+    {
+      "number": "20",
+      "destination": "Cm.Wolski 04"
+    },
+    {
+      "number": "20",
+      "destination": "Żerań FSO 05"
+    },
+    {
+      "number": "22",
+      "destination": "Piaski 04"
+    },
+    {
+      "number": "22",
+      "destination": "Wiatraczna 12"
+    },
+    {
+      "number": "23",
+      "destination": "Nowe Bemowo 03"
+    },
+    {
+      "number": "23",
+      "destination": "Czynszowa 01"
+    },
+    {
+      "number": "24",
+      "destination": "Gocławek 06"
+    },
+    {
+      "number": "24",
+      "destination": "Wawrzyszewska 04"
+    },
+    {
+      "number": "25",
+      "destination": "Annopol 01"
+    },
+    {
+      "number": "25",
+      "destination": "Banacha 05"
+    },
+    {
+      "number": "26",
+      "destination": "Piaski 10"
+    },
+    {
+      "number": "26",
+      "destination": "Wiatraczna 13"
+    },
+    {
+      "number": "27",
+      "destination": "Metro Marymont 04"
+    },
+    {
+      "number": "27",
+      "destination": "Cm.Wolski 03"
+    },
+    {
+      "number": "28",
+      "destination": "Piaski 04"
+    },
+    {
+      "number": "28",
+      "destination": "Dw.Wschodni (Kijowska) 02"
+    },
+    {
+      "number": "31",
+      "destination": "PKP Służewiec 14"
+    },
+    {
+      "number": "31",
+      "destination": "Metro Wierzbno 03"
+    },
+    {
+      "number": "33",
+      "destination": "Kielecka 01"
+    },
+    {
+      "number": "33",
+      "destination": "Metro Młociny 15"
+    },
+    {
+      "number": "35",
+      "destination": "Nowe Bemowo 06"
+    },
+    {
+      "number": "35",
+      "destination": "Wyścigi 05"
+    },
+    {
+      "number": "36",
+      "destination": "Metro Marymont 04"
+    },
+    {
+      "number": "36",
+      "destination": "pl.Narutowicza 13"
+    },
+    {
+      "number": "41",
+      "destination": "PKP Służewiec 12"
+    },
+    {
+      "number": "41",
+      "destination": "Żerań Wschodni 03"
+    },
+    {
+      "number": "70",
+      "destination": "Boernerowo 01"
+    },
+    {
+      "number": "70",
+      "destination": "Koło 01"
+    }
+  ],
+  "buses": [
+    {
+      "number": "100",
+      "destination": "Centrum 02"
+    },
+    {
+      "number": "102",
+      "destination": "Emilii Plater 01"
+    },
+    {
+      "number": "102",
+      "destination": "PKP Olszynka Grochowska 05"
+    },
+    {
+      "number": "103",
+      "destination": "Kolejowa 51"
+    },
+    {
+      "number": "103",
+      "destination": "Metro Młociny 03"
+    },
+    {
+      "number": "104",
+      "destination": "Brzeziny 01"
+    },
+    {
+      "number": "104",
+      "destination": "Żerań FSO 13"
+    },
+    {
+      "number": "105",
+      "destination": "rondo Daszyńskiego 02"
+    },
+    {
+      "number": "105",
+      "destination": "os.Górczewska 06"
+    },
+    {
+      "number": "106",
+      "destination": "Browarna 02"
+    },
+    {
+      "number": "106",
+      "destination": "Młynów 07"
+    },
+    {
+      "number": "107",
+      "destination": "Esperanto 03"
+    },
+    {
+      "number": "107",
+      "destination": "Kierbedzia 02"
+    },
+    {
+      "number": "108",
+      "destination": "pl.Trzech Krzyży 06"
+    },
+    {
+      "number": "108",
+      "destination": "Metro Wilanowska 09"
+    },
+    {
+      "number": "109",
+      "destination": "Torwar 07"
+    },
+    {
+      "number": "109",
+      "destination": "os.Górczewska 09"
+    },
+    {
+      "number": "110",
+      "destination": "Metro Marymont 12"
+    },
+    {
+      "number": "110",
+      "destination": "CH Łomianki 03"
+    },
+    {
+      "number": "111",
+      "destination": "Esperanto 05"
+    },
+    {
+      "number": "111",
+      "destination": "Gocław 01"
+    },
+    {
+      "number": "112",
+      "destination": "Karolin 04"
+    },
+    {
+      "number": "112",
+      "destination": "CH Marki 04"
+    },
+    {
+      "number": "114",
+      "destination": "Młociny-UKSW 01"
+    },
+    {
+      "number": "114",
+      "destination": "Bródno-Podgrodzie 05"
+    },
+    {
+      "number": "115",
+      "destination": "PKP Mokry Ług 03"
+    },
+    {
+      "number": "115",
+      "destination": "Aleksandrów 01"
+    },
+    {
+      "number": "116",
+      "destination": "Chomiczówka 03"
+    },
+    {
+      "number": "116",
+      "destination": "Wilanów 08"
+    },
+    {
+      "number": "117",
+      "destination": "Dw.Centralny 14"
+    },
+    {
+      "number": "117",
+      "destination": "Gocław 01"
+    },
+    {
+      "number": "118",
+      "destination": "Metro Politechnika 14"
+    },
+    {
+      "number": "118",
+      "destination": "Bródno-Podgrodzie 08"
+    },
+    {
+      "number": "119",
+      "destination": "Wiśniowa Góra 01"
+    },
+    {
+      "number": "119",
+      "destination": "Rakowiecka-Sanktuarium 06"
+    },
+    {
+      "number": "120",
+      "destination": "Dw.Wschodni (Kijowska) 05"
+    },
+    {
+      "number": "120",
+      "destination": "Olesin 01"
+    },
+    {
+      "number": "121",
+      "destination": "Chomiczówka 06"
+    },
+    {
+      "number": "121",
+      "destination": "Gwiaździsta 02"
+    },
+    {
+      "number": "122",
+      "destination": "os.Górczewska 08"
+    },
+    {
+      "number": "122",
+      "destination": "Gwiaździsta 06"
+    },
+    {
+      "number": "123",
+      "destination": "Dw.Wschodni (Kijowska) 05"
+    },
+    {
+      "number": "123",
+      "destination": "Dw.Wschodni (Lubelska) 04"
+    },
+    {
+      "number": "124",
+      "destination": "P+R Al.Krakowska 12"
+    },
+    {
+      "number": "124",
+      "destination": "Paluch 01"
+    },
+    {
+      "number": "125",
+      "destination": "Międzylesie 02"
+    },
+    {
+      "number": "125",
+      "destination": "Metro Stadion Narodowy 03"
+    },
+    {
+      "number": "126",
+      "destination": "Nowodwory 07"
+    },
+    {
+      "number": "126",
+      "destination": "CH Targówek 05"
+    },
+    {
+      "number": "127",
+      "destination": "Mariensztat 01"
+    },
+    {
+      "number": "127",
+      "destination": "Nowe Włochy 01"
+    },
+    {
+      "number": "128",
+      "destination": "pl.Piłsudskiego 02"
+    },
+    {
+      "number": "128",
+      "destination": "Szczęśliwice 05"
+    },
+    {
+      "number": "129",
+      "destination": "Koło 03"
+    },
+    {
+      "number": "129",
+      "destination": "PKP Ursus 22"
+    },
+    {
+      "number": "130",
+      "destination": "Rakowiecka-Sanktuarium 05"
+    },
+    {
+      "number": "130",
+      "destination": "Wilanów 08"
+    },
+    {
+      "number": "131",
+      "destination": "Dw.Centralny 25"
+    },
+    {
+      "number": "131",
+      "destination": "Sadyba 05"
+    },
+    {
+      "number": "132",
+      "destination": "Grodzisk 04"
+    },
+    {
+      "number": "132",
+      "destination": "Metro Marymont 16"
+    },
+    {
+      "number": "133",
+      "destination": "Tarchomin 07"
+    },
+    {
+      "number": "133",
+      "destination": "Choszczówka 01"
+    },
+    {
+      "number": "134",
+      "destination": "Metro Marymont 17"
+    },
+    {
+      "number": "134",
+      "destination": "Olesin 01"
+    },
+    {
+      "number": "135",
+      "destination": "PKP Olszynka Grochowska 05"
+    },
+    {
+      "number": "135",
+      "destination": "pl.Hallera 11"
+    },
+    {
+      "number": "136",
+      "destination": "Natolin Płn. 08"
+    },
+    {
+      "number": "136",
+      "destination": "Młynów 07"
+    },
+    {
+      "number": "138",
+      "destination": "Bokserska 04"
+    },
+    {
+      "number": "138",
+      "destination": "Utrata 01"
+    },
+    {
+      "number": "139",
+      "destination": "Ogród Botaniczny 03"
+    },
+    {
+      "number": "139",
+      "destination": "Metro Wilanowska 14"
+    },
+    {
+      "number": "140",
+      "destination": "Metro Trocka 12"
+    },
+    {
+      "number": "140",
+      "destination": "Czarna Struga 01"
+    },
+    {
+      "number": "141",
+      "destination": "P+R Al.Krakowska 07"
+    },
+    {
+      "number": "141",
+      "destination": "Witolin 03"
+    },
+    {
+      "number": "142",
+      "destination": "Aleksandrów 01"
+    },
+    {
+      "number": "142",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "143",
+      "destination": "GUS 07"
+    },
+    {
+      "number": "143",
+      "destination": "Rembertów-Kolonia 01"
+    },
+    {
+      "number": "145",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "145",
+      "destination": "Żerań FSO 12"
+    },
+    {
+      "number": "146",
+      "destination": "Falenica 04"
+    },
+    {
+      "number": "146",
+      "destination": "Dw.Wschodni (Lubelska) 01"
+    },
+    {
+      "number": "147",
+      "destination": "Stara Miłosna (Ułańska) 03"
+    },
+    {
+      "number": "147",
+      "destination": "Dw.Wschodni (Lubelska) 01"
+    },
+    {
+      "number": "148",
+      "destination": "Terminal Autokarowy 01"
+    },
+    {
+      "number": "148",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "149",
+      "destination": "Groty 01"
+    },
+    {
+      "number": "149",
+      "destination": "Koło 05"
+    },
+    {
+      "number": "150",
+      "destination": "Dziekanów Leśny 01"
+    },
+    {
+      "number": "150",
+      "destination": "Metro Młociny 21"
+    },
+    {
+      "number": "151",
+      "destination": "Rechniewskiego 02"
+    },
+    {
+      "number": "151",
+      "destination": "Nowowiejska 02"
+    },
+    {
+      "number": "152",
+      "destination": "os.Derby 02"
+    },
+    {
+      "number": "152",
+      "destination": "Tarchomin 07"
+    },
+    {
+      "number": "153",
+      "destination": "Rembertów-Kolonia 02"
+    },
+    {
+      "number": "153",
+      "destination": "Pastuszków 01"
+    },
+    {
+      "number": "154",
+      "destination": "P+R Al.Krakowska 09"
+    },
+    {
+      "number": "154",
+      "destination": "Stare Bemowo 05"
+    },
+    {
+      "number": "156",
+      "destination": "Metro Młociny 23"
+    },
+    {
+      "number": "156",
+      "destination": "Dw.Wschodni (Kijowska) 06"
+    },
+    {
+      "number": "157",
+      "destination": "Gwiaździsta 06"
+    },
+    {
+      "number": "157",
+      "destination": "Szczęśliwice 02"
+    },
+    {
+      "number": "158",
+      "destination": "CH Reduta 02"
+    },
+    {
+      "number": "158",
+      "destination": "Witolin 03"
+    },
+    {
+      "number": "159",
+      "destination": "CH Blue City 01"
+    },
+    {
+      "number": "159",
+      "destination": "EC Siekierki 04"
+    },
+    {
+      "number": "160",
+      "destination": "Dw.Centralny 23"
+    },
+    {
+      "number": "160",
+      "destination": "Grodzisk 06"
+    },
+    {
+      "number": "161",
+      "destination": "Olecka 01"
+    },
+    {
+      "number": "161",
+      "destination": "Zbójna Góra 01"
+    },
+    {
+      "number": "162",
+      "destination": "EC Siekierki 03"
+    },
+    {
+      "number": "162",
+      "destination": "pl.Hallera 09"
+    },
+    {
+      "number": "163",
+      "destination": "Wilanów 03"
+    },
+    {
+      "number": "163",
+      "destination": "Stegny 06"
+    },
+    {
+      "number": "164",
+      "destination": "Kępa Zawadowska 01"
+    },
+    {
+      "number": "164",
+      "destination": "EC Siekierki 05"
+    },
+    {
+      "number": "165",
+      "destination": "Wyczółki 01"
+    },
+    {
+      "number": "165",
+      "destination": "Metro Wilanowska 10"
+    },
+    {
+      "number": "166",
+      "destination": "pl.Hallera 18"
+    },
+    {
+      "number": "166",
+      "destination": "os.Kabaty 04"
+    },
+    {
+      "number": "167",
+      "destination": "Siekierki-Sanktuarium 03"
+    },
+    {
+      "number": "167",
+      "destination": "Znana 06"
+    },
+    {
+      "number": "168",
+      "destination": "Witolin 02"
+    },
+    {
+      "number": "168",
+      "destination": "Spartańska 02"
+    },
+    {
+      "number": "169",
+      "destination": "Dw.Wschodni (Kijowska) 07"
+    },
+    {
+      "number": "169",
+      "destination": "Bródno-Podgrodzie 06"
+    },
+    {
+      "number": "170",
+      "destination": "rondo Starzyńskiego 09"
+    },
+    {
+      "number": "170",
+      "destination": "Elsnerów 01"
+    },
+    {
+      "number": "171",
+      "destination": "Chomiczówka 06"
+    },
+    {
+      "number": "171",
+      "destination": "Torwar 06"
+    },
+    {
+      "number": "172",
+      "destination": "CH Blue City 02"
+    },
+    {
+      "number": "172",
+      "destination": "Sadyba 06"
+    },
+    {
+      "number": "173",
+      "destination": "Dw.Wschodni (Lubelska) 06"
+    },
+    {
+      "number": "173",
+      "destination": "Stara Miłosna (Graniczna) 03"
+    },
+    {
+      "number": "174",
+      "destination": "Bokserska 04"
+    },
+    {
+      "number": "174",
+      "destination": "rondo ONZ 10"
+    },
+    {
+      "number": "175",
+      "destination": "pl.Piłsudskiego 02"
+    },
+    {
+      "number": "175",
+      "destination": "Terminal Autokarowy 01"
+    },
+    {
+      "number": "176",
+      "destination": "Budowlana 06"
+    },
+    {
+      "number": "176",
+      "destination": "Choszczówka 01"
+    },
+    {
+      "number": "177",
+      "destination": "WKD Opacz 03"
+    },
+    {
+      "number": "177",
+      "destination": "Ursus-Ratusz 03"
+    },
+    {
+      "number": "178",
+      "destination": "Konwiktorska 03"
+    },
+    {
+      "number": "178",
+      "destination": "PKP Ursus 24"
+    },
+    {
+      "number": "179",
+      "destination": "Ursynów Płn. 05"
+    },
+    {
+      "number": "179",
+      "destination": "os.Kabaty 02"
+    },
+    {
+      "number": "180",
+      "destination": "Chomiczówka 05"
+    },
+    {
+      "number": "180",
+      "destination": "Wilanów 07"
+    },
+    {
+      "number": "181",
+      "destination": "pl.Wilsona 18"
+    },
+    {
+      "number": "181",
+      "destination": "Cm.Północny-Brama Gł. 03"
+    },
+    {
+      "number": "182",
+      "destination": "Witolin 03"
+    },
+    {
+      "number": "182",
+      "destination": "Dw.Zachodni 03"
+    },
+    {
+      "number": "183",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "183",
+      "destination": "Zielona 01"
+    },
+    {
+      "number": "184",
+      "destination": "Metro Młociny 24"
+    },
+    {
+      "number": "184",
+      "destination": "Szczęśliwice 01"
+    },
+    {
+      "number": "185",
+      "destination": "CH Ursynów 04"
+    },
+    {
+      "number": "185",
+      "destination": "Gwiaździsta 05"
+    },
+    {
+      "number": "186",
+      "destination": "Szczęśliwice 04"
+    },
+    {
+      "number": "186",
+      "destination": "Nowodwory 09"
+    },
+    {
+      "number": "187",
+      "destination": "Ursus-Niedźwiadek 02"
+    },
+    {
+      "number": "187",
+      "destination": "Stegny 05"
+    },
+    {
+      "number": "188",
+      "destination": "Gocławek Wschodni 02"
+    },
+    {
+      "number": "188",
+      "destination": "Terminal Autokarowy 01"
+    },
+    {
+      "number": "189",
+      "destination": "os.Górczewska 07"
+    },
+    {
+      "number": "189",
+      "destination": "Sadyba 03"
+    },
+    {
+      "number": "190",
+      "destination": "os.Górczewska 05"
+    },
+    {
+      "number": "190",
+      "destination": "CH Marki 01"
+    },
+    {
+      "number": "191",
+      "destination": "Regulska 02"
+    },
+    {
+      "number": "191",
+      "destination": "pl.Narutowicza 16"
+    },
+    {
+      "number": "192",
+      "destination": "os.Kabaty 01"
+    },
+    {
+      "number": "192",
+      "destination": "Metro Wilanowska 11"
+    },
+    {
+      "number": "193",
+      "destination": "Bokserska 04"
+    },
+    {
+      "number": "193",
+      "destination": "Ursynów Płn. 06"
+    },
+    {
+      "number": "194",
+      "destination": "PKP Gołąbki 01"
+    },
+    {
+      "number": "194",
+      "destination": "Cm.Wolski 08"
+    },
+    {
+      "number": "195",
+      "destination": "pl.Trzech Krzyży 08"
+    },
+    {
+      "number": "195",
+      "destination": "Natolin Płn. 06"
+    },
+    {
+      "number": "196",
+      "destination": "Rembertów-Kolonia 02"
+    },
+    {
+      "number": "196",
+      "destination": "Rembertów-Kolonia 03"
+    },
+    {
+      "number": "197",
+      "destination": "Gwiaździsta 05"
+    },
+    {
+      "number": "197",
+      "destination": "Ursus-Niedźwiadek 01"
+    },
+    {
+      "number": "198",
+      "destination": "PKP Wesoła 01"
+    },
+    {
+      "number": "198",
+      "destination": "Stara Miłosna (Ułańska) 04"
+    },
+    {
+      "number": "199",
+      "destination": "Rembertów-Strzelnica 01"
+    },
+    {
+      "number": "199",
+      "destination": "Metro Trocka 07"
+    },
+    {
+      "number": "200",
+      "destination": "Dw.Centralny 30"
+    },
+    {
+      "number": "200",
+      "destination": "Pańska 01"
+    },
+    {
+      "number": "201",
+      "destination": "Znana 04"
+    },
+    {
+      "number": "201",
+      "destination": "Nowe Bemowo 15"
+    },
+    {
+      "number": "202",
+      "destination": "Gocławek Wschodni 02"
+    },
+    {
+      "number": "202",
+      "destination": "Metro Stadion Narodowy 07"
+    },
+    {
+      "number": "203",
+      "destination": "Fort Wawrzyszew 01"
+    },
+    {
+      "number": "203",
+      "destination": "Metro Młociny 17"
+    },
+    {
+      "number": "204",
+      "destination": "os.Derby 02"
+    },
+    {
+      "number": "204",
+      "destination": "PKP Praga 01"
+    },
+    {
+      "number": "207",
+      "destination": "Regulska 02"
+    },
+    {
+      "number": "207",
+      "destination": "Skorosze 01"
+    },
+    {
+      "number": "208",
+      "destination": "Bitwy Warszawskiej 1920 r. 10"
+    },
+    {
+      "number": "209",
+      "destination": "Ursynów Płd. 06"
+    },
+    {
+      "number": "209",
+      "destination": "Dawidy 03"
+    },
+    {
+      "number": "210",
+      "destination": "Metro Młociny 19"
+    },
+    {
+      "number": "210",
+      "destination": "Skibińskiego 01"
+    },
+    {
+      "number": "211",
+      "destination": "Żerań FSO 09"
+    },
+    {
+      "number": "211",
+      "destination": "Buków 01"
+    },
+    {
+      "number": "212",
+      "destination": "pl.Hallera 11"
+    },
+    {
+      "number": "212",
+      "destination": "CH Targówek 05"
+    },
+    {
+      "number": "213",
+      "destination": "Gocław 04"
+    },
+    {
+      "number": "213",
+      "destination": "Błota 03"
+    },
+    {
+      "number": "217",
+      "destination": "Sarmacka 02"
+    },
+    {
+      "number": "217",
+      "destination": "Metro Wilanowska 09"
+    },
+    {
+      "number": "218",
+      "destination": "Metro Wilanowska 10"
+    },
+    {
+      "number": "218",
+      "destination": "Królikarnia 02"
+    },
+    {
+      "number": "219",
+      "destination": "Gocław 04"
+    },
+    {
+      "number": "219",
+      "destination": "PKP Radość 04"
+    },
+    {
+      "number": "220",
+      "destination": "Nowe Bemowo 12"
+    },
+    {
+      "number": "220",
+      "destination": "P+R Al.Krakowska 11"
+    },
+    {
+      "number": "221",
+      "destination": "Dw.Gdański (Rydygiera) 01"
+    },
+    {
+      "number": "221",
+      "destination": "pl.Niemena 02"
+    },
+    {
+      "number": "222",
+      "destination": "Bielańska 01"
+    },
+    {
+      "number": "222",
+      "destination": "Spartańska 02"
+    },
+    {
+      "number": "225",
+      "destination": "Gocław 04"
+    },
+    {
+      "number": "225",
+      "destination": "PKP Mokry Ług 02"
+    },
+    {
+      "number": "228",
+      "destination": "Sasanki 02"
+    },
+    {
+      "number": "228",
+      "destination": "Ursus-Ratusz 03"
+    },
+    {
+      "number": "234",
+      "destination": "Augustów 02"
+    },
+    {
+      "number": "234",
+      "destination": "Żerań Wschodni 04"
+    },
+    {
+      "number": "239",
+      "destination": "Ursynów Płd. 06"
+    },
+    {
+      "number": "239",
+      "destination": "Krasnowola 51"
+    },
+    {
+      "number": "240",
+      "destination": "Pustelnik 03"
+    },
+    {
+      "number": "240",
+      "destination": "Żerań FSO 11"
+    },
+    {
+      "number": "245",
+      "destination": "Maczka 03"
+    },
+    {
+      "number": "245",
+      "destination": "Metro Trocka 08"
+    },
+    {
+      "number": "249",
+      "destination": "os.Górczewska 08"
+    },
+    {
+      "number": "250",
+      "destination": "Dąbrowa Zachodnia 01"
+    },
+    {
+      "number": "250",
+      "destination": "Metro Młociny 22"
+    },
+    {
+      "number": "251",
+      "destination": "CH Stara Papiernia 01"
+    },
+    {
+      "number": "251",
+      "destination": "Metro Wilanowska 14"
+    },
+    {
+      "number": "255",
+      "destination": "rondo Daszyńskiego 02"
+    },
+    {
+      "number": "255",
+      "destination": "Cm.Wolski 07"
+    },
+    {
+      "number": "256",
+      "destination": "PKP Zacisze-Wilno 04"
+    },
+    {
+      "number": "256",
+      "destination": "Zaułek-Szkoła 02"
+    },
+    {
+      "number": "262",
+      "destination": "Lewinów 03"
+    },
+    {
+      "number": "262",
+      "destination": "Metro Trocka 14"
+    },
+    {
+      "number": "264",
+      "destination": "Wilanów 03"
+    },
+    {
+      "number": "264",
+      "destination": "Kępa Okrzewska-Cmentarz 01"
+    },
+    {
+      "number": "269",
+      "destination": "Metro Targówek Mieszkaniowy 02"
+    },
+    {
+      "number": "269",
+      "destination": "Bródno-Podgrodzie 03"
+    },
+    {
+      "number": "300",
+      "destination": "Tor Służewiec 01"
+    },
+    {
+      "number": "300",
+      "destination": "Metro Wilanowska 11"
+    },
+    {
+      "number": "303",
+      "destination": "Cm.Północny-Brama Gł. 03"
+    },
+    {
+      "number": "303",
+      "destination": "pl.Wilsona 18"
+    },
+    {
+      "number": "304",
+      "destination": "Podwójna 02"
+    },
+    {
+      "number": "304",
+      "destination": "Brzeziny 01"
+    },
+    {
+      "number": "305",
+      "destination": "PKP Międzylesie 04"
+    },
+    {
+      "number": "305",
+      "destination": "Strusia 01"
+    },
+    {
+      "number": "308",
+      "destination": "Domaniewska Office Park 01"
+    },
+    {
+      "number": "308",
+      "destination": "Park Postępu 02"
+    },
+    {
+      "number": "311",
+      "destination": "Gocław 05"
+    },
+    {
+      "number": "311",
+      "destination": "Praga-Płd.-Ratusz 02"
+    },
+    {
+      "number": "314",
+      "destination": "Olesin 01"
+    },
+    {
+      "number": "314",
+      "destination": "Tarchomin 09"
+    },
+    {
+      "number": "317",
+      "destination": "Wilanów 06"
+    },
+    {
+      "number": "317",
+      "destination": "P+R Al.Krakowska 10"
+    },
+    {
+      "number": "320",
+      "destination": "Fort Radiowo 01"
+    },
+    {
+      "number": "320",
+      "destination": "Groty 01"
+    },
+    {
+      "number": "323",
+      "destination": "Powsinek 04"
+    },
+    {
+      "number": "323",
+      "destination": "Oś Królewska 01"
+    },
+    {
+      "number": "326",
+      "destination": "Olesin 01"
+    },
+    {
+      "number": "326",
+      "destination": "Metro Marymont 14"
+    },
+    {
+      "number": "328",
+      "destination": "Osmańska-DHL 01"
+    },
+    {
+      "number": "328",
+      "destination": "Popularna 01"
+    },
+    {
+      "number": "331",
+      "destination": "Terminal Autokarowy 01"
+    },
+    {
+      "number": "331",
+      "destination": "Metro Wilanowska 11"
+    },
+    {
+      "number": "332",
+      "destination": "Podwójna 02"
+    },
+    {
+      "number": "332",
+      "destination": "Juranda ze Spychowa-szkoła 04"
+    },
+    {
+      "number": "338",
+      "destination": "pl.Hallera 18"
+    },
+    {
+      "number": "338",
+      "destination": "Utrata 01"
+    },
+    {
+      "number": "339",
+      "destination": "os.Kabaty 03"
+    },
+    {
+      "number": "339",
+      "destination": "Metro Wilanowska 14"
+    },
+    {
+      "number": "340",
+      "destination": "Metro Trocka 13"
+    },
+    {
+      "number": "340",
+      "destination": "Pustelnik 03"
+    },
+    {
+      "number": "365",
+      "destination": "Bokserska 05"
+    },
+    {
+      "number": "365",
+      "destination": "Metro Wilanowska 10"
+    },
+    {
+      "number": "379",
+      "destination": "Wilanów 07"
+    },
+    {
+      "number": "401",
+      "destination": "Ursus-Niedźwiadek 02"
+    },
+    {
+      "number": "401",
+      "destination": "Metro Służew 03"
+    },
+    {
+      "number": "402",
+      "destination": "Marysin 04"
+    },
+    {
+      "number": "402",
+      "destination": "Wynalazek 04"
+    },
+    {
+      "number": "409",
+      "destination": "Bródno-Podgrodzie 04"
+    },
+    {
+      "number": "409",
+      "destination": "Cm.Północny-Brama Zach. 02"
+    },
+    {
+      "number": "411",
+      "destination": "Stara Miłosna (Graniczna) 05"
+    },
+    {
+      "number": "411",
+      "destination": "Metro Politechnika 12"
+    },
+    {
+      "number": "412",
+      "destination": "Dw.Wschodni (Kijowska) 13"
+    },
+    {
+      "number": "412",
+      "destination": "Grodzisk 06"
+    },
+    {
+      "number": "414",
+      "destination": "Szczęśliwice 03"
+    },
+    {
+      "number": "414",
+      "destination": "Bródno-Podgrodzie 06"
+    },
+    {
+      "number": "500",
+      "destination": "Bródno-Podgrodzie 04"
+    },
+    {
+      "number": "500",
+      "destination": "rondo \"Radosława\" 04"
+    },
+    {
+      "number": "501",
+      "destination": "Dw.Centralny 27"
+    },
+    {
+      "number": "501",
+      "destination": "Stegny 03"
+    },
+    {
+      "number": "502",
+      "destination": "Stara Miłosna (Graniczna) 05"
+    },
+    {
+      "number": "502",
+      "destination": "Metro Politechnika 12"
+    },
+    {
+      "number": "503",
+      "destination": "Natolin Płn. 22"
+    },
+    {
+      "number": "503",
+      "destination": "Konwiktorska 04"
+    },
+    {
+      "number": "504",
+      "destination": "os.Kabaty 01"
+    },
+    {
+      "number": "504",
+      "destination": "Dw.Centralny 29"
+    },
+    {
+      "number": "507",
+      "destination": "Gocław 02"
+    },
+    {
+      "number": "507",
+      "destination": "Dw.Centralny 16"
+    },
+    {
+      "number": "509",
+      "destination": "Nowodwory 10"
+    },
+    {
+      "number": "509",
+      "destination": "Gocław 03"
+    },
+    {
+      "number": "511",
+      "destination": "Metro Młociny 18"
+    },
+    {
+      "number": "511",
+      "destination": "Dąbrówka Wiślana 01"
+    },
+    {
+      "number": "512",
+      "destination": "Dw.Wschodni (Kijowska) 13"
+    },
+    {
+      "number": "512",
+      "destination": "Gilarska 04"
+    },
+    {
+      "number": "514",
+      "destination": "Wola Grzybowska 03"
+    },
+    {
+      "number": "514",
+      "destination": "Metro Politechnika 14"
+    },
+    {
+      "number": "516",
+      "destination": "Żerań FSO 09"
+    },
+    {
+      "number": "516",
+      "destination": "Nowodwory 07"
+    },
+    {
+      "number": "517",
+      "destination": "Ursus-Niedźwiadek 02"
+    },
+    {
+      "number": "517",
+      "destination": "Centrum 03"
+    },
+    {
+      "number": "518",
+      "destination": "pl.Trzech Krzyży 07"
+    },
+    {
+      "number": "518",
+      "destination": "Nowodwory 08"
+    },
+    {
+      "number": "519",
+      "destination": "Dw.Centralny 27"
+    },
+    {
+      "number": "519",
+      "destination": "Powsin-Park Kultury 01"
+    },
+    {
+      "number": "520",
+      "destination": "Marysin 03"
+    },
+    {
+      "number": "520",
+      "destination": "pl.Bankowy 02"
+    },
+    {
+      "number": "521",
+      "destination": "Falenica 03"
+    },
+    {
+      "number": "521",
+      "destination": "Szczęśliwice 03"
+    },
+    {
+      "number": "522",
+      "destination": "Branickiego 03"
+    },
+    {
+      "number": "522",
+      "destination": "Dw.Centralny 27"
+    },
+    {
+      "number": "523",
+      "destination": "Stare Bemowo 02"
+    },
+    {
+      "number": "523",
+      "destination": "PKP Olszynka Grochowska 05"
+    },
+    {
+      "number": "525",
+      "destination": "Dw.Centralny 21"
+    },
+    {
+      "number": "525",
+      "destination": "Międzylesie 01"
+    },
+    {
+      "number": "527",
+      "destination": "Grodzisk 06"
+    },
+    {
+      "number": "527",
+      "destination": "Metro Targówek Mieszkaniowy 01"
+    },
+    {
+      "number": "702",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "702",
+      "destination": "Orla 02"
+    },
+    {
+      "number": "703",
+      "destination": "Kosów 01"
+    },
+    {
+      "number": "703",
+      "destination": "P+R Al.Krakowska 15"
+    },
+    {
+      "number": "704",
+      "destination": "PKP Halinów 01"
+    },
+    {
+      "number": "704",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "705",
+      "destination": "Rynia 01"
+    },
+    {
+      "number": "705",
+      "destination": "Metro Marymont 11"
+    },
+    {
+      "number": "706",
+      "destination": "pl.Szwedzki 01"
+    },
+    {
+      "number": "706",
+      "destination": "P+R Al.Krakowska 16"
+    },
+    {
+      "number": "707",
+      "destination": "Targowisko 01"
+    },
+    {
+      "number": "707",
+      "destination": "P+R Al.Krakowska 13"
+    },
+    {
+      "number": "709",
+      "destination": "Targowisko 53"
+    },
+    {
+      "number": "709",
+      "destination": "Metro Wilanowska 12"
+    },
+    {
+      "number": "710",
+      "destination": "Targowisko 01"
+    },
+    {
+      "number": "710",
+      "destination": "os.Kabaty 05"
+    },
+    {
+      "number": "711",
+      "destination": "P+R Al.Krakowska 15"
+    },
+    {
+      "number": "711",
+      "destination": "P+R Nadarzyn 01"
+    },
+    {
+      "number": "712",
+      "destination": "Rynek 01"
+    },
+    {
+      "number": "712",
+      "destination": "Metro Młociny 23"
+    },
+    {
+      "number": "713",
+      "destination": "Cm.Wolski 06"
+    },
+    {
+      "number": "713",
+      "destination": "AGRICOOP 01"
+    },
+    {
+      "number": "714",
+      "destination": "Metro Księcia Janusza 01"
+    },
+    {
+      "number": "714",
+      "destination": "Koczargi Stare 02"
+    },
+    {
+      "number": "715",
+      "destination": "P+R Al.Krakowska 13"
+    },
+    {
+      "number": "715",
+      "destination": "Ursynów Płn. 05"
+    },
+    {
+      "number": "716",
+      "destination": "Cm.Wolski 08"
+    },
+    {
+      "number": "716",
+      "destination": "Ogińskiego 02"
+    },
+    {
+      "number": "717",
+      "destination": "Ogińskiego 02"
+    },
+    {
+      "number": "717",
+      "destination": "Dw.Zachodni 06"
+    },
+    {
+      "number": "719",
+      "destination": "Metro Księcia Janusza 01"
+    },
+    {
+      "number": "719",
+      "destination": "Leszno 02"
+    },
+    {
+      "number": "720",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "720",
+      "destination": "Rzakta 01"
+    },
+    {
+      "number": "721",
+      "destination": "Kosów 01"
+    },
+    {
+      "number": "721",
+      "destination": "P+R Al.Krakowska 14"
+    },
+    {
+      "number": "722",
+      "destination": "Orla 02"
+    },
+    {
+      "number": "722",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "723",
+      "destination": "PKP Legionowo Przystanek 01"
+    },
+    {
+      "number": "723",
+      "destination": "Żerań FSO 10"
+    },
+    {
+      "number": "724",
+      "destination": "Gerbera 02"
+    },
+    {
+      "number": "724",
+      "destination": "os.Kabaty 06"
+    },
+    {
+      "number": "727",
+      "destination": "Głosków-Szkoła 01"
+    },
+    {
+      "number": "727",
+      "destination": "Metro Wilanowska 12"
+    },
+    {
+      "number": "728",
+      "destination": "Złotokłos 02"
+    },
+    {
+      "number": "728",
+      "destination": "P+R Al.Krakowska 14"
+    },
+    {
+      "number": "729",
+      "destination": "Mariew 01"
+    },
+    {
+      "number": "729",
+      "destination": "Metro Księcia Janusza 01"
+    },
+    {
+      "number": "730",
+      "destination": "Brzeziny 01"
+    },
+    {
+      "number": "730",
+      "destination": "Wiatraczna 23"
+    },
+    {
+      "number": "731",
+      "destination": "Żerań FSO 10"
+    },
+    {
+      "number": "731",
+      "destination": "Starostwo Powiatowe 01"
+    },
+    {
+      "number": "733",
+      "destination": "P+R Al.Krakowska 15"
+    },
+    {
+      "number": "733",
+      "destination": "Młochów 01"
+    },
+    {
+      "number": "735",
+      "destination": "Metro Marymont 11"
+    },
+    {
+      "number": "735",
+      "destination": "Zegrze Płd. 03"
+    },
+    {
+      "number": "736",
+      "destination": "Żerań FSO 11"
+    },
+    {
+      "number": "736",
+      "destination": "Mickiewicza 02"
+    },
+    {
+      "number": "737",
+      "destination": "Ursynów Płn. 05"
+    },
+    {
+      "number": "737",
+      "destination": "Cm.Południowy-Brama Płd. 01"
+    },
+    {
+      "number": "738",
+      "destination": "Metro Trocka 09"
+    },
+    {
+      "number": "738",
+      "destination": "Traugutta 02"
+    },
+    {
+      "number": "739",
+      "destination": "Julianowska-Cmentarz 01"
+    },
+    {
+      "number": "739",
+      "destination": "Metro Wilanowska 11"
+    },
+    {
+      "number": "742",
+      "destination": "os.Kabaty 06"
+    },
+    {
+      "number": "742",
+      "destination": "Rynek 01"
+    },
+    {
+      "number": "743",
+      "destination": "Cm.Wolski 06"
+    },
+    {
+      "number": "743",
+      "destination": "Wolica k.Płochocina 01"
+    },
+    {
+      "number": "750",
+      "destination": "Metro Młociny 21"
+    },
+    {
+      "number": "750",
+      "destination": "Palmiry 02"
+    },
+    {
+      "number": "800",
+      "destination": "Palmiry-Muzeum 02"
+    },
+    {
+      "number": "800",
+      "destination": "Metro Młociny 20"
+    },
+    {
+      "number": "809",
+      "destination": "Ursynów Płd. 06"
+    },
+    {
+      "number": "809",
+      "destination": "PKP Jeziorki 04"
+    },
+    {
+      "number": "850",
+      "destination": "Żeromskiego 01"
+    },
+    {
+      "number": "850",
+      "destination": "Cybulice Duże 02"
+    },
+    {
+      "number": "900",
+      "destination": "Poetów 02"
+    },
+    {
+      "number": "900",
+      "destination": "Chlubna 02"
+    },
+    {
+      "number": "E-1",
+      "destination": "Gocław 02"
+    },
+    {
+      "number": "E-1",
+      "destination": "Metro Stadion Narodowy 02"
+    },
+    {
+      "number": "E-9",
+      "destination": "os.Derby 01"
+    },
+    {
+      "number": "E-9",
+      "destination": "Metro Marymont 11"
+    },
+    {
+      "number": "Z-2",
+      "destination": "Nowodwory 07"
+    },
+    {
+      "number": "Z-2",
+      "destination": "Mehoffera 02"
+    },
+    {
+      "number": "Z23",
+      "destination": "Nowe Bemowo 10"
+    },
+    {
+      "number": "Z23",
+      "destination": "Okopowa 02"
+    },
+    {
+      "number": "L-1",
+      "destination": "pl.Szwedzki 01"
+    },
+    {
+      "number": "L-1",
+      "destination": "PKP Piaseczno 04"
+    },
+    {
+      "number": "L-2",
+      "destination": "Złotokłos 02"
+    },
+    {
+      "number": "L-2",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L-3",
+      "destination": "Jastrzębiec 01"
+    },
+    {
+      "number": "L-3",
+      "destination": "PKP Piaseczno 04"
+    },
+    {
+      "number": "L-4",
+      "destination": "Mysiadło 04"
+    },
+    {
+      "number": "L-4",
+      "destination": "Cm.Południowy-Brama Płd. 01"
+    },
+    {
+      "number": "L-5",
+      "destination": "Bobrowiec 01"
+    },
+    {
+      "number": "L-5",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L-6",
+      "destination": "Stare Bemowo 06"
+    },
+    {
+      "number": "L-6",
+      "destination": "Pilaszków 51"
+    },
+    {
+      "number": "L-7",
+      "destination": "Dziekanów Leśny 01"
+    },
+    {
+      "number": "L-7",
+      "destination": "Starostwo 03"
+    },
+    {
+      "number": "L-8",
+      "destination": "PKP Dąbkowizna 01"
+    },
+    {
+      "number": "L-8",
+      "destination": "Mickiewicza 02"
+    },
+    {
+      "number": "L-9",
+      "destination": "Komornica-Szkoła 01"
+    },
+    {
+      "number": "L-9",
+      "destination": "PKP Legionowo 01"
+    },
+    {
+      "number": "L10",
+      "destination": "Komornica-Szkoła 01"
+    },
+    {
+      "number": "L10",
+      "destination": "PKP Legionowo 01"
+    },
+    {
+      "number": "L11",
+      "destination": "PKP Legionowo 01"
+    },
+    {
+      "number": "L11",
+      "destination": "Urząd Miasta 01"
+    },
+    {
+      "number": "L12",
+      "destination": "POD Szczaki 04"
+    },
+    {
+      "number": "L12",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L13",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L13",
+      "destination": "PKP Zalesie Górne 01"
+    },
+    {
+      "number": "L14",
+      "destination": "Bielawa-Pętla 01"
+    },
+    {
+      "number": "L14",
+      "destination": "Gassy-Pętla 01"
+    },
+    {
+      "number": "L15",
+      "destination": "Słomczyn-Szkoła 02"
+    },
+    {
+      "number": "L15",
+      "destination": "Klarysew 03"
+    },
+    {
+      "number": "L16",
+      "destination": "Czarnów 02"
+    },
+    {
+      "number": "L16",
+      "destination": "Bielawa-Pętla 01"
+    },
+    {
+      "number": "L17",
+      "destination": "Urząd Gminy 02"
+    },
+    {
+      "number": "L17",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L18",
+      "destination": "Skibińskiego 01"
+    },
+    {
+      "number": "L18",
+      "destination": "Rynek 02"
+    },
+    {
+      "number": "L19",
+      "destination": "Akacjowa 01"
+    },
+    {
+      "number": "L19",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L20",
+      "destination": "Kupiecka 01"
+    },
+    {
+      "number": "L20",
+      "destination": "Rzakta 01"
+    },
+    {
+      "number": "L21",
+      "destination": "Klarysew 03"
+    },
+    {
+      "number": "L21",
+      "destination": "Rynek 01"
+    },
+    {
+      "number": "L23",
+      "destination": "Jasna 02"
+    },
+    {
+      "number": "L23",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L24",
+      "destination": "Chylice 01"
+    },
+    {
+      "number": "L24",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L25",
+      "destination": "Zgoda 01"
+    },
+    {
+      "number": "L25",
+      "destination": "Rynek 01"
+    },
+    {
+      "number": "L26",
+      "destination": "pl.Jana Pawła II 01"
+    },
+    {
+      "number": "L26",
+      "destination": "rondo Cudu Nad Wisłą 02"
+    },
+    {
+      "number": "L27",
+      "destination": "Turów 04"
+    },
+    {
+      "number": "L27",
+      "destination": "Nowa 01"
+    },
+    {
+      "number": "L28",
+      "destination": "Baniocha-Centrum 02"
+    },
+    {
+      "number": "L28",
+      "destination": "Klarysew 03"
+    },
+    {
+      "number": "L29",
+      "destination": "Kampinos 01"
+    },
+    {
+      "number": "L29",
+      "destination": "Leszno 02"
+    },
+    {
+      "number": "L30",
+      "destination": "Czarny Las 01"
+    },
+    {
+      "number": "L30",
+      "destination": "Rynek 01"
+    },
+    {
+      "number": "L31",
+      "destination": "pl.Wolności 01"
+    },
+    {
+      "number": "L31",
+      "destination": "Głowackiego 01"
+    },
+    {
+      "number": "L32",
+      "destination": "Grochowa 01"
+    },
+    {
+      "number": "L32",
+      "destination": "Pańska 01"
+    },
+    {
+      "number": "L34",
+      "destination": "PKP Legionowo 01"
+    },
+    {
+      "number": "L34",
+      "destination": "Olszewnica Stara 01"
+    },
+    {
+      "number": "L35",
+      "destination": "Stare Grabie 01"
+    },
+    {
+      "number": "L35",
+      "destination": "Szpital Powiatowy 52"
+    },
+    {
+      "number": "L36",
+      "destination": "PKP Zagościniec 01"
+    },
+    {
+      "number": "L36",
+      "destination": "Sokola 01"
+    },
+    {
+      "number": "L37",
+      "destination": "Szpital Powiatowy 52"
+    },
+    {
+      "number": "L37",
+      "destination": "Turów 04"
+    },
+    {
+      "number": "L38",
+      "destination": "Majdan 02"
+    },
+    {
+      "number": "L38",
+      "destination": "Szpital Powiatowy 52"
+    },
+    {
+      "number": "L39",
+      "destination": "PKP Jeziorki 04"
+    },
+    {
+      "number": "L39",
+      "destination": "Szpital 02"
+    },
+    {
+      "number": "L40",
+      "destination": "Cmentarz Marki 01"
+    },
+    {
+      "number": "L40",
+      "destination": "Legionów 51"
+    },
+    {
+      "number": "L41",
+      "destination": "PKP Legionowo 01"
+    },
+    {
+      "number": "L41",
+      "destination": "Urząd Miasta 01"
+    },
+    {
+      "number": "L42",
+      "destination": "Słomczyn-Szkoła 02"
+    },
+    {
+      "number": "L42",
+      "destination": "Klarysew 03"
+    },
+    {
+      "number": "L43",
+      "destination": "11 Listopada 01"
+    },
+    {
+      "number": "L43",
+      "destination": "CH Marki 02"
+    },
+    {
+      "number": "L44",
+      "destination": "Turów 04"
+    },
+    {
+      "number": "L44",
+      "destination": "11 Listopada 01"
+    },
+    {
+      "number": "L45",
+      "destination": "PKP Dąbkowizna 01"
+    },
+    {
+      "number": "L45",
+      "destination": "CH Marki 02"
+    },
+    {
+      "number": "L46",
+      "destination": "11 Listopada 01"
+    },
+    {
+      "number": "L46",
+      "destination": "CH Marki 02"
+    },
+    {
+      "number": "L47",
+      "destination": "Sulejówek Miłosna-Pomnik 01"
+    },
+    {
+      "number": "L47",
+      "destination": "Łomżyńska 01"
+    },
+    {
+      "number": "L48",
+      "destination": "PKP Sulejówek Miłosna 03"
+    },
+    {
+      "number": "L48",
+      "destination": "Michałówek 01"
+    },
+    {
+      "number": "L49",
+      "destination": "Chotomów 01"
+    },
+    {
+      "number": "L49",
+      "destination": "Dąbrówka Wiślana 02"
+    },
+    {
+      "number": "L52",
+      "destination": "Grochowa 01"
+    },
+    {
+      "number": "L52",
+      "destination": "Pańska 01"
+    }
+  ]
+}

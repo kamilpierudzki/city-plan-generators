@@ -5,18 +5,9 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-# Docs to the scrapers
-# https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-# https://docs.python-requests.org/en/master/
+from commons import CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, OUTPUT_DIR, \
+    VEHICLE_NUMBER_ATTR, VEHICLE_DESTINATION_ATTR, create_json_file
 
-CITY_ATTR = "city"
-TIMESTAMP_ATTR = "lastUpdateTimestampInMillis"
-APP_VERSION_ATTR = "appVersion"
-READABLE_TIME_ATTR = "humanReadableLastUpdateTimestamp"
-TRAMS_ATTR = "trams"
-BUSES_ATTR = "buses"
-
-OUTPUT_DIR = "output"
 JSON_FILE_NAME = "warszawa.json"
 
 
@@ -38,7 +29,7 @@ def warszawa():
     }
 
     raw_json = json.dumps(json_dict, ensure_ascii=False)
-    create_json_file(raw_json)
+    create_json_file(raw_json, JSON_FILE_NAME)
 
 
 def get_vehicle_types_dicts():
@@ -185,28 +176,18 @@ def read_inactive_direction_from_link(link):
 
 
 def get_vehicle_data(vehicle_data_dict):
-    number = "number"
-    destination = "destination"
     _vehicle_data = []
     for key in vehicle_data_dict:
         _vehicle_active_direction, _vehicle_inactive_direction = get_directions(vehicle_data_dict[key])
         _number = key
-        row_active = {number: _number, destination: _vehicle_active_direction}
+        row_active = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_active_direction}
         _vehicle_data.append(row_active)
         print(row_active)
         if _vehicle_inactive_direction is not None:
-            row_inactive = {number: _number, destination: _vehicle_inactive_direction}
+            row_inactive = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_inactive_direction}
             _vehicle_data.append(row_inactive)
             print(row_inactive)
     return _vehicle_data
-
-
-def create_json_file(raw_json):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    relative_path = os.path.join(OUTPUT_DIR, JSON_FILE_NAME)
-    f = open(relative_path, "w")
-    f.write(raw_json)
-    f.close()
 
 
 if __name__ == '__main__':

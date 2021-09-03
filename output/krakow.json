@@ -1,0 +1,1650 @@
+{
+  "city": "Kraków",
+  "lastUpdateTimestampInMillis": 1630678008,
+  "humanReadableLastUpdateTimestamp": "03-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "0",
+      "destination": "Dajwór"
+    },
+    {
+      "number": "0",
+      "destination": "Cichy Kącik"
+    },
+    {
+      "number": "1",
+      "destination": "Wzgórza Krzesławickie"
+    },
+    {
+      "number": "1",
+      "destination": "Salwator"
+    },
+    {
+      "number": "2",
+      "destination": "Salwator"
+    },
+    {
+      "number": "2",
+      "destination": "Cmentarz Rakowicki"
+    },
+    {
+      "number": "3",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "3",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "4",
+      "destination": "Kopiec Wandy"
+    },
+    {
+      "number": "4",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "5",
+      "destination": "Wzgórza Krzesławickie"
+    },
+    {
+      "number": "5",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "6",
+      "destination": "Kurdwanów P+R"
+    },
+    {
+      "number": "6",
+      "destination": "Cichy Kącik"
+    },
+    {
+      "number": "8",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "8",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "9",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "9",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "10",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "10",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "11",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "11",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "13",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "13",
+      "destination": "Bronowice"
+    },
+    {
+      "number": "14",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "14",
+      "destination": "Bronowice"
+    },
+    {
+      "number": "16",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "16",
+      "destination": "Bardosa"
+    },
+    {
+      "number": "18",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "18",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "19",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "19",
+      "destination": "Dworzec Towarowy"
+    },
+    {
+      "number": "20",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "20",
+      "destination": "Cichy Kącik"
+    },
+    {
+      "number": "21",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "21",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "22",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "22",
+      "destination": "Kopiec Wandy"
+    },
+    {
+      "number": "24",
+      "destination": "Kurdwanów P+R"
+    },
+    {
+      "number": "24",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "49",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "49",
+      "destination": "TAURON Arena Kraków Wieczysta"
+    },
+    {
+      "number": "50",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "50",
+      "destination": "Kurdwanów P+R"
+    },
+    {
+      "number": "52",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "52",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "62",
+      "destination": "Plac Centralny im. R.Reagana"
+    },
+    {
+      "number": "62",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "64",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "64",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "69",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "69",
+      "destination": "Krowodrza Górka"
+    }
+  ],
+  "buses": [
+    {
+      "number": "100",
+      "destination": "Salwator"
+    },
+    {
+      "number": "100",
+      "destination": "Kopiec Kościuszki"
+    },
+    {
+      "number": "101",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "101",
+      "destination": "Kopiec Kościuszki"
+    },
+    {
+      "number": "102",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "102",
+      "destination": "Bielany"
+    },
+    {
+      "number": "103",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "103",
+      "destination": "Lesisko"
+    },
+    {
+      "number": "105",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "105",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "106",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "106",
+      "destination": "Skotniki Szkoła"
+    },
+    {
+      "number": "107",
+      "destination": "Zajezdnia Wola Duchacka"
+    },
+    {
+      "number": "107",
+      "destination": "Soboniowice"
+    },
+    {
+      "number": "109",
+      "destination": "Cracovia Stadion"
+    },
+    {
+      "number": "109",
+      "destination": "Bielany"
+    },
+    {
+      "number": "110",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "110",
+      "destination": "Węgrzynowice"
+    },
+    {
+      "number": "111",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "111",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "112",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "112",
+      "destination": "Tyniec Kamieniołom"
+    },
+    {
+      "number": "113",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "113",
+      "destination": "EC Łęg"
+    },
+    {
+      "number": "114",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "114",
+      "destination": "Chełmońskiego Pętla"
+    },
+    {
+      "number": "116",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "116",
+      "destination": "Kozienicka"
+    },
+    {
+      "number": "117",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "117",
+      "destination": "Łuczanowice"
+    },
+    {
+      "number": "120",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "120",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "121",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "121",
+      "destination": "Kliny Poranne"
+    },
+    {
+      "number": "122",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "122",
+      "destination": "Zesławice"
+    },
+    {
+      "number": "123",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "123",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "124",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "124",
+      "destination": "TAURON Arena Kraków Wieczysta"
+    },
+    {
+      "number": "125",
+      "destination": "Szpital Rydygiera"
+    },
+    {
+      "number": "125",
+      "destination": "Złocień"
+    },
+    {
+      "number": "127",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "127",
+      "destination": "Bagry"
+    },
+    {
+      "number": "128",
+      "destination": "Zajezdnia Płaszów"
+    },
+    {
+      "number": "128",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "129",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "129",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "130",
+      "destination": "Azory"
+    },
+    {
+      "number": "130",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "131",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "131",
+      "destination": "Chałupki"
+    },
+    {
+      "number": "133",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "133",
+      "destination": "Bieżanów Potrzask"
+    },
+    {
+      "number": "134",
+      "destination": "Cracovia Stadion"
+    },
+    {
+      "number": "134",
+      "destination": "ZOO"
+    },
+    {
+      "number": "135",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "135",
+      "destination": "Golkowice Pętla"
+    },
+    {
+      "number": "136",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "136",
+      "destination": "Pod Fortem"
+    },
+    {
+      "number": "137",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "137",
+      "destination": "Górka Narodowa Wschód"
+    },
+    {
+      "number": "138",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "138",
+      "destination": "Azory"
+    },
+    {
+      "number": "139",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "139",
+      "destination": "Mydlniki Wapiennik P+R"
+    },
+    {
+      "number": "140",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "140",
+      "destination": "Radzikowskiego Osiedle"
+    },
+    {
+      "number": "141",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "141",
+      "destination": "Przylasek Rusiecki"
+    },
+    {
+      "number": "142",
+      "destination": "Cmentarz Batowice"
+    },
+    {
+      "number": "142",
+      "destination": "Os. Na Stoku"
+    },
+    {
+      "number": "143",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "143",
+      "destination": "Bieżanów"
+    },
+    {
+      "number": "144",
+      "destination": "Rżąka"
+    },
+    {
+      "number": "144",
+      "destination": "Azory"
+    },
+    {
+      "number": "148",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "148",
+      "destination": "Walcownia"
+    },
+    {
+      "number": "149",
+      "destination": "Szpital Okulistyczny"
+    },
+    {
+      "number": "149",
+      "destination": "Lesisko"
+    },
+    {
+      "number": "151",
+      "destination": "Judyma Szkoła"
+    },
+    {
+      "number": "151",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "152",
+      "destination": "Plac Centralny im. R.Reagana"
+    },
+    {
+      "number": "152",
+      "destination": "Cmentarz Olszanica"
+    },
+    {
+      "number": "153",
+      "destination": "Nowy Bieżanów Południe"
+    },
+    {
+      "number": "153",
+      "destination": "Bieżanów Potrzask"
+    },
+    {
+      "number": "155",
+      "destination": "Zajezdnia Wola Duchacka"
+    },
+    {
+      "number": "155",
+      "destination": "Swoszowice Poczta"
+    },
+    {
+      "number": "156",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "156",
+      "destination": "Sidzina"
+    },
+    {
+      "number": "158",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "158",
+      "destination": "Podwierzbie"
+    },
+    {
+      "number": "159",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "159",
+      "destination": "Cichy Kącik"
+    },
+    {
+      "number": "160",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "160",
+      "destination": "Ruszcza"
+    },
+    {
+      "number": "161",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "161",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "162",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "162",
+      "destination": "Podgórki Tynieckie"
+    },
+    {
+      "number": "163",
+      "destination": "Rżąka"
+    },
+    {
+      "number": "163",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "164",
+      "destination": "Piaski Nowe"
+    },
+    {
+      "number": "164",
+      "destination": "Górka Narodowa"
+    },
+    {
+      "number": "165",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "165",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "168",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "168",
+      "destination": "Chełmońskiego Pętla"
+    },
+    {
+      "number": "169",
+      "destination": "Zajezdnia Wola Duchacka"
+    },
+    {
+      "number": "169",
+      "destination": "Górka Narodowa"
+    },
+    {
+      "number": "171",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "171",
+      "destination": "Wróżenice"
+    },
+    {
+      "number": "172",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "172",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "173",
+      "destination": "Nowy Bieżanów Południe"
+    },
+    {
+      "number": "173",
+      "destination": "Azory"
+    },
+    {
+      "number": "174",
+      "destination": "Os. Kurdwanów"
+    },
+    {
+      "number": "174",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "175",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "175",
+      "destination": "Nałkowskiej"
+    },
+    {
+      "number": "176",
+      "destination": "Kostrze OSP"
+    },
+    {
+      "number": "176",
+      "destination": "Bodzów"
+    },
+    {
+      "number": "178",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "178",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "179",
+      "destination": "Os. Kurdwanów"
+    },
+    {
+      "number": "179",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "181",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "181",
+      "destination": "Kujawy"
+    },
+    {
+      "number": "182",
+      "destination": "Os. Na Stoku"
+    },
+    {
+      "number": "182",
+      "destination": "Dworzec Główny Wschód"
+    },
+    {
+      "number": "183",
+      "destination": "Złocień"
+    },
+    {
+      "number": "183",
+      "destination": "Miejskie Centrum Opieki"
+    },
+    {
+      "number": "184",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "184",
+      "destination": "Starowiślna"
+    },
+    {
+      "number": "189",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "189",
+      "destination": "Cracovia Stadion"
+    },
+    {
+      "number": "192",
+      "destination": "Dworzec Główny Wschód"
+    },
+    {
+      "number": "192",
+      "destination": "Chełm"
+    },
+    {
+      "number": "193",
+      "destination": "Na Załęczu"
+    },
+    {
+      "number": "193",
+      "destination": "Rondo Barei"
+    },
+    {
+      "number": "194",
+      "destination": "Pod Fortem"
+    },
+    {
+      "number": "194",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "202",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "202",
+      "destination": "Łososkowice Remiza"
+    },
+    {
+      "number": "203",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "203",
+      "destination": "Skawina"
+    },
+    {
+      "number": "204",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "204",
+      "destination": "Wieliczka Miasto"
+    },
+    {
+      "number": "207",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "207",
+      "destination": "Trojanowice Pętla"
+    },
+    {
+      "number": "208",
+      "destination": "Dworzec Główny Wschód"
+    },
+    {
+      "number": "208",
+      "destination": "Kraków Airport"
+    },
+    {
+      "number": "209",
+      "destination": "Salwator"
+    },
+    {
+      "number": "209",
+      "destination": "Mników Skały"
+    },
+    {
+      "number": "210",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "210",
+      "destination": "Będkowice Pętla"
+    },
+    {
+      "number": "211",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "211",
+      "destination": "Chobot Leśniczówka"
+    },
+    {
+      "number": "212",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "212",
+      "destination": "Czulice Kościół"
+    },
+    {
+      "number": "213",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "213",
+      "destination": "Krzęcin Pętla"
+    },
+    {
+      "number": "214",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "214",
+      "destination": "Podstolice Centrum"
+    },
+    {
+      "number": "215",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "215",
+      "destination": "Rzeszotary Panciawa Pętla"
+    },
+    {
+      "number": "217",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "217",
+      "destination": "Węgrzce Pętla"
+    },
+    {
+      "number": "218",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "218",
+      "destination": "Zabierzów Młyn"
+    },
+    {
+      "number": "219",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "219",
+      "destination": "Jeziorzany Pętla"
+    },
+    {
+      "number": "220",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "220",
+      "destination": "Giebułtów Morgi"
+    },
+    {
+      "number": "221",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "221",
+      "destination": "Niepołomice Dworzec"
+    },
+    {
+      "number": "222",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "222",
+      "destination": "Słomniki Osiedle"
+    },
+    {
+      "number": "223",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "223",
+      "destination": "Brzeźnica Dworzec"
+    },
+    {
+      "number": "224",
+      "destination": "Centrum JP II"
+    },
+    {
+      "number": "224",
+      "destination": "Wieliczka Miasto"
+    },
+    {
+      "number": "225",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "225",
+      "destination": "Świątniki Górne Urząd Miasta i Gminy"
+    },
+    {
+      "number": "227",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "227",
+      "destination": "Górna Wieś Pętla"
+    },
+    {
+      "number": "228",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "228",
+      "destination": "Chrosna Pętla"
+    },
+    {
+      "number": "229",
+      "destination": "Salwator"
+    },
+    {
+      "number": "229",
+      "destination": "Kamień Szkoła"
+    },
+    {
+      "number": "230",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "230",
+      "destination": "Ujazd Pętla"
+    },
+    {
+      "number": "232",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "232",
+      "destination": "Goszcza Dworek"
+    },
+    {
+      "number": "234",
+      "destination": "Nowy Bieżanów Południe"
+    },
+    {
+      "number": "234",
+      "destination": "Węgrzce Wielkie Pętla"
+    },
+    {
+      "number": "235",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "235",
+      "destination": "Ochodza Odwiśle"
+    },
+    {
+      "number": "238",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "238",
+      "destination": "Młynka Pętla"
+    },
+    {
+      "number": "239",
+      "destination": "Salwator"
+    },
+    {
+      "number": "239",
+      "destination": "Wołowice Kapliczka"
+    },
+    {
+      "number": "240",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "240",
+      "destination": "Pękowice Ojcowska"
+    },
+    {
+      "number": "242",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "242",
+      "destination": "Krzysztoforzyce Pętla"
+    },
+    {
+      "number": "243",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "243",
+      "destination": "Skawina"
+    },
+    {
+      "number": "244",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "244",
+      "destination": "Wieliczka Miasto"
+    },
+    {
+      "number": "245",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "245",
+      "destination": "Skawina"
+    },
+    {
+      "number": "247",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "247",
+      "destination": "Bibice Rynek"
+    },
+    {
+      "number": "248",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "248",
+      "destination": "Zelków Pętla"
+    },
+    {
+      "number": "249",
+      "destination": "Salwator"
+    },
+    {
+      "number": "249",
+      "destination": "Czernichów Rynek"
+    },
+    {
+      "number": "250",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "250",
+      "destination": "Zastów Pętla"
+    },
+    {
+      "number": "252",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "252",
+      "destination": "Kraków Airport"
+    },
+    {
+      "number": "253",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "253",
+      "destination": "Wola Radziszowska Pętla"
+    },
+    {
+      "number": "254",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "254",
+      "destination": "Grabówki Pętla"
+    },
+    {
+      "number": "255",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "255",
+      "destination": "Gaj Zadziele"
+    },
+    {
+      "number": "257",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "257",
+      "destination": "Narama Remiza"
+    },
+    {
+      "number": "258",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "258",
+      "destination": "Nielepice Pętla"
+    },
+    {
+      "number": "259",
+      "destination": "Salwator"
+    },
+    {
+      "number": "259",
+      "destination": "Czernichów Rynek"
+    },
+    {
+      "number": "260",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "260",
+      "destination": "Pielgrzymowice Pętla"
+    },
+    {
+      "number": "262",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "262",
+      "destination": "Kocmyrzów-Luborzyca Urząd Gminy"
+    },
+    {
+      "number": "263",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "263",
+      "destination": "Radziszów PKP"
+    },
+    {
+      "number": "264",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "264",
+      "destination": "Grabie Kościół"
+    },
+    {
+      "number": "265",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "265",
+      "destination": "Konary Pętla"
+    },
+    {
+      "number": "267",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "267",
+      "destination": "Smardzowice Remiza"
+    },
+    {
+      "number": "268",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "268",
+      "destination": "Karniowice Pętla"
+    },
+    {
+      "number": "269",
+      "destination": "Salwator"
+    },
+    {
+      "number": "269",
+      "destination": "Czułówek Kapliczka"
+    },
+    {
+      "number": "270",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "270",
+      "destination": "Pielgrzymowice Pętla"
+    },
+    {
+      "number": "271",
+      "destination": "Pleszów"
+    },
+    {
+      "number": "271",
+      "destination": "Czulice Kościół"
+    },
+    {
+      "number": "273",
+      "destination": "Skawina SCK"
+    },
+    {
+      "number": "273",
+      "destination": "Grabie Pętla"
+    },
+    {
+      "number": "274",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "274",
+      "destination": "Trąbki P+R"
+    },
+    {
+      "number": "275",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "275",
+      "destination": "Włosań Centrum"
+    },
+    {
+      "number": "277",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "277",
+      "destination": "Iwanowice Dworskie Pętla"
+    },
+    {
+      "number": "278",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "278",
+      "destination": "Krzeszowice Dworzec Autobusowy"
+    },
+    {
+      "number": "280",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "280",
+      "destination": "Owczary Pętla"
+    },
+    {
+      "number": "283",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "283",
+      "destination": "Skawina"
+    },
+    {
+      "number": "285",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "285",
+      "destination": "Ochojno Remiza"
+    },
+    {
+      "number": "287",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "287",
+      "destination": "Zielonki Marszowiec Pętla"
+    },
+    {
+      "number": "293",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "293",
+      "destination": "Kopanka Pętla"
+    },
+    {
+      "number": "297",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "297",
+      "destination": "Boleń Pętla"
+    },
+    {
+      "number": "LR0",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "LR0",
+      "destination": "Ojców Zamek"
+    },
+    {
+      "number": "LR1",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "LR1",
+      "destination": "Niepołomice Puszcza"
+    },
+    {
+      "number": "LR2",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "LR2",
+      "destination": "Przylasek Rusiecki Kąpielisko"
+    },
+    {
+      "number": "LR6",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "LR6",
+      "destination": "Rudno Zamek"
+    },
+    {
+      "number": "LR9",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "LR9",
+      "destination": "Czerna Las"
+    },
+    {
+      "number": "301",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "301",
+      "destination": "Niepołomice Dworzec"
+    },
+    {
+      "number": "304",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "304",
+      "destination": "Wieliczka Miasto"
+    },
+    {
+      "number": "307",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "307",
+      "destination": "Michałowice P+R"
+    },
+    {
+      "number": "337",
+      "destination": "Nowy Kleparz"
+    },
+    {
+      "number": "337",
+      "destination": "Owczary Pętla"
+    },
+    {
+      "number": "352",
+      "destination": "Plac Centralny im. R.Reagana"
+    },
+    {
+      "number": "352",
+      "destination": "Kryspinów"
+    },
+    {
+      "number": "405",
+      "destination": "Dworzec Główny Zachód"
+    },
+    {
+      "number": "405",
+      "destination": "Cmentarz Batowice"
+    },
+    {
+      "number": "413",
+      "destination": "Na Załęczu"
+    },
+    {
+      "number": "413",
+      "destination": "Rondo Czyżyńskie"
+    },
+    {
+      "number": "422",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "422",
+      "destination": "Zesławice"
+    },
+    {
+      "number": "424",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "424",
+      "destination": "Ugorek"
+    },
+    {
+      "number": "427",
+      "destination": "Podgórze SKA"
+    },
+    {
+      "number": "427",
+      "destination": "Bagry"
+    },
+    {
+      "number": "433",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "433",
+      "destination": "Os. Kurdwanów"
+    },
+    {
+      "number": "434",
+      "destination": "Baba Jaga"
+    },
+    {
+      "number": "434",
+      "destination": "ZOO"
+    },
+    {
+      "number": "451",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "451",
+      "destination": "Judyma Szkoła"
+    },
+    {
+      "number": "469",
+      "destination": "Górka Narodowa"
+    },
+    {
+      "number": "469",
+      "destination": "Piaski Wielkie"
+    },
+    {
+      "number": "475",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "475",
+      "destination": "Nałkowskiej"
+    },
+    {
+      "number": "497",
+      "destination": "Mały Płaszów P+R"
+    },
+    {
+      "number": "497",
+      "destination": "Bagry Tężnia"
+    },
+    {
+      "number": "501",
+      "destination": "Bulwarowa"
+    },
+    {
+      "number": "501",
+      "destination": "Chełmońskiego Pętla"
+    },
+    {
+      "number": "502",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "502",
+      "destination": "Cracovia Stadion"
+    },
+    {
+      "number": "503",
+      "destination": "Nowy Bieżanów Południe"
+    },
+    {
+      "number": "503",
+      "destination": "Górka Narodowa Wschód"
+    },
+    {
+      "number": "511",
+      "destination": "Os. Na Stoku"
+    },
+    {
+      "number": "511",
+      "destination": "Przybyszewskiego"
+    },
+    {
+      "number": "537",
+      "destination": "Dworzec Główny Wschód"
+    },
+    {
+      "number": "537",
+      "destination": "Witkowice"
+    },
+    {
+      "number": "572",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "572",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "578",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "578",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "601",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "601",
+      "destination": "Mydlniki Wapiennik P+R"
+    },
+    {
+      "number": "605",
+      "destination": "Zajezdnia Płaszów"
+    },
+    {
+      "number": "605",
+      "destination": "Teatr Słowackiego"
+    },
+    {
+      "number": "608",
+      "destination": "Czyżyny Dworzec"
+    },
+    {
+      "number": "608",
+      "destination": "Pod Fortem"
+    },
+    {
+      "number": "610",
+      "destination": "Prądnik Czerwony"
+    },
+    {
+      "number": "610",
+      "destination": "Borek Fałęcki"
+    },
+    {
+      "number": "611",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "611",
+      "destination": "Chełmońskiego Pętla"
+    },
+    {
+      "number": "612",
+      "destination": "Os. Podwawelskie"
+    },
+    {
+      "number": "612",
+      "destination": "Tyniec Kamieniołom"
+    },
+    {
+      "number": "637",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "637",
+      "destination": "Górka Narodowa Wschód"
+    },
+    {
+      "number": "642",
+      "destination": "Aleja Przyjaźni"
+    },
+    {
+      "number": "642",
+      "destination": "Rondo Kocmyrzowskie im. Ks. Gorzelanego"
+    },
+    {
+      "number": "662",
+      "destination": "Plac Centralny im. R.Reagana"
+    },
+    {
+      "number": "662",
+      "destination": "Czerwone Maki P+R"
+    },
+    {
+      "number": "664",
+      "destination": "Os. Piastów"
+    },
+    {
+      "number": "664",
+      "destination": "Bronowice Małe"
+    },
+    {
+      "number": "669",
+      "destination": "Nowy Bieżanów P+R"
+    },
+    {
+      "number": "669",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "704",
+      "destination": "Kombinat"
+    },
+    {
+      "number": "704",
+      "destination": "Wzgórza Krzesławickie"
+    },
+    {
+      "number": "744",
+      "destination": "Prądnik Biały"
+    },
+    {
+      "number": "744",
+      "destination": "Krowodrza Górka"
+    }
+  ]
+}

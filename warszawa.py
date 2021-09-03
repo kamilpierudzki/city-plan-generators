@@ -1,11 +1,10 @@
 import datetime
 import json
-import os
 
 import requests
 from bs4 import BeautifulSoup
 
-from commons import CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, OUTPUT_DIR, \
+from commons import CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, \
     VEHICLE_NUMBER_ATTR, VEHICLE_DESTINATION_ATTR, create_json_file
 
 JSON_FILE_NAME = "warszawa.json"

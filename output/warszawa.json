@@ -1,7 +1,7 @@
 {
   "city": "Warszawa",
-  "lastUpdateTimestampInMillis": 1630527281,
-  "humanReadableLastUpdateTimestamp": "01-09-2021",
+  "lastUpdateTimestampInMillis": 1630963116,
+  "humanReadableLastUpdateTimestamp": "06-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "number": "2",
-      "destination": "Tarchomin Kościelny 02"
+      "destination": "Winnica 04"
     },
     {
       "number": "3",
@@ -94,11 +94,11 @@
     },
     {
       "number": "17",
-      "destination": "Tarchomin Kościelny 02"
+      "destination": "Winnica 05"
     },
     {
       "number": "17",
-      "destination": "PKP Służewiec 12"
+      "destination": "PKP Służewiec 13"
     },
     {
       "number": "18",
@@ -106,7 +106,7 @@
     },
     {
       "number": "18",
-      "destination": "PKP Służewiec 13"
+      "destination": "PKP Służewiec 14"
     },
     {
       "number": "20",
@@ -228,7 +228,7 @@
     },
     {
       "number": "102",
-      "destination": "Emilii Plater 01"
+      "destination": "Metro Stadion Narodowy 07"
     },
     {
       "number": "102",
@@ -1235,6 +1235,14 @@
       "destination": "Metro Wilanowska 11"
     },
     {
+      "number": "302",
+      "destination": "Emilii Plater 01"
+    },
+    {
+      "number": "302",
+      "destination": "PKP Olszynka Grochowska 05"
+    },
+    {
       "number": "303",
       "destination": "Cm.Północny-Brama Gł. 03"
     },
@@ -1472,7 +1480,7 @@
     },
     {
       "number": "509",
-      "destination": "Nowodwory 10"
+      "destination": "Winnica 06"
     },
     {
       "number": "509",
@@ -1828,7 +1836,7 @@
     },
     {
       "number": "738",
-      "destination": "Traugutta 02"
+      "destination": "os.Victoria 02"
     },
     {
       "number": "739",
@@ -1909,14 +1917,6 @@
     {
       "number": "E-9",
       "destination": "Metro Marymont 11"
-    },
-    {
-      "number": "Z-2",
-      "destination": "Nowodwory 07"
-    },
-    {
-      "number": "Z-2",
-      "destination": "Mehoffera 02"
     },
     {
       "number": "Z23",
@@ -2124,7 +2124,7 @@
     },
     {
       "number": "L26",
-      "destination": "rondo Cudu Nad Wisłą 02"
+      "destination": "Turów 04"
     },
     {
       "number": "L27",

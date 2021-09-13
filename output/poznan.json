@@ -1,7 +1,7 @@
 {
   "city": "Poznań",
-  "lastUpdateTimestampInMillis": 1630962975,
-  "humanReadableLastUpdateTimestamp": "06-09-2021",
+  "lastUpdateTimestampInMillis": 1631220249,
+  "humanReadableLastUpdateTimestamp": "09-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -154,15 +154,7 @@
     },
     {
       "number": "201",
-      "destination": "Unii Lubelskiej"
-    },
-    {
-      "number": "202",
-      "destination": "Os. Sobieskiego"
-    },
-    {
-      "number": "202",
-      "destination": "Franowo"
+      "destination": "Dworzec Zachodni"
     }
   ],
   "buses": [
@@ -720,7 +712,7 @@
     },
     {
       "number": "223",
-      "destination": "Zieliniec"
+      "destination": "Mogileńska"
     },
     {
       "number": "223",
@@ -732,7 +724,7 @@
     },
     {
       "number": "224",
-      "destination": "Malwowa"
+      "destination": "Junikowo PKM"
     },
     {
       "number": "226",
@@ -757,38 +749,6 @@
     {
       "number": "231",
       "destination": "Unii Lubelskiej"
-    },
-    {
-      "number": "250",
-      "destination": "Głuchowo/Stawna"
-    },
-    {
-      "number": "250",
-      "destination": "Górczyn PKM"
-    },
-    {
-      "number": "253",
-      "destination": "Chludowo/Szkoła"
-    },
-    {
-      "number": "253",
-      "destination": "Os. Sobieskiego"
-    },
-    {
-      "number": "257",
-      "destination": "Junikowo"
-    },
-    {
-      "number": "257",
-      "destination": "Dopiewo/Dworzec Kolejowy"
-    },
-    {
-      "number": "258",
-      "destination": "Tarnowo Pdg/Centrum"
-    },
-    {
-      "number": "258",
-      "destination": "Poznań Główny"
     }
   ]
 }

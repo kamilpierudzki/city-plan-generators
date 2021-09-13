@@ -1,0 +1,1018 @@
+{
+  "city": "Wrocław",
+  "lastUpdateTimestampInMillis": 1631564249,
+  "humanReadableLastUpdateTimestamp": "13-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "1",
+      "destination": "BISKUPIN"
+    },
+    {
+      "number": "1",
+      "destination": "POŚWIĘTNE"
+    },
+    {
+      "number": "2",
+      "destination": "BISKUPIN"
+    },
+    {
+      "number": "2",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "3",
+      "destination": "pl. Wróblewskiego"
+    },
+    {
+      "number": "3",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "4",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "4",
+      "destination": "BISKUPIN"
+    },
+    {
+      "number": "5",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "5",
+      "destination": "pl. Wróblewskiego"
+    },
+    {
+      "number": "6",
+      "destination": "KOWALE"
+    },
+    {
+      "number": "6",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "7",
+      "destination": "POŚWIĘTNE"
+    },
+    {
+      "number": "7",
+      "destination": "KLECINA"
+    },
+    {
+      "number": "8",
+      "destination": "KARŁOWICE"
+    },
+    {
+      "number": "8",
+      "destination": "TARNOGAJ"
+    },
+    {
+      "number": "9",
+      "destination": "PARK POŁUDNIOWY"
+    },
+    {
+      "number": "9",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "10",
+      "destination": "BISKUPIN"
+    },
+    {
+      "number": "10",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "11",
+      "destination": "GRABISZYŃSKA (Cmentarz)"
+    },
+    {
+      "number": "11",
+      "destination": "KROMERA"
+    },
+    {
+      "number": "15",
+      "destination": "POŚWIĘTNE"
+    },
+    {
+      "number": "15",
+      "destination": "PARK POŁUDNIOWY"
+    },
+    {
+      "number": "16",
+      "destination": "ZOO"
+    },
+    {
+      "number": "16",
+      "destination": "TARNOGAJ"
+    },
+    {
+      "number": "17",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "17",
+      "destination": "KLECINA"
+    },
+    {
+      "number": "20",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "20",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "23",
+      "destination": "KROMERA"
+    },
+    {
+      "number": "23",
+      "destination": "Wrocławski Park Przemysłowy"
+    },
+    {
+      "number": "31",
+      "destination": "PILCZYCE"
+    },
+    {
+      "number": "31",
+      "destination": "GAJ"
+    },
+    {
+      "number": "33",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "33",
+      "destination": "PILCZYCE"
+    },
+    {
+      "number": "70",
+      "destination": "OSOBOWICE"
+    },
+    {
+      "number": "70",
+      "destination": "FAT"
+    },
+    {
+      "number": "74",
+      "destination": "OSOBOWICE"
+    },
+    {
+      "number": "74",
+      "destination": "FAT"
+    },
+    {
+      "number": "ZLT",
+      "destination": "Opera"
+    },
+    {
+      "number": "ZLT",
+      "destination": "Zajezdnia DĄBIE (Czasoprzestrzeń)"
+    }
+  ],
+  "buses": [
+    {
+      "number": "100",
+      "destination": "GAJ - pętla"
+    },
+    {
+      "number": "100",
+      "destination": "MOKRY DWÓR"
+    },
+    {
+      "number": "101",
+      "destination": "Kwiska"
+    },
+    {
+      "number": "101",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "102",
+      "destination": "PL. JANA PAWŁA II"
+    },
+    {
+      "number": "102",
+      "destination": "Grabowa"
+    },
+    {
+      "number": "103",
+      "destination": "PL. JANA PAWŁA II"
+    },
+    {
+      "number": "103",
+      "destination": "PRACZE ODRZAŃSKIE"
+    },
+    {
+      "number": "104",
+      "destination": "PL. JANA PAWŁA II"
+    },
+    {
+      "number": "104",
+      "destination": "RĘDZIŃSKA"
+    },
+    {
+      "number": "105",
+      "destination": "KROMERA"
+    },
+    {
+      "number": "105",
+      "destination": "ŚWINIARY"
+    },
+    {
+      "number": "106",
+      "destination": "Dworzec Główny (Dworcowa)"
+    },
+    {
+      "number": "106",
+      "destination": "PORT LOTNICZY"
+    },
+    {
+      "number": "107",
+      "destination": "PL. SOLIDARNOŚCI"
+    },
+    {
+      "number": "107",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "108",
+      "destination": "DWORZEC NADODRZE"
+    },
+    {
+      "number": "108",
+      "destination": "Pracze Widawskie"
+    },
+    {
+      "number": "109",
+      "destination": "PL. SOLIDARNOŚCI"
+    },
+    {
+      "number": "109",
+      "destination": "JARNOŁTÓW"
+    },
+    {
+      "number": "110",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "110",
+      "destination": "Iwiny - rondo"
+    },
+    {
+      "number": "111",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "111",
+      "destination": "KMINKOWA"
+    },
+    {
+      "number": "112",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "112",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "113",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "113",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "114",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "114",
+      "destination": "BIEŃKOWICE"
+    },
+    {
+      "number": "115",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "115",
+      "destination": "WOJNÓW (pętla)"
+    },
+    {
+      "number": "116",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "116",
+      "destination": "SOŁTYSOWICE"
+    },
+    {
+      "number": "117",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "117",
+      "destination": "RATYŃ"
+    },
+    {
+      "number": "118",
+      "destination": "RĘDZIN"
+    },
+    {
+      "number": "118",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "119",
+      "destination": "SOŁTYSOWICE"
+    },
+    {
+      "number": "119",
+      "destination": "BLACHARSKA"
+    },
+    {
+      "number": "120",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "120",
+      "destination": "TRESTNO (pętla)"
+    },
+    {
+      "number": "121",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "121",
+      "destination": "Kiełczowska (Cmentarz)"
+    },
+    {
+      "number": "122",
+      "destination": "DWORZEC AUTOBUSOWY"
+    },
+    {
+      "number": "122",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "123",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "123",
+      "destination": "Metalowców"
+    },
+    {
+      "number": "124",
+      "destination": "KSIĘŻE WIELKIE"
+    },
+    {
+      "number": "124",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "125",
+      "destination": "TYNIECKA (pętla)"
+    },
+    {
+      "number": "125",
+      "destination": "BROCHÓW"
+    },
+    {
+      "number": "126",
+      "destination": "KOZANÓW"
+    },
+    {
+      "number": "126",
+      "destination": "Wojszycka"
+    },
+    {
+      "number": "127",
+      "destination": "Kozia"
+    },
+    {
+      "number": "127",
+      "destination": "ZWYCIĘSKA"
+    },
+    {
+      "number": "128",
+      "destination": "ZAKRZÓW"
+    },
+    {
+      "number": "128",
+      "destination": "PILCZYCE"
+    },
+    {
+      "number": "129",
+      "destination": "POŚWIĘCKA (Ośrodek zdrowia)"
+    },
+    {
+      "number": "129",
+      "destination": "PORT LOTNICZY"
+    },
+    {
+      "number": "130",
+      "destination": "Starościńska"
+    },
+    {
+      "number": "130",
+      "destination": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "number": "131",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "131",
+      "destination": "LITEWSKA"
+    },
+    {
+      "number": "132",
+      "destination": "KROMERA"
+    },
+    {
+      "number": "132",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "133",
+      "destination": "ROD Bielany"
+    },
+    {
+      "number": "133",
+      "destination": "BROCHÓW"
+    },
+    {
+      "number": "134",
+      "destination": "KSIĘŻE WIELKIE"
+    },
+    {
+      "number": "134",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "136",
+      "destination": "KOZANÓW"
+    },
+    {
+      "number": "136",
+      "destination": "TARNOGAJ"
+    },
+    {
+      "number": "137",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "137",
+      "destination": "Las Mokrzański"
+    },
+    {
+      "number": "138",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "138",
+      "destination": "ŻAR"
+    },
+    {
+      "number": "140",
+      "destination": "ŚLAZOWA"
+    },
+    {
+      "number": "140",
+      "destination": "Kwiska"
+    },
+    {
+      "number": "141",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "141",
+      "destination": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "number": "142",
+      "destination": "KARŁOWICE"
+    },
+    {
+      "number": "142",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "143",
+      "destination": "TARNOGAJ"
+    },
+    {
+      "number": "143",
+      "destination": "KMINKOWA"
+    },
+    {
+      "number": "144",
+      "destination": "Starościńska"
+    },
+    {
+      "number": "144",
+      "destination": "ZWYCIĘSKA"
+    },
+    {
+      "number": "145",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "145",
+      "destination": "Iwiny - rondo"
+    },
+    {
+      "number": "146",
+      "destination": "GAJ - pętla"
+    },
+    {
+      "number": "146",
+      "destination": "BARTOSZOWICE"
+    },
+    {
+      "number": "147",
+      "destination": "MULICKA"
+    },
+    {
+      "number": "147",
+      "destination": "KŁOKOCZYCE"
+    },
+    {
+      "number": "148",
+      "destination": "Dworzec Główny (Dworcowa)"
+    },
+    {
+      "number": "148",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "149",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "149",
+      "destination": "KUŹNIKI"
+    },
+    {
+      "number": "150",
+      "destination": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "number": "150",
+      "destination": "LITEWSKA"
+    },
+    {
+      "number": "151",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "151",
+      "destination": "PAWŁOWICE (Widawska)"
+    },
+    {
+      "number": "A",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "A",
+      "destination": "KOSZAROWA (Szpital)"
+    },
+    {
+      "number": "C",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "C",
+      "destination": "KOZANÓW"
+    },
+    {
+      "number": "D",
+      "destination": "GIEŁDOWA (Centrum Hurtu)"
+    },
+    {
+      "number": "D",
+      "destination": "OSIEDLE SOBIESKIEGO"
+    },
+    {
+      "number": "K",
+      "destination": "KAMIEŃSKIEGO (pętla)"
+    },
+    {
+      "number": "K",
+      "destination": "GAJ - pętla"
+    },
+    {
+      "number": "N",
+      "destination": "PETRUSEWICZA"
+    },
+    {
+      "number": "N",
+      "destination": "LITEWSKA"
+    },
+    {
+      "number": "315",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "315",
+      "destination": "Swojczyce"
+    },
+    {
+      "number": "319",
+      "destination": "KAMIEŃSKIEGO (pętla)"
+    },
+    {
+      "number": "319",
+      "destination": "KLECINA (Stacja kolejowa)"
+    },
+    {
+      "number": "602",
+      "destination": "Dworzec Główny (Stawowa)"
+    },
+    {
+      "number": "602",
+      "destination": "Biskupice Podgórne LG Energy Solution Wrocław I"
+    },
+    {
+      "number": "607",
+      "destination": "Kwiska"
+    },
+    {
+      "number": "607",
+      "destination": "Biskupice Podgórne LG Energy Solution Wrocław I"
+    },
+    {
+      "number": "612",
+      "destination": "Sucha"
+    },
+    {
+      "number": "612",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "703",
+      "destination": "Wierzbowa"
+    },
+    {
+      "number": "703",
+      "destination": "KSIĘŻE WIELKIE"
+    },
+    {
+      "number": "722",
+      "destination": "Aleja Architektów"
+    },
+    {
+      "number": "722",
+      "destination": "Aleja Architektów"
+    },
+    {
+      "number": "731",
+      "destination": "Kwiska"
+    },
+    {
+      "number": "731",
+      "destination": "STADION WROCŁAW (Królewiecka)"
+    },
+    {
+      "number": "903",
+      "destination": "TARNOGAJ"
+    },
+    {
+      "number": "903",
+      "destination": "Żórawina - Niepodległości (Mostek)"
+    },
+    {
+      "number": "904",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "904",
+      "destination": "Łozina - skrzy."
+    },
+    {
+      "number": "907",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "907",
+      "destination": "Pietrzykowice - Sportowa/pętla"
+    },
+    {
+      "number": "908",
+      "destination": "DWORZEC NADODRZE"
+    },
+    {
+      "number": "908",
+      "destination": "Psary - Wolności"
+    },
+    {
+      "number": "909",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "909",
+      "destination": "Samotwór - Leśna"
+    },
+    {
+      "number": "911",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "911",
+      "destination": "Bielawa"
+    },
+    {
+      "number": "913",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "913",
+      "destination": "Żórawina - Niepodległości (Mostek)"
+    },
+    {
+      "number": "914",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "914",
+      "destination": "Pruszowice"
+    },
+    {
+      "number": "917",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "917",
+      "destination": "GAŁÓW (pętla)"
+    },
+    {
+      "number": "920",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "920",
+      "destination": "WOJNÓW (pętla)"
+    },
+    {
+      "number": "921",
+      "destination": "PL. GRUNWALDZKI"
+    },
+    {
+      "number": "921",
+      "destination": "Raków - skrzy."
+    },
+    {
+      "number": "923",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "923",
+      "destination": "BRZEZINA (pętla)"
+    },
+    {
+      "number": "924",
+      "destination": "GALERIA DOMINIKAŃSKA"
+    },
+    {
+      "number": "924",
+      "destination": "Stępin - Kościół"
+    },
+    {
+      "number": "927L",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "927L",
+      "destination": "Pietrzykowice - Sportowa/pętla"
+    },
+    {
+      "number": "927P",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "927P",
+      "destination": "Pietrzykowice - Sportowa/pętla"
+    },
+    {
+      "number": "930",
+      "destination": "KROMERA"
+    },
+    {
+      "number": "930",
+      "destination": "KRZYŻANOWICE"
+    },
+    {
+      "number": "931",
+      "destination": "MULICKA"
+    },
+    {
+      "number": "931",
+      "destination": "Kiełczówek - pętla"
+    },
+    {
+      "number": "933",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "933",
+      "destination": "Zabrodzie - pętla"
+    },
+    {
+      "number": "934",
+      "destination": "MULICKA"
+    },
+    {
+      "number": "934",
+      "destination": "Jaksonowice - skrzy."
+    },
+    {
+      "number": "936",
+      "destination": "Mirków - skrzy. Polna"
+    },
+    {
+      "number": "936",
+      "destination": "Godzieszowa - transformator"
+    },
+    {
+      "number": "937",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "937",
+      "destination": "Brzezinka Średzka - PKP"
+    },
+    {
+      "number": "938",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "938",
+      "destination": "Lutynia Centrum"
+    },
+    {
+      "number": "941",
+      "destination": "Szczodre - pętla"
+    },
+    {
+      "number": "941",
+      "destination": "Kiełczów - pętla (Plac Jana Gdaka)"
+    },
+    {
+      "number": "947",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "947",
+      "destination": "Smolec - Lipowa/pętla"
+    },
+    {
+      "number": "948",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "948",
+      "destination": "Miękinia - pętla"
+    },
+    {
+      "number": "958",
+      "destination": "Księginice P&R"
+    },
+    {
+      "number": "958",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "206",
+      "destination": "DWORZEC AUTOBUSOWY"
+    },
+    {
+      "number": "206",
+      "destination": "PORT LOTNICZY"
+    },
+    {
+      "number": "240",
+      "destination": "DWORZEC AUTOBUSOWY"
+    },
+    {
+      "number": "240",
+      "destination": "DWORZEC AUTOBUSOWY"
+    },
+    {
+      "number": "241",
+      "destination": "PAWŁOWICE (Widawska)"
+    },
+    {
+      "number": "241",
+      "destination": "NOWY DWÓR (pętla)"
+    },
+    {
+      "number": "242",
+      "destination": "PETRUSEWICZA"
+    },
+    {
+      "number": "242",
+      "destination": "KOWALE"
+    },
+    {
+      "number": "243",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "243",
+      "destination": "KSIĘŻE WIELKIE"
+    },
+    {
+      "number": "245",
+      "destination": "PRACZE ODRZAŃSKIE"
+    },
+    {
+      "number": "245",
+      "destination": "BIEŃKOWICE"
+    },
+    {
+      "number": "246",
+      "destination": "KOZANÓW"
+    },
+    {
+      "number": "246",
+      "destination": "ŚWINIARY"
+    },
+    {
+      "number": "247",
+      "destination": "Starościńska"
+    },
+    {
+      "number": "247",
+      "destination": "GIEŁDOWA (Centrum Hurtu)"
+    },
+    {
+      "number": "248",
+      "destination": "POŚWIĘCKA (Ośrodek zdrowia)"
+    },
+    {
+      "number": "248",
+      "destination": "RACŁAWICKA"
+    },
+    {
+      "number": "249",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "249",
+      "destination": "JARNOŁTÓW"
+    },
+    {
+      "number": "250",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "250",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "251",
+      "destination": "LITEWSKA"
+    },
+    {
+      "number": "251",
+      "destination": "KRZYKI"
+    },
+    {
+      "number": "253",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "253",
+      "destination": "LEŚNICA"
+    },
+    {
+      "number": "255",
+      "destination": "SĘPOLNO"
+    },
+    {
+      "number": "255",
+      "destination": "Iwiny - rondo"
+    },
+    {
+      "number": "257",
+      "destination": "RĘDZIN"
+    },
+    {
+      "number": "257",
+      "destination": "OPORÓW"
+    },
+    {
+      "number": "259",
+      "destination": "ZWYCIĘSKA"
+    },
+    {
+      "number": "259",
+      "destination": "WOJNÓW (pętla)"
+    }
+  ]
+}

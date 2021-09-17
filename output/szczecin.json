@@ -1,0 +1,1162 @@
+{
+  "city": "Szczecin",
+  "lastUpdateTimestampInMillis": 1631918089,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "1",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "1",
+      "destination": "Zajezdnia Pogodno/Rondo Olszewskiego"
+    },
+    {
+      "number": "1",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "1",
+      "destination": "Las Arkoński"
+    },
+    {
+      "number": "5",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "5",
+      "destination": "Las Arkoński"
+    },
+    {
+      "number": "6",
+      "destination": "Gocław"
+    },
+    {
+      "number": "6",
+      "destination": "Pomorzany"
+    },
+    {
+      "number": "7",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "7",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "8",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "8",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "9",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "9",
+      "destination": "Potulicka"
+    },
+    {
+      "number": "10",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "10",
+      "destination": "Potulicka"
+    },
+    {
+      "number": "11",
+      "destination": "Ludowa"
+    },
+    {
+      "number": "11",
+      "destination": "Pomorzany"
+    },
+    {
+      "number": "12",
+      "destination": "Las Arkoński"
+    },
+    {
+      "number": "12",
+      "destination": "Pomorzany"
+    }
+  ],
+  "buses": [
+    {
+      "number": "51",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "51",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "52",
+      "destination": "Tkacka"
+    },
+    {
+      "number": "52",
+      "destination": "Wyspa Pucka"
+    },
+    {
+      "number": "53",
+      "destination": "Stocznia Szczecińska"
+    },
+    {
+      "number": "53",
+      "destination": "Pomorzany Dobrzyńska"
+    },
+    {
+      "number": "54",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "54",
+      "destination": "Kijewo"
+    },
+    {
+      "number": "54",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "54",
+      "destination": "Zakłady Mięsne"
+    },
+    {
+      "number": "56",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "56",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "56",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "56",
+      "destination": "Kadmowa"
+    },
+    {
+      "number": "57",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "57",
+      "destination": "Warszewo"
+    },
+    {
+      "number": "58",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "58",
+      "destination": "Gocław"
+    },
+    {
+      "number": "59",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "59",
+      "destination": "Nehringa"
+    },
+    {
+      "number": "59",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "59",
+      "destination": "Studzienna"
+    },
+    {
+      "number": "60",
+      "destination": "Stocznia Szczecińska"
+    },
+    {
+      "number": "60",
+      "destination": "Cukrowa"
+    },
+    {
+      "number": "61",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "61",
+      "destination": "Podjuchy"
+    },
+    {
+      "number": "61",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "61",
+      "destination": "Podjuchy"
+    },
+    {
+      "number": "62",
+      "destination": "Plac Zwycięstwa"
+    },
+    {
+      "number": "62",
+      "destination": "Ustowo Auchan"
+    },
+    {
+      "number": "63",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "63",
+      "destination": "Skolwin"
+    },
+    {
+      "number": "64",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "64",
+      "destination": "Klucz Autostrada"
+    },
+    {
+      "number": "65",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "65",
+      "destination": "Rondo Ułanów Podolskich"
+    },
+    {
+      "number": "66",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "66",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "66",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "66",
+      "destination": "Klucz"
+    },
+    {
+      "number": "67",
+      "destination": "Stocznia Szczecińska"
+    },
+    {
+      "number": "67",
+      "destination": "Karola Miarki"
+    },
+    {
+      "number": "67",
+      "destination": "Ludowa"
+    },
+    {
+      "number": "67",
+      "destination": "Karola Miarki"
+    },
+    {
+      "number": "68",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "68",
+      "destination": "Świergotki"
+    },
+    {
+      "number": "68",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "68",
+      "destination": "Rostocka"
+    },
+    {
+      "number": "69",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "69",
+      "destination": "Rugiańska"
+    },
+    {
+      "number": "70",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "70",
+      "destination": "Elektrownia Pomorzany"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "70",
+      "destination": "Kamieniec"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "70",
+      "destination": "Kamieniec"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "70",
+      "destination": "Pargowo"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "70",
+      "destination": "Pargowo"
+    },
+    {
+      "number": "70",
+      "destination": "Urząd Miasta"
+    },
+    {
+      "number": "71",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "71",
+      "destination": "Rondo Ułanów Podolskich"
+    },
+    {
+      "number": "72",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "72",
+      "destination": "Śmierdnica"
+    },
+    {
+      "number": "72",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "72",
+      "destination": "Jezierzyce"
+    },
+    {
+      "number": "73",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "73",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "74",
+      "destination": "Zakłady Piekarnicze"
+    },
+    {
+      "number": "74",
+      "destination": "Bezrzecze"
+    },
+    {
+      "number": "74",
+      "destination": "Łukasińskiego Ogrody"
+    },
+    {
+      "number": "74",
+      "destination": "Bezrzecze"
+    },
+    {
+      "number": "74",
+      "destination": "Mierzyn Szkoła"
+    },
+    {
+      "number": "74",
+      "destination": "Bezrzecze"
+    },
+    {
+      "number": "75",
+      "destination": "Szafera"
+    },
+    {
+      "number": "75",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "76",
+      "destination": "Nabrzeże Ewa"
+    },
+    {
+      "number": "76",
+      "destination": "Brama Portowa"
+    },
+    {
+      "number": "76",
+      "destination": "Logistyczna"
+    },
+    {
+      "number": "76",
+      "destination": "Brama Portowa"
+    },
+    {
+      "number": "76",
+      "destination": "Nabrzeże Ewa"
+    },
+    {
+      "number": "76",
+      "destination": "Brama Portowa"
+    },
+    {
+      "number": "76",
+      "destination": "Logistyczna"
+    },
+    {
+      "number": "76",
+      "destination": "Brama Portowa"
+    },
+    {
+      "number": "77",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "77",
+      "destination": "Osiedle Kasztanowe"
+    },
+    {
+      "number": "78",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "78",
+      "destination": "Osiedle Arkońskie"
+    },
+    {
+      "number": "79",
+      "destination": "Osiedle Słoneczne"
+    },
+    {
+      "number": "79",
+      "destination": "Jezierzyce"
+    },
+    {
+      "number": "79",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "79",
+      "destination": "Jezierzyce"
+    },
+    {
+      "number": "80",
+      "destination": "Zakłady Piekarnicze"
+    },
+    {
+      "number": "80",
+      "destination": "Ludowa"
+    },
+    {
+      "number": "81",
+      "destination": "Przecław"
+    },
+    {
+      "number": "81",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "81",
+      "destination": "Kołbaskowo"
+    },
+    {
+      "number": "81",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "81",
+      "destination": "Rosówek Granica"
+    },
+    {
+      "number": "81",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "81",
+      "destination": "Kamieniec"
+    },
+    {
+      "number": "81",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "82",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "82",
+      "destination": "Krucza Dom Kombatanta"
+    },
+    {
+      "number": "83",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "83",
+      "destination": "Smolęcin"
+    },
+    {
+      "number": "83",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "83",
+      "destination": "Smolęcin"
+    },
+    {
+      "number": "83",
+      "destination": "Plac Kościuszki"
+    },
+    {
+      "number": "83",
+      "destination": "Kołbaskowo"
+    },
+    {
+      "number": "84",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "84",
+      "destination": "Kijewo"
+    },
+    {
+      "number": "84",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "84",
+      "destination": "Zakłady Mięsne"
+    },
+    {
+      "number": "85",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "85",
+      "destination": "Smocza — Falskiego"
+    },
+    {
+      "number": "86",
+      "destination": "Zakłady Piekarnicze"
+    },
+    {
+      "number": "86",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "86",
+      "destination": "Osiedle Kaliny"
+    },
+    {
+      "number": "86",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "87",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "87",
+      "destination": "Podbórz"
+    },
+    {
+      "number": "87",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "87",
+      "destination": "Podbórz"
+    },
+    {
+      "number": "88",
+      "destination": "Maczka"
+    },
+    {
+      "number": "88",
+      "destination": "Okulickiego"
+    },
+    {
+      "number": "88",
+      "destination": "Maczka"
+    },
+    {
+      "number": "88",
+      "destination": "Stobno Stacja"
+    },
+    {
+      "number": "88",
+      "destination": "Maczka"
+    },
+    {
+      "number": "88",
+      "destination": "Warnik"
+    },
+    {
+      "number": "89",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "89",
+      "destination": "Świergotki"
+    },
+    {
+      "number": "90",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "90",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "91",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "91",
+      "destination": "Zakłady Mięsne"
+    },
+    {
+      "number": "92",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "92",
+      "destination": "Podbórz"
+    },
+    {
+      "number": "93",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "93",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "94",
+      "destination": "Turkusowa"
+    },
+    {
+      "number": "94",
+      "destination": "Struga"
+    },
+    {
+      "number": "95",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "95",
+      "destination": "Dworzec Główny (Owocowa)"
+    },
+    {
+      "number": "96",
+      "destination": "Basen Górniczy"
+    },
+    {
+      "number": "96",
+      "destination": "Osiedle Kasztanowe"
+    },
+    {
+      "number": "97",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "97",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "97",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "97",
+      "destination": "Zakłady Drobiarskie"
+    },
+    {
+      "number": "98",
+      "destination": "Kopańskiego"
+    },
+    {
+      "number": "98",
+      "destination": "Osiedle Przyjaźni"
+    },
+    {
+      "number": "99",
+      "destination": "Kołłątaja"
+    },
+    {
+      "number": "99",
+      "destination": "Zajezdnia Golęcin"
+    },
+    {
+      "number": "101",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "101",
+      "destination": "Police Jasienica Pętla"
+    },
+    {
+      "number": "102",
+      "destination": "Gocław"
+    },
+    {
+      "number": "102",
+      "destination": "Police Tanowska Szkoła"
+    },
+    {
+      "number": "103",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "103",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "103",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "103",
+      "destination": "Police Zakłady Chemiczne"
+    },
+    {
+      "number": "105",
+      "destination": "Klonowica Zajezdnia"
+    },
+    {
+      "number": "105",
+      "destination": "Dobra Osiedle"
+    },
+    {
+      "number": "106",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "106",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "107",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "107",
+      "destination": "Police Wyszyńskiego Polana"
+    },
+    {
+      "number": "108",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "108",
+      "destination": "Lubieszyn Rondo"
+    },
+    {
+      "number": "108",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "108",
+      "destination": "Lubieszyn Granica"
+    },
+    {
+      "number": "108",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "108",
+      "destination": "Dobra Rondo"
+    },
+    {
+      "number": "109",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "109",
+      "destination": "Police Tanowska Szkoła"
+    },
+    {
+      "number": "109",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "109",
+      "destination": "Police Osiedle Chemik"
+    },
+    {
+      "number": "110",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "110",
+      "destination": "Siedlice Pętla"
+    },
+    {
+      "number": "111",
+      "destination": "Police Rynek"
+    },
+    {
+      "number": "111",
+      "destination": "Police Zajezdnia"
+    },
+    {
+      "number": "111",
+      "destination": "Police Jasienica Pętla"
+    },
+    {
+      "number": "111",
+      "destination": "Police Zajezdnia"
+    },
+    {
+      "number": "121",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "121",
+      "destination": "Sławoszewo"
+    },
+    {
+      "number": "121",
+      "destination": "Głębokie"
+    },
+    {
+      "number": "121",
+      "destination": "Grzepnica"
+    },
+    {
+      "number": "122",
+      "destination": "Kościno"
+    },
+    {
+      "number": "122",
+      "destination": "Bezrzecze"
+    },
+    {
+      "number": "123",
+      "destination": "Lubieszyn Rondo"
+    },
+    {
+      "number": "123",
+      "destination": "Stolec"
+    },
+    {
+      "number": "124",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "124",
+      "destination": "Mierzyn Pod Lipami"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "904",
+      "destination": "Podjuchy Dworzec"
+    },
+    {
+      "number": "908",
+      "destination": "Maczka"
+    },
+    {
+      "number": "908",
+      "destination": "Kwiatkowskiego"
+    },
+    {
+      "number": "908",
+      "destination": "Maczka"
+    },
+    {
+      "number": "908",
+      "destination": "Chobolańska Szkoła"
+    },
+    {
+      "number": "A",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "A",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "B",
+      "destination": "Osiedle Słoneczne"
+    },
+    {
+      "number": "B",
+      "destination": "Osiedle Arkońskie"
+    },
+    {
+      "number": "C",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "C",
+      "destination": "Osiedle Kasztanowe"
+    },
+    {
+      "number": "G",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "G",
+      "destination": "Wielgowo Borsucza"
+    },
+    {
+      "number": "H",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "H",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "835",
+      "destination": "Stocznia Szczecińska"
+    },
+    {
+      "number": "835",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "835",
+      "destination": "Ludowa"
+    },
+    {
+      "number": "835",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "521",
+      "destination": "Szafera"
+    },
+    {
+      "number": "521",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "522",
+      "destination": "Warszewo"
+    },
+    {
+      "number": "522",
+      "destination": "Osiedle Kasztanowe"
+    },
+    {
+      "number": "522",
+      "destination": "Rostocka"
+    },
+    {
+      "number": "522",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "522",
+      "destination": "Warszewo"
+    },
+    {
+      "number": "522",
+      "destination": "Dąbie Osiedle"
+    },
+    {
+      "number": "522",
+      "destination": "Rostocka"
+    },
+    {
+      "number": "522",
+      "destination": "Osiedle Kasztanowe"
+    },
+    {
+      "number": "523",
+      "destination": "Zajezdnia Golęcin"
+    },
+    {
+      "number": "523",
+      "destination": "Cukrowa"
+    },
+    {
+      "number": "523",
+      "destination": "Zajezdnia Golęcin"
+    },
+    {
+      "number": "523",
+      "destination": "Przecław"
+    },
+    {
+      "number": "524",
+      "destination": "Police Zajezdnia"
+    },
+    {
+      "number": "524",
+      "destination": "Pomorzany Dobrzyńska"
+    },
+    {
+      "number": "524",
+      "destination": "Police Jasienica Pętla"
+    },
+    {
+      "number": "524",
+      "destination": "Pomorzany Dobrzyńska"
+    },
+    {
+      "number": "525",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "525",
+      "destination": "Zajezdnia Golęcin"
+    },
+    {
+      "number": "526",
+      "destination": "Police Zajezdnia"
+    },
+    {
+      "number": "526",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "527",
+      "destination": "Bezrzecze"
+    },
+    {
+      "number": "527",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "527",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "527",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "528",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "528",
+      "destination": "Pomorzany Dobrzyńska"
+    },
+    {
+      "number": "529",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "529",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "529",
+      "destination": "Jaworowa"
+    },
+    {
+      "number": "529",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "530",
+      "destination": "Podbórz"
+    },
+    {
+      "number": "530",
+      "destination": "Plac Rodła"
+    },
+    {
+      "number": "531",
+      "destination": "Krzekowo"
+    },
+    {
+      "number": "531",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "532",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "532",
+      "destination": "Osiedle Arkońskie"
+    },
+    {
+      "number": "532",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "532",
+      "destination": "Osów"
+    },
+    {
+      "number": "533",
+      "destination": "Dąbie Dworzec"
+    },
+    {
+      "number": "533",
+      "destination": "Klucz"
+    },
+    {
+      "number": "534",
+      "destination": "Osiedle Bukowe"
+    },
+    {
+      "number": "534",
+      "destination": "Wielgowo Borsucza"
+    },
+    {
+      "number": "535",
+      "destination": "Klonowica Zajezdnia"
+    },
+    {
+      "number": "535",
+      "destination": "Stolec"
+    },
+    {
+      "number": "536",
+      "destination": "Gumieńce"
+    },
+    {
+      "number": "536",
+      "destination": "Grzepnica"
+    }
+  ]
+}

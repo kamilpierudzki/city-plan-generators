@@ -1,0 +1,970 @@
+{
+  "city": "Łódź",
+  "lastUpdateTimestampInMillis": 1631895691,
+  "humanReadableLastUpdateTimestamp": "17-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "0",
+      "destination": "Północna"
+    },
+    {
+      "number": "0",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "2",
+      "destination": "Kochanówka"
+    },
+    {
+      "number": "2",
+      "destination": "Dw. Łódź Dąbrowa"
+    },
+    {
+      "number": "3A",
+      "destination": "Mickiewicza"
+    },
+    {
+      "number": "3A",
+      "destination": "Chojny Kurczaki"
+    },
+    {
+      "number": "3B",
+      "destination": "r. Powstańców 1863r."
+    },
+    {
+      "number": "3B",
+      "destination": "Chojny Kurczaki"
+    },
+    {
+      "number": "3C",
+      "destination": "r. Powstańców 1863r."
+    },
+    {
+      "number": "3C",
+      "destination": "Mickiewicza"
+    },
+    {
+      "number": "5",
+      "destination": "Teofilów"
+    },
+    {
+      "number": "5",
+      "destination": "Karolew"
+    },
+    {
+      "number": "5",
+      "destination": "Teofilów"
+    },
+    {
+      "number": "5",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "7",
+      "destination": "Północna"
+    },
+    {
+      "number": "7",
+      "destination": "Widzew Augustów"
+    },
+    {
+      "number": "8A",
+      "destination": "cm. Zarzew"
+    },
+    {
+      "number": "8A",
+      "destination": "Teofilów"
+    },
+    {
+      "number": "8B",
+      "destination": "cm. Zarzew"
+    },
+    {
+      "number": "8B",
+      "destination": "Kochanówka"
+    },
+    {
+      "number": "9",
+      "destination": "Dw. Łódź Żabieniec"
+    },
+    {
+      "number": "9",
+      "destination": "Olechów"
+    },
+    {
+      "number": "10A",
+      "destination": "Widzew Augustów"
+    },
+    {
+      "number": "10A",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "10B",
+      "destination": "Olechów"
+    },
+    {
+      "number": "10B",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "11A",
+      "destination": "Helenówek"
+    },
+    {
+      "number": "11A",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "11B",
+      "destination": "Helenówek"
+    },
+    {
+      "number": "11B",
+      "destination": "Chocianowice IKEA"
+    },
+    {
+      "number": "12B",
+      "destination": "Stoki"
+    },
+    {
+      "number": "12B",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "14",
+      "destination": "Chojny Kurczaki"
+    },
+    {
+      "number": "14",
+      "destination": "Dw. Łódź Dąbrowa"
+    },
+    {
+      "number": "15",
+      "destination": "Telefoniczna Zajezdnia"
+    },
+    {
+      "number": "15",
+      "destination": "Chojny Kurczaki"
+    },
+    {
+      "number": "17",
+      "destination": "Chocianowice IKEA"
+    },
+    {
+      "number": "17",
+      "destination": "Telefoniczna Zajezdnia"
+    },
+    {
+      "number": "18",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "18",
+      "destination": "Telefoniczna Zajezdnia"
+    }
+  ],
+  "buses": [
+    {
+      "number": "Z1",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "Z1",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "Z3",
+      "destination": "r. Powstańców 1863r."
+    },
+    {
+      "number": "Z3",
+      "destination": "Marysin Warszawska"
+    },
+    {
+      "number": "Z6",
+      "destination": "Legionów"
+    },
+    {
+      "number": "Z6",
+      "destination": "Sikawa Centrum Handlowe"
+    },
+    {
+      "number": "Z13",
+      "destination": "Śląska"
+    },
+    {
+      "number": "Z13",
+      "destination": "Włókniarzy"
+    },
+    {
+      "number": "Z41",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "Z41",
+      "destination": "Łaska (Pabianice)"
+    },
+    {
+      "number": "Z45",
+      "destination": "plac Kilińskiego (Zgierz)"
+    },
+    {
+      "number": "Z45",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "Z46",
+      "destination": "Konstytucji 3 Maja 37 (Ozorków)"
+    },
+    {
+      "number": "Z46",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "43A",
+      "destination": "pl. Wolności(Konstantynów)"
+    },
+    {
+      "number": "43A",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "43B",
+      "destination": "pl. Jana Pawła II (Lutomiersk)"
+    },
+    {
+      "number": "43B",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "50B",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "50B",
+      "destination": "Tuszyńska (Rzgów)"
+    },
+    {
+      "number": "50C",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "50C",
+      "destination": "CT Ptak Outlet"
+    },
+    {
+      "number": "51A",
+      "destination": "Łagiewniki"
+    },
+    {
+      "number": "51A",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "51B",
+      "destination": "Skotniki"
+    },
+    {
+      "number": "51B",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "52",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "52",
+      "destination": "Komorniki"
+    },
+    {
+      "number": "53A",
+      "destination": "Nowosolna"
+    },
+    {
+      "number": "53A",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "53B",
+      "destination": "Głowackiego(Brzeziny)"
+    },
+    {
+      "number": "53B",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "53C",
+      "destination": "Skoszewy "
+    },
+    {
+      "number": "53C",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "53D",
+      "destination": "Kalonka/Centrum Ojca Pio"
+    },
+    {
+      "number": "53D",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "53D",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "53E",
+      "destination": "Łukaszew Zjazdowa"
+    },
+    {
+      "number": "53E",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "54A",
+      "destination": "Nowosolna"
+    },
+    {
+      "number": "54A",
+      "destination": "pl. Mikulskiego"
+    },
+    {
+      "number": "54B",
+      "destination": "ROD Polanka"
+    },
+    {
+      "number": "54B",
+      "destination": "pl. Mikulskiego"
+    },
+    {
+      "number": "54C",
+      "destination": "Lipiny - pętla"
+    },
+    {
+      "number": "54C",
+      "destination": "pl. Mikulskiego"
+    },
+    {
+      "number": "54D",
+      "destination": "Natolin - pętla"
+    },
+    {
+      "number": "54D",
+      "destination": "pl. Mikulskiego"
+    },
+    {
+      "number": "55A",
+      "destination": "Dw. Łódź Dąbrowa"
+    },
+    {
+      "number": "55A",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "55B",
+      "destination": "Młynek"
+    },
+    {
+      "number": "55B",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "56",
+      "destination": "Tuszyńska (Rzgów)"
+    },
+    {
+      "number": "56",
+      "destination": "Piastów Kurak"
+    },
+    {
+      "number": "56",
+      "destination": "CT Ptak Outlet"
+    },
+    {
+      "number": "56",
+      "destination": "Piastów Kurak"
+    },
+    {
+      "number": "57",
+      "destination": "Marysin Stadion"
+    },
+    {
+      "number": "57",
+      "destination": "Piastów Kurak"
+    },
+    {
+      "number": "58A",
+      "destination": "Juhasowa"
+    },
+    {
+      "number": "58A",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "58B",
+      "destination": "Janów"
+    },
+    {
+      "number": "58B",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "59",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "59",
+      "destination": "Palki"
+    },
+    {
+      "number": "60A",
+      "destination": "Imielnik Nowy"
+    },
+    {
+      "number": "60A",
+      "destination": "CH Tulipan"
+    },
+    {
+      "number": "60B",
+      "destination": "Michałówek / Dobra"
+    },
+    {
+      "number": "60B",
+      "destination": "CH Tulipan"
+    },
+    {
+      "number": "60C",
+      "destination": "Stryków Dworzec PKP"
+    },
+    {
+      "number": "60C",
+      "destination": "CH Tulipan"
+    },
+    {
+      "number": "60C",
+      "destination": "Stryków Dworzec PKP"
+    },
+    {
+      "number": "60C",
+      "destination": "CH Tulipan"
+    },
+    {
+      "number": "60D",
+      "destination": "Marysin Tęczowa"
+    },
+    {
+      "number": "60D",
+      "destination": "CH Tulipan"
+    },
+    {
+      "number": "61",
+      "destination": "Parzęczewska /Staffa(Zg.)"
+    },
+    {
+      "number": "61",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "62",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "62",
+      "destination": "Bionanopark"
+    },
+    {
+      "number": "63",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "63",
+      "destination": "Piastów Kurak"
+    },
+    {
+      "number": "64A",
+      "destination": "Limanowskiego"
+    },
+    {
+      "number": "64A",
+      "destination": "Urząd Skarbowy Widzew"
+    },
+    {
+      "number": "64B",
+      "destination": "Limanowskiego"
+    },
+    {
+      "number": "64B",
+      "destination": "Widzew Czajkowskiego"
+    },
+    {
+      "number": "65A",
+      "destination": "Lotnisko"
+    },
+    {
+      "number": "65A",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "65A",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "65B",
+      "destination": "Lotnisko"
+    },
+    {
+      "number": "65B",
+      "destination": "Radogoszcz Wschód"
+    },
+    {
+      "number": "66",
+      "destination": "Modrzew"
+    },
+    {
+      "number": "66",
+      "destination": "r. Powstańców 1863r."
+    },
+    {
+      "number": "68",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "68",
+      "destination": "Popiełuszki 21"
+    },
+    {
+      "number": "69A",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "69A",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "69B",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "69B",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "70",
+      "destination": "Instytut CZMP"
+    },
+    {
+      "number": "70",
+      "destination": "r. Powstańców 1863r."
+    },
+    {
+      "number": "71A",
+      "destination": "park Podolski"
+    },
+    {
+      "number": "71A",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "71B",
+      "destination": "park Podolski"
+    },
+    {
+      "number": "71B",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "72A",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "72A",
+      "destination": "Janów"
+    },
+    {
+      "number": "72B",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "72B",
+      "destination": "Janów"
+    },
+    {
+      "number": "72B",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "73",
+      "destination": "Radogoszcz Zachód"
+    },
+    {
+      "number": "73",
+      "destination": "Koziny"
+    },
+    {
+      "number": "74A",
+      "destination": "Złotno"
+    },
+    {
+      "number": "74A",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "74B",
+      "destination": "Huta Jagodnica"
+    },
+    {
+      "number": "74B",
+      "destination": "pl. Niepodległości"
+    },
+    {
+      "number": "75A",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "75A",
+      "destination": "Chocianowice IKEA"
+    },
+    {
+      "number": "75B",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "75B",
+      "destination": "Chocianowice IKEA"
+    },
+    {
+      "number": "76",
+      "destination": "cm. Szczecińska"
+    },
+    {
+      "number": "76",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "77",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "77",
+      "destination": "Czahary"
+    },
+    {
+      "number": "78",
+      "destination": "Targowy Rynek"
+    },
+    {
+      "number": "78",
+      "destination": "Zachodnia"
+    },
+    {
+      "number": "80A",
+      "destination": "Janów"
+    },
+    {
+      "number": "80A",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "80A",
+      "destination": "Janów"
+    },
+    {
+      "number": "80A",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "80B",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "80B",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "81",
+      "destination": "cm. Szczecińska"
+    },
+    {
+      "number": "81",
+      "destination": "Sikawa Centrum Handlowe"
+    },
+    {
+      "number": "82A",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "82A",
+      "destination": "Sąsieczno"
+    },
+    {
+      "number": "82B",
+      "destination": "Dw. Łódź Widzew"
+    },
+    {
+      "number": "82B",
+      "destination": "Stróża-Ludwików"
+    },
+    {
+      "number": "83",
+      "destination": "cm. Szczecińska"
+    },
+    {
+      "number": "83",
+      "destination": "pl. Mikulskiego"
+    },
+    {
+      "number": "84A",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "84A",
+      "destination": "Zielony Romanów"
+    },
+    {
+      "number": "84A",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "84A",
+      "destination": "Zielony Romanów"
+    },
+    {
+      "number": "84B",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "84B",
+      "destination": "Poselska (Aleks.)"
+    },
+    {
+      "number": "85",
+      "destination": "Arturówek"
+    },
+    {
+      "number": "85",
+      "destination": "Dw. Łódź Fabryczna"
+    },
+    {
+      "number": "86A",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "86A",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "86B",
+      "destination": "pl. Barlickiego"
+    },
+    {
+      "number": "86B",
+      "destination": "Retkinia Kusocińskiego"
+    },
+    {
+      "number": "87A",
+      "destination": "Włókniarzy"
+    },
+    {
+      "number": "87A",
+      "destination": "Doły Smutna"
+    },
+    {
+      "number": "87B",
+      "destination": "Włókniarzy"
+    },
+    {
+      "number": "87B",
+      "destination": "Telefoniczna Zajezdnia"
+    },
+    {
+      "number": "89",
+      "destination": "pl. Słoneczny"
+    },
+    {
+      "number": "89",
+      "destination": "cm. Szczecińska"
+    },
+    {
+      "number": "90A",
+      "destination": "Dw. Łódź Olechów Wschód"
+    },
+    {
+      "number": "90A",
+      "destination": "Janów"
+    },
+    {
+      "number": "90B",
+      "destination": "Głowackiego(Brzeziny)"
+    },
+    {
+      "number": "90B",
+      "destination": "Janów"
+    },
+    {
+      "number": "91A",
+      "destination": "Nowosolna"
+    },
+    {
+      "number": "91A",
+      "destination": "Janów"
+    },
+    {
+      "number": "91B",
+      "destination": "Kalonka/Centrum Ojca Pio"
+    },
+    {
+      "number": "91B",
+      "destination": "Janów"
+    },
+    {
+      "number": "91C",
+      "destination": "Skoszewy "
+    },
+    {
+      "number": "91C",
+      "destination": "Janów"
+    },
+    {
+      "number": "92A",
+      "destination": "Dw. Łódź Dąbrowa"
+    },
+    {
+      "number": "92A",
+      "destination": "Kolumny"
+    },
+    {
+      "number": "92B",
+      "destination": "Dw. Łódź Dąbrowa"
+    },
+    {
+      "number": "92B",
+      "destination": "Kolumny"
+    },
+    {
+      "number": "93",
+      "destination": "Instytut CZMP"
+    },
+    {
+      "number": "93",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "94",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "94",
+      "destination": "pl. Wolności(Konstantynów)"
+    },
+    {
+      "number": "96A",
+      "destination": "Janów"
+    },
+    {
+      "number": "96A",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "96B",
+      "destination": "Widzew Stadion"
+    },
+    {
+      "number": "96B",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "96C",
+      "destination": "Janów"
+    },
+    {
+      "number": "96C",
+      "destination": "Teofilów Rojna"
+    },
+    {
+      "number": "97A",
+      "destination": "Targowy Rynek"
+    },
+    {
+      "number": "97A",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "97B",
+      "destination": "Niesięcin"
+    },
+    {
+      "number": "97B",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "99",
+      "destination": "Radogoszcz Zachód"
+    },
+    {
+      "number": "99",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "6.",
+      "destination": "Parzęczewska /Staffa(Zg.)"
+    },
+    {
+      "number": "6.",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "201",
+      "destination": "Bedoń Kościelna/Kościół"
+    },
+    {
+      "number": "201",
+      "destination": "rondo Inwalidów"
+    },
+    {
+      "number": "202",
+      "destination": "Janówka"
+    },
+    {
+      "number": "202",
+      "destination": "rondo Inwalidów"
+    },
+    {
+      "number": "202",
+      "destination": "Janówka"
+    },
+    {
+      "number": "G1",
+      "destination": "ŁSSE Nowy Józefów"
+    },
+    {
+      "number": "G1",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "G2",
+      "destination": "ŁSSE ks. Janika"
+    },
+    {
+      "number": "G2",
+      "destination": "Retkinia"
+    },
+    {
+      "number": "H",
+      "destination": "Chojny Hydro"
+    },
+    {
+      "number": "H",
+      "destination": "Dw. Łódź Chojny"
+    },
+    {
+      "number": "W",
+      "destination": "Śmigłego-Rydza"
+    },
+    {
+      "number": "W",
+      "destination": "rondo Inwalidów"
+    }
+  ]
+}

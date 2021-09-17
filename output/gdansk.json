@@ -1,0 +1,698 @@
+{
+  "city": "Gdańsk",
+  "lastUpdateTimestampInMillis": 1631902563,
+  "humanReadableLastUpdateTimestamp": "17-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "2",
+      "destination": "Oliwa"
+    },
+    {
+      "number": "2",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "3",
+      "destination": "Brzeźno"
+    },
+    {
+      "number": "3",
+      "destination": "Chełm Witosa"
+    },
+    {
+      "number": "4",
+      "destination": "Jelitkowo"
+    },
+    {
+      "number": "4",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "5",
+      "destination": "Nowy Port Oliwska"
+    },
+    {
+      "number": "5",
+      "destination": "Zaspa"
+    },
+    {
+      "number": "6",
+      "destination": "Jelitkowo"
+    },
+    {
+      "number": "6",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "7",
+      "destination": "Nowy Port Zajezdnia"
+    },
+    {
+      "number": "7",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "8",
+      "destination": "Jelitkowo"
+    },
+    {
+      "number": "8",
+      "destination": "Stogi"
+    },
+    {
+      "number": "9",
+      "destination": "Stogi Plaża"
+    },
+    {
+      "number": "9",
+      "destination": "Strzyża PKM"
+    },
+    {
+      "number": "10",
+      "destination": "Nowy Port Zajezdnia"
+    },
+    {
+      "number": "10",
+      "destination": "Brętowo PKM"
+    },
+    {
+      "number": "12",
+      "destination": "Oliwa"
+    },
+    {
+      "number": "12",
+      "destination": "Lawendowe Wzgórze"
+    }
+  ],
+  "buses": [
+    {
+      "number": "106",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "106",
+      "destination": "Westerplatte"
+    },
+    {
+      "number": "107",
+      "destination": "Pruszcz Gdański Rondo Kaszubskie"
+    },
+    {
+      "number": "107",
+      "destination": "Pruszcz Gdański Komarowo"
+    },
+    {
+      "number": "108",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "108",
+      "destination": "Chełm - Więckowskiego"
+    },
+    {
+      "number": "110",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "110",
+      "destination": "Port Lotniczy"
+    },
+    {
+      "number": "111",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "111",
+      "destination": "Górki Zachodnie"
+    },
+    {
+      "number": "112",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "112",
+      "destination": "Przegalina"
+    },
+    {
+      "number": "113",
+      "destination": "Olimpijska"
+    },
+    {
+      "number": "113",
+      "destination": "Gościnna"
+    },
+    {
+      "number": "115",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "115",
+      "destination": "Jaworzniaków"
+    },
+    {
+      "number": "116",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "116",
+      "destination": "Matemblewo"
+    },
+    {
+      "number": "117",
+      "destination": "Jelitkowo Kapliczna"
+    },
+    {
+      "number": "117",
+      "destination": "Sopot Przylesie"
+    },
+    {
+      "number": "118",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "118",
+      "destination": "Jeleniogórska"
+    },
+    {
+      "number": "120",
+      "destination": "Stężycka"
+    },
+    {
+      "number": "120",
+      "destination": "Siedlce"
+    },
+    {
+      "number": "122",
+      "destination": "Port Lotniczy"
+    },
+    {
+      "number": "122",
+      "destination": "Sopot Kamienny Potok SKM"
+    },
+    {
+      "number": "123",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "123",
+      "destination": "Równa"
+    },
+    {
+      "number": "124",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "124",
+      "destination": "Zaspa - Szpital"
+    },
+    {
+      "number": "126",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "126",
+      "destination": "Żukowo Urząd Gminy"
+    },
+    {
+      "number": "127",
+      "destination": "Oliwa PKP"
+    },
+    {
+      "number": "127",
+      "destination": "Jasień PKM"
+    },
+    {
+      "number": "130",
+      "destination": "Muzeum II Wojny Światowej"
+    },
+    {
+      "number": "130",
+      "destination": "Jasień PKM"
+    },
+    {
+      "number": "131",
+      "destination": "Matemblewo"
+    },
+    {
+      "number": "131",
+      "destination": "Olszynka - Szkoła"
+    },
+    {
+      "number": "132",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "132",
+      "destination": "Pruszcz Gdański Rondo Kociewskie"
+    },
+    {
+      "number": "136",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "136",
+      "destination": "Niedźwiednik"
+    },
+    {
+      "number": "138",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "138",
+      "destination": "Westerplatte"
+    },
+    {
+      "number": "143",
+      "destination": "Oliwa PKP"
+    },
+    {
+      "number": "143",
+      "destination": "Sopot Sanatorium \"Leśnik\""
+    },
+    {
+      "number": "148",
+      "destination": "Żabianka SKM"
+    },
+    {
+      "number": "148",
+      "destination": "Nowy Port Szaniec Zachodni"
+    },
+    {
+      "number": "149",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "154",
+      "destination": "Jana z Kolna"
+    },
+    {
+      "number": "154",
+      "destination": "Orunia Górna"
+    },
+    {
+      "number": "155",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "155",
+      "destination": "Jasień PKM"
+    },
+    {
+      "number": "156",
+      "destination": "Siedlce"
+    },
+    {
+      "number": "156",
+      "destination": "Kowale Szkoła Metropolitalna"
+    },
+    {
+      "number": "157",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "157",
+      "destination": "Bysewo"
+    },
+    {
+      "number": "158",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "158",
+      "destination": "Stogi"
+    },
+    {
+      "number": "162",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "162",
+      "destination": "Orunia Górna"
+    },
+    {
+      "number": "164",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "164",
+      "destination": "Jasień PKM"
+    },
+    {
+      "number": "166",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "166",
+      "destination": "Sztutowska"
+    },
+    {
+      "number": "167",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "167",
+      "destination": "Bysewo"
+    },
+    {
+      "number": "168",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "168",
+      "destination": "Kiełpino Górne"
+    },
+    {
+      "number": "169",
+      "destination": "Oliwa Pętla Tramwajowa"
+    },
+    {
+      "number": "169",
+      "destination": "Owczarnia"
+    },
+    {
+      "number": "171",
+      "destination": "Oliwa Pętla Tramwajowa"
+    },
+    {
+      "number": "171",
+      "destination": "Gdynia Karwiny Nowowiczlińska"
+    },
+    {
+      "number": "174",
+      "destination": "Siedlce"
+    },
+    {
+      "number": "174",
+      "destination": "Otomin - Pętla"
+    },
+    {
+      "number": "175",
+      "destination": "Siedlce"
+    },
+    {
+      "number": "175",
+      "destination": "Maćkowy"
+    },
+    {
+      "number": "178",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "178",
+      "destination": "Olszynka - Niwki"
+    },
+    {
+      "number": "179",
+      "destination": "Oliwa Pętla Tramwajowa"
+    },
+    {
+      "number": "179",
+      "destination": "Osowa PKP"
+    },
+    {
+      "number": "184",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "184",
+      "destination": "Niedźwiednik"
+    },
+    {
+      "number": "186",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "186",
+      "destination": "Górki Wschodnie"
+    },
+    {
+      "number": "189",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "189",
+      "destination": "Maćkowy"
+    },
+    {
+      "number": "195",
+      "destination": "Siedlce"
+    },
+    {
+      "number": "195",
+      "destination": "Cedrowa"
+    },
+    {
+      "number": "199",
+      "destination": "Oliwa PKP"
+    },
+    {
+      "number": "199",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "200",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "200",
+      "destination": "Pruszcz Gdański Osiedle Wschód"
+    },
+    {
+      "number": "205",
+      "destination": "Pruszcz Gdański Komarowo"
+    },
+    {
+      "number": "205",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "207",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "207",
+      "destination": "Pruszcz Gdański Komarowo"
+    },
+    {
+      "number": "210",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "210",
+      "destination": "Osowa PKP"
+    },
+    {
+      "number": "213",
+      "destination": "Kowale Szkoła Metropolitalna"
+    },
+    {
+      "number": "213",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "227",
+      "destination": "Jelitkowo"
+    },
+    {
+      "number": "227",
+      "destination": "Chełm Cienista"
+    },
+    {
+      "number": "232",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "232",
+      "destination": "Pruszcz Gdański Rondo Kociewskie"
+    },
+    {
+      "number": "249",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "255",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "255",
+      "destination": "Jankowo"
+    },
+    {
+      "number": "256",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "256",
+      "destination": "Jankowo"
+    },
+    {
+      "number": "258",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "258",
+      "destination": "Stogi"
+    },
+    {
+      "number": "262",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "262",
+      "destination": "Jaworzniaków"
+    },
+    {
+      "number": "267",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "267",
+      "destination": "Bysewo"
+    },
+    {
+      "number": "268",
+      "destination": "Kiełpinek PKM"
+    },
+    {
+      "number": "268",
+      "destination": "Smęgorzyno"
+    },
+    {
+      "number": "269",
+      "destination": "Osiedle Barniewice"
+    },
+    {
+      "number": "269",
+      "destination": "Kukawka"
+    },
+    {
+      "number": "283",
+      "destination": "Nowy Port Szaniec Zachodni"
+    },
+    {
+      "number": "283",
+      "destination": "Niedźwiednik"
+    },
+    {
+      "number": "295",
+      "destination": "Łostowice Świętokrzyska"
+    },
+    {
+      "number": "295",
+      "destination": "Zakoniczyn"
+    },
+    {
+      "number": "512",
+      "destination": "Sobieszewo"
+    },
+    {
+      "number": "512",
+      "destination": "Przegalina"
+    },
+    {
+      "number": "606",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "606",
+      "destination": "Westerplatte"
+    },
+    {
+      "number": "622",
+      "destination": "Oliwa Pętla Tramwajowa"
+    },
+    {
+      "number": "622",
+      "destination": "Oliwa ZOO"
+    },
+    {
+      "number": "658",
+      "destination": "Stadion"
+    },
+    {
+      "number": "658",
+      "destination": "Ku Ujściu"
+    },
+    {
+      "number": "N1",
+      "destination": "Osowa PKP"
+    },
+    {
+      "number": "N1",
+      "destination": "Jaworzniaków"
+    },
+    {
+      "number": "N2",
+      "destination": "Grudziądzka"
+    },
+    {
+      "number": "N2",
+      "destination": "Maćkowy"
+    },
+    {
+      "number": "N3",
+      "destination": "Wrzeszcz PKP"
+    },
+    {
+      "number": "N3",
+      "destination": "Wały Piastowskie"
+    },
+    {
+      "number": "N4",
+      "destination": "Jaworzniaków"
+    },
+    {
+      "number": "N4",
+      "destination": "Jelitkowo"
+    },
+    {
+      "number": "N5",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "N5",
+      "destination": "Pruszcz Gdański Matejki"
+    },
+    {
+      "number": "N8",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "N8",
+      "destination": "Górki Zachodnie"
+    },
+    {
+      "number": "N9",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "N9",
+      "destination": "Przegalina"
+    },
+    {
+      "number": "N11",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "N11",
+      "destination": "Olszynka - Niwki"
+    },
+    {
+      "number": "N12",
+      "destination": "Żabianka SKM"
+    },
+    {
+      "number": "N12",
+      "destination": "Jasieńska"
+    },
+    {
+      "number": "N13",
+      "destination": "Żabianka SKM"
+    },
+    {
+      "number": "N13",
+      "destination": "Olimpijska"
+    }
+  ]
+}

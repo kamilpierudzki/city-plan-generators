@@ -1,7 +1,7 @@
 {
   "city": "Łódź",
-  "lastUpdateTimestampInMillis": 1631895691,
-  "humanReadableLastUpdateTimestamp": "17-09-2021",
+  "lastUpdateTimestampInMillis": 1631992077,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -183,6 +183,14 @@
       "destination": "Marysin Warszawska"
     },
     {
+      "number": "Z5",
+      "destination": "Dw. Łódź Kaliska"
+    },
+    {
+      "number": "Z5",
+      "destination": "Zachodnia"
+    },
+    {
       "number": "Z6",
       "destination": "Legionów"
     },
@@ -197,6 +205,14 @@
     {
       "number": "Z13",
       "destination": "Włókniarzy"
+    },
+    {
+      "number": "Z15",
+      "destination": "Kilińskiego"
+    },
+    {
+      "number": "Z15",
+      "destination": "Szpital CKD"
     },
     {
       "number": "Z41",

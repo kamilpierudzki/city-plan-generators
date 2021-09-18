@@ -1,7 +1,7 @@
 {
   "city": "Wrocław",
-  "lastUpdateTimestampInMillis": 1631564249,
-  "humanReadableLastUpdateTimestamp": "13-09-2021",
+  "lastUpdateTimestampInMillis": 1631992055,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -163,14 +163,6 @@
     {
       "number": "74",
       "destination": "FAT"
-    },
-    {
-      "number": "ZLT",
-      "destination": "Opera"
-    },
-    {
-      "number": "ZLT",
-      "destination": "Zajezdnia DĄBIE (Czasoprzestrzeń)"
     }
   ],
   "buses": [

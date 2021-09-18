@@ -189,7 +189,7 @@ def get_vehicle_data(vehicle_data_dict):
                 _vehicle_data.append(row_inactive)
                 print(row_inactive)
         except Exception:
-            print("Error: Line " + key + " is broken")
+            print("Error: Line " + vehicle_data_dict[key] + " is broken")
     return _vehicle_data
 
 

@@ -1,7 +1,7 @@
 {
   "city": "Kraków",
-  "lastUpdateTimestampInMillis": 1631220229,
-  "humanReadableLastUpdateTimestamp": "09-09-2021",
+  "lastUpdateTimestampInMillis": 1631992036,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -428,7 +428,7 @@
     },
     {
       "number": "133",
-      "destination": "Bieżanów Potrzask"
+      "destination": "Nowy Bieżanów Południe"
     },
     {
       "number": "134",
@@ -991,6 +991,14 @@
       "destination": "Goszcza Dworek"
     },
     {
+      "number": "233",
+      "destination": "Skawina SCK"
+    },
+    {
+      "number": "233",
+      "destination": "Skawina Korabniki"
+    },
+    {
       "number": "234",
       "destination": "Nowy Bieżanów Południe"
     },
@@ -1335,14 +1343,6 @@
       "destination": "Niepołomice Puszcza"
     },
     {
-      "number": "LR2",
-      "destination": "Czyżyny Dworzec"
-    },
-    {
-      "number": "LR2",
-      "destination": "Przylasek Rusiecki Kąpielisko"
-    },
-    {
       "number": "LR6",
       "destination": "Bronowice Małe"
     },
@@ -1391,14 +1391,6 @@
       "destination": "Owczary Pętla"
     },
     {
-      "number": "352",
-      "destination": "Plac Centralny im. R.Reagana"
-    },
-    {
-      "number": "352",
-      "destination": "Kryspinów"
-    },
-    {
       "number": "405",
       "destination": "Dworzec Główny Zachód"
     },
@@ -1429,14 +1421,6 @@
     {
       "number": "424",
       "destination": "Ugorek"
-    },
-    {
-      "number": "427",
-      "destination": "Podgórze SKA"
-    },
-    {
-      "number": "427",
-      "destination": "Bagry"
     },
     {
       "number": "433",
@@ -1479,12 +1463,12 @@
       "destination": "Nałkowskiej"
     },
     {
-      "number": "497",
-      "destination": "Mały Płaszów P+R"
+      "number": "482",
+      "destination": "Mistrzejowice"
     },
     {
-      "number": "497",
-      "destination": "Bagry Tężnia"
+      "number": "482",
+      "destination": "Dworzec Główny Wschód"
     },
     {
       "number": "501",

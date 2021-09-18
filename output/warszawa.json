@@ -1,7 +1,7 @@
 {
   "city": "Warszawa",
-  "lastUpdateTimestampInMillis": 1631220365,
-  "humanReadableLastUpdateTimestamp": "09-09-2021",
+  "lastUpdateTimestampInMillis": 1631992185,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -1901,6 +1901,14 @@
     {
       "number": "900",
       "destination": "Chlubna 02"
+    },
+    {
+      "number": "C",
+      "destination": "pl.Narutowicza 04"
+    },
+    {
+      "number": "C",
+      "destination": "Centrum 06"
     },
     {
       "number": "E-1",

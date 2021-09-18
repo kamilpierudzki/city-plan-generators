@@ -1,0 +1,714 @@
+{
+  "city": "Bydgoszcz",
+  "lastUpdateTimestampInMillis": 1631971704,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "1",
+      "destination": "WILCZAK"
+    },
+    {
+      "number": "1",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "2",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "2",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "3",
+      "destination": "WILCZAK"
+    },
+    {
+      "number": "3",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "4",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "4",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "5",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "5",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "6",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "6",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "7",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "7",
+      "destination": "NIEPODLEGŁOŚCI (PĘTLA)"
+    },
+    {
+      "number": "7",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "7",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "8",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "8",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "9",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "9",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "10",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "10",
+      "destination": "NIEPODLEGŁOŚCI (PĘTLA)"
+    },
+    {
+      "number": "10",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "10",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "11",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "11",
+      "destination": "WYŻYNY (PĘTLA)"
+    }
+  ],
+  "buses": [
+    {
+      "number": "51",
+      "destination": "CZYŻKÓWKO"
+    },
+    {
+      "number": "51",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "52",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "52",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "52",
+      "destination": "PODKOWA"
+    },
+    {
+      "number": "52",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "53",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "53",
+      "destination": "ŁUKASIEWICZA"
+    },
+    {
+      "number": "54",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "54",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "54",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "55",
+      "destination": "SKORUPKI"
+    },
+    {
+      "number": "55",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "56",
+      "destination": "BELMA"
+    },
+    {
+      "number": "56",
+      "destination": "GLINKI BFM"
+    },
+    {
+      "number": "56",
+      "destination": "BELMA"
+    },
+    {
+      "number": "56",
+      "destination": "GLINKI BFM"
+    },
+    {
+      "number": "57",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "57",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "58",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "58",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "58",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "58",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "59",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "59",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "59",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "59",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "60",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "60",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "61",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "61",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "62",
+      "destination": "BELMA"
+    },
+    {
+      "number": "62",
+      "destination": "GARBARY"
+    },
+    {
+      "number": "64",
+      "destination": "PRZEMYSŁOWA"
+    },
+    {
+      "number": "64",
+      "destination": "BARWNA"
+    },
+    {
+      "number": "65",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "65",
+      "destination": "NAD WISŁĄ"
+    },
+    {
+      "number": "65",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "65",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "67",
+      "destination": "SKŁODOWSKIEJ-CURIE / ŁĘCZYCKA"
+    },
+    {
+      "number": "67",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "68",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "68",
+      "destination": "PARK PRZEMYSŁOWY / EXPLOSEUM"
+    },
+    {
+      "number": "68",
+      "destination": "PRĄDOCIŃSKA"
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "69",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "69",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "71",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "71",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "73",
+      "destination": "ESKULAPA"
+    },
+    {
+      "number": "73",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "73",
+      "destination": "DWORZEC BIELAWY (INWALIDÓW)"
+    },
+    {
+      "number": "73",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "74",
+      "destination": "WYŚCIGOWA"
+    },
+    {
+      "number": "74",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "76",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "76",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "76",
+      "destination": "NOWOTORUŃSKA / PLĄTNOWSKA"
+    },
+    {
+      "number": "76",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "77",
+      "destination": "NIKLOWA"
+    },
+    {
+      "number": "77",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "77",
+      "destination": "NIKLOWA"
+    },
+    {
+      "number": "77",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "79",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "79",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "79",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "79",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "80",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "80",
+      "destination": "PORT LOTNICZY (AIRPORT)"
+    },
+    {
+      "number": "80",
+      "destination": "ZBOŻOWY RYNEK"
+    },
+    {
+      "number": "81",
+      "destination": "SKANDYNAWSKA / IKEA"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "81",
+      "destination": "TOR REGATOWY"
+    },
+    {
+      "number": "81",
+      "destination": "PRZEMYSŁOWA"
+    },
+    {
+      "number": "81",
+      "destination": "CENTRUM ONKOLOGII"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "82",
+      "destination": "ZAMCZYSKO (PĘTLA)"
+    },
+    {
+      "number": "82",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "83",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "83",
+      "destination": "CZYŻKÓWKO"
+    },
+    {
+      "number": "84",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "84",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "85",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "85",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "89",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "89",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "ZaT6",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "ZaT6",
+      "destination": "RONDO JAGIELLONÓW"
+    },
+    {
+      "number": "40",
+      "destination": "OSTROMECKO"
+    },
+    {
+      "number": "40",
+      "destination": "PRZYLESIE"
+    },
+    {
+      "number": "90",
+      "destination": "ŁOCHOWICE/NAKIELSKA/ZAJĘCZA (PĘTLA)"
+    },
+    {
+      "number": "90",
+      "destination": "GARBARY"
+    },
+    {
+      "number": "91",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "91",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "92",
+      "destination": "MUROWANIEC"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "92",
+      "destination": "ŁOCHOWO"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "93",
+      "destination": "NIWY"
+    },
+    {
+      "number": "93",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "93",
+      "destination": "WILCZE"
+    },
+    {
+      "number": "93",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "NEKLA / AKACJOWA"
+    },
+    {
+      "number": "94",
+      "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "95",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "96",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "96",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "96",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "96",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "97",
+      "destination": "KOZIELEC"
+    },
+    {
+      "number": "97",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "98",
+      "destination": "PRZYLESIE"
+    },
+    {
+      "number": "99",
+      "destination": "NOWA WIEŚ WIELKA"
+    },
+    {
+      "number": "99",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "31N",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "31N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "31N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "31N",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "31N",
+      "destination": "PODKOWA"
+    },
+    {
+      "number": "32N",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "32N",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "32N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "32N",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "33N",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "33N",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "33N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "33N",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "34N",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "34N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "34N",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "35N",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "35N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "35N",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "36N",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "36N",
+      "destination": "NAKIELSKA / LISIA"
+    },
+    {
+      "number": "36N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "36N",
+      "destination": "BELMA"
+    }
+  ]
+}

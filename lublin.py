@@ -88,15 +88,14 @@ def get_vehicle_data(vehicle_data_dict):
     for key in vehicle_data_dict:
         try:
             _directions_for_subpage = get_directions_for_subpage(vehicle_data_dict[key])
+            _number = key
+            for direction in _directions_for_subpage:
+                _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
+                _vehicle_data.append(_row)
+                print(_row)
         except Exception:
             print("Error: " + vehicle_data_dict[key] + "is broken")
             continue
-
-        _number = key
-        for direction in _directions_for_subpage:
-            _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
-            _vehicle_data.append(_row)
-            print(_row)
     return _vehicle_data
 
 

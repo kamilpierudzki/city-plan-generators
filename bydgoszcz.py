@@ -93,16 +93,16 @@ def create_dict(timetable_links):
 def get_vehicle_data(vehicle_data_dict):
     _vehicle_data = []
     for key in vehicle_data_dict:
-        _directions_for_subpage = get_directions_for_subpage(vehicle_data_dict[key])
-
-        if _directions_for_subpage is None:
+        try:
+            _directions_for_subpage = get_directions_for_subpage(vehicle_data_dict[key])
+            _number = key
+            for direction in _directions_for_subpage:
+                _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
+                _vehicle_data.append(_row)
+                print(_row)
+        except Exception:
+            print("Error: line " + vehicle_data_dict[key] + " is broken")
             continue
-
-        _number = key
-        for direction in _directions_for_subpage:
-            _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
-            _vehicle_data.append(_row)
-            print(_row)
     return _vehicle_data
 
 
@@ -114,7 +114,8 @@ def get_directions_for_subpage(url_to_subpage):
     for filtered_td in _filtered_td2:
         direction = get_direction_from_td(filtered_td)
         _result.append(direction)
-
+    if len(_result) == 0:
+        raise Exception("Error: directions were not found")
     return _result
 
 

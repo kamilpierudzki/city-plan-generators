@@ -1,0 +1,377 @@
+{
+  "city": "Białystok",
+  "lastUpdateTimestampInMillis": 1631991680,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "appVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1",
+      "destination": "GRABÓWKA, Pomnik Ofiar Zbrodni Hitlerowskiej Pętla"
+    },
+    {
+      "number": "1",
+      "destination": "SIKORSKIEGO, Pętla"
+    },
+    {
+      "number": "2",
+      "destination": "DOJLIDY GÓRNE, Pętla"
+    },
+    {
+      "number": "2",
+      "destination": "TRANSPORTOWA, Transportowa"
+    },
+    {
+      "number": "3",
+      "destination": "NIEMEŃSKA, Wiślana"
+    },
+    {
+      "number": "3",
+      "destination": "ZAMBROWSKA, Kleosin Pętla"
+    },
+    {
+      "number": "4",
+      "destination": "KLEPACKA, Pętla"
+    },
+    {
+      "number": "4",
+      "destination": "KURONIA, Myśliwska"
+    },
+    {
+      "number": "5",
+      "destination": "SYBIRAKÓW, PĘTLA"
+    },
+    {
+      "number": "5",
+      "destination": "GEN. J.HALLERA, Dziesięciny Pętla"
+    },
+    {
+      "number": "6",
+      "destination": "DOLISTOWSKA, Osiedle Pieczurki"
+    },
+    {
+      "number": "6",
+      "destination": "OCTOWA, Bażantarnia Pętla"
+    },
+    {
+      "number": "7",
+      "destination": "FASTY, Pętla"
+    },
+    {
+      "number": "7",
+      "destination": "BRANICKIEGO, Piastowska"
+    },
+    {
+      "number": "8",
+      "destination": "SZKOLNA, Starosielce PKP"
+    },
+    {
+      "number": "8",
+      "destination": "TOWAROWA, Pętla"
+    },
+    {
+      "number": "9",
+      "destination": "PRODUKCYJNA, Pętla"
+    },
+    {
+      "number": "9",
+      "destination": "NIEMEŃSKA, Wiślana"
+    },
+    {
+      "number": "10",
+      "destination": "KOPLANY, Kolonia"
+    },
+    {
+      "number": "10",
+      "destination": "KOLEJOWA, Dworzec PKP"
+    },
+    {
+      "number": "11",
+      "destination": "CIOŁKOWSKIEGO, Stadion Miejski"
+    },
+    {
+      "number": "11",
+      "destination": "ZAWADY, Pętla"
+    },
+    {
+      "number": "12",
+      "destination": "PIECZURKI, Pętla"
+    },
+    {
+      "number": "12",
+      "destination": "SZKOLNA, Starosielce PKP"
+    },
+    {
+      "number": "13",
+      "destination": "42. PUŁKU PIECHOTY, Warzywna"
+    },
+    {
+      "number": "13",
+      "destination": "WIEWIÓRCZA, Szpital Zakaźny"
+    },
+    {
+      "number": "15",
+      "destination": "HALICKA, Pętla"
+    },
+    {
+      "number": "15",
+      "destination": "ANDERSA, Elektrociepłownia Pętla"
+    },
+    {
+      "number": "16",
+      "destination": "GAJOWA, Jarzębinowa"
+    },
+    {
+      "number": "16",
+      "destination": "TRANSPORTOWA, Transportowa"
+    },
+    {
+      "number": "17",
+      "destination": "PLAŻOWA, Pętla"
+    },
+    {
+      "number": "17",
+      "destination": "HERBERTA, Pętla"
+    },
+    {
+      "number": "18",
+      "destination": "42. PUŁKU PIECHOTY, Warzywna"
+    },
+    {
+      "number": "18",
+      "destination": "NARODOWYCH SIŁ ZBROJNYCH, Ogródki Działkowe"
+    },
+    {
+      "number": "19",
+      "destination": "GAJOWA, Jarzębinowa"
+    },
+    {
+      "number": "19",
+      "destination": "WIEWIÓRCZA, Szpital Zakaźny"
+    },
+    {
+      "number": "20",
+      "destination": "BOBOLI, Cmentarz"
+    },
+    {
+      "number": "20",
+      "destination": "ANDERSA, Elektrociepłownia Pętla"
+    },
+    {
+      "number": "21",
+      "destination": "PIASTOWSKA, Pętla"
+    },
+    {
+      "number": "21",
+      "destination": "ZIELONOGÓRSKA, Zielone Wzgórza"
+    },
+    {
+      "number": "22",
+      "destination": "JUCHNOWIEC KOŚCIELNY, Juchnowiec Kościelny"
+    },
+    {
+      "number": "22",
+      "destination": "B.M.CASSINO, Dworzec PKS"
+    },
+    {
+      "number": "23",
+      "destination": "ZIELONOGÓRSKA, Zielone Wzgórza"
+    },
+    {
+      "number": "23",
+      "destination": "FILIPOWICZA, Pętla"
+    },
+    {
+      "number": "24",
+      "destination": "KURONIA, Myśliwska"
+    },
+    {
+      "number": "24",
+      "destination": "HERBERTA, Pętla"
+    },
+    {
+      "number": "25",
+      "destination": "ANDERSA, Fabryka Dywanów"
+    },
+    {
+      "number": "25",
+      "destination": "ZIELONOGÓRSKA, Zielone Wzgórza"
+    },
+    {
+      "number": "26",
+      "destination": "KLEOSIN, Kraszewskiego"
+    },
+    {
+      "number": "26",
+      "destination": "ZAGUMIENNA, Zagumienna"
+    },
+    {
+      "number": "27",
+      "destination": "ANDERSA, Elektrociepłownia Pętla"
+    },
+    {
+      "number": "27",
+      "destination": "TRANSPORTOWA, Transportowa"
+    },
+    {
+      "number": "28",
+      "destination": "ŻYZNA, Pętla"
+    },
+    {
+      "number": "28",
+      "destination": "SIKORSKIEGO, Pętla"
+    },
+    {
+      "number": "29",
+      "destination": "ŻYZNA, Pętla"
+    },
+    {
+      "number": "29",
+      "destination": "GAJOWA, Jarzębinowa"
+    },
+    {
+      "number": "50",
+      "destination": "kierunek:"
+    },
+    {
+      "number": "50",
+      "destination": "kierunek:"
+    },
+    {
+      "number": "100",
+      "destination": "ŚWIĘTA WODA, Święta Woda"
+    },
+    {
+      "number": "100",
+      "destination": "B.M.CASSINO, Dworzec PKS"
+    },
+    {
+      "number": "101",
+      "destination": "KURIANY, Pętla"
+    },
+    {
+      "number": "101",
+      "destination": "SIENKIEWICZA, Rzeka Biała"
+    },
+    {
+      "number": "102",
+      "destination": "WASILKÓW, Kościelna"
+    },
+    {
+      "number": "102",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "103",
+      "destination": "CHOROSZCZ, Cmentarz"
+    },
+    {
+      "number": "103",
+      "destination": "PIASTOWSKA, Pętla"
+    },
+    {
+      "number": "104",
+      "destination": "ROSTOŁTY, Rostołty"
+    },
+    {
+      "number": "104",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "105",
+      "destination": "HENRYKOWO, Pętla"
+    },
+    {
+      "number": "105",
+      "destination": "SIENKIEWICZA, Rzeka Biała"
+    },
+    {
+      "number": "106",
+      "destination": "BORSUKÓWKA, Borsukówka"
+    },
+    {
+      "number": "106",
+      "destination": "PIASTOWSKA, Pętla"
+    },
+    {
+      "number": "107",
+      "destination": "KLEPACZE, Pętla"
+    },
+    {
+      "number": "107",
+      "destination": "B.M.CASSINO, Dworzec PKS"
+    },
+    {
+      "number": "108",
+      "destination": "WASILKÓW, ŻWIROWA"
+    },
+    {
+      "number": "108",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "109",
+      "destination": "NIEWODNICA NARGILEWSKA, Niewodnica Narg. Wys."
+    },
+    {
+      "number": "109",
+      "destination": "SIENKIEWICZA, Rzeka Biała"
+    },
+    {
+      "number": "111",
+      "destination": "CIASNE, Ciasne"
+    },
+    {
+      "number": "111",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "112",
+      "destination": "OLMONTY, Wrzosowa"
+    },
+    {
+      "number": "112",
+      "destination": "SIENKIEWICZA, Rzeka Biała"
+    },
+    {
+      "number": "122",
+      "destination": "WASILKÓW, Cmentarz Pętla"
+    },
+    {
+      "number": "122",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "132",
+      "destination": "KATRYNKA, Katrynka"
+    },
+    {
+      "number": "132",
+      "destination": "PIŁSUDSKIEGO, Pałacowa"
+    },
+    {
+      "number": "200",
+      "destination": "SIMUNY, Simuny"
+    },
+    {
+      "number": "200",
+      "destination": "JUCHNOWIEC KOŚCIELNY, Juchnowiec Kościelny"
+    },
+    {
+      "number": "201",
+      "destination": "SKŁADOWA, Urząd Miejski"
+    },
+    {
+      "number": "201",
+      "destination": "JUCHNOWIEC KOŚCIELNY, Juchnowiec Kościelny"
+    },
+    {
+      "number": "202",
+      "destination": "SKŁADOWA, Urząd Miejski"
+    },
+    {
+      "number": "202",
+      "destination": "JUCHNOWIEC KOŚCIELNY, Juchnowiec Kościelny"
+    }
+  ]
+}

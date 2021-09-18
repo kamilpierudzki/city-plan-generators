@@ -1,0 +1,597 @@
+{
+  "city": "Lublin",
+  "lastUpdateTimestampInMillis": 1631986945,
+  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "appVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1",
+      "destination": "Pancerniaków Felicity"
+    },
+    {
+      "number": "1",
+      "destination": "Żeglarska "
+    },
+    {
+      "number": "2",
+      "destination": "Turka os.Borek"
+    },
+    {
+      "number": "2",
+      "destination": "Zbożowa"
+    },
+    {
+      "number": "3",
+      "destination": "Dąbrowica"
+    },
+    {
+      "number": "3",
+      "destination": "Głusk\\Dominów"
+    },
+    {
+      "number": "4",
+      "destination": "Elizówka - giełda / Elizówka/Dys-Wąwozowa"
+    },
+    {
+      "number": "4",
+      "destination": "Poligonowa"
+    },
+    {
+      "number": "5",
+      "destination": "Port Lotniczy Lublin-odloty\\Mełgiew"
+    },
+    {
+      "number": "5",
+      "destination": "Brama Krakowska"
+    },
+    {
+      "number": "6",
+      "destination": "Niepodległości"
+    },
+    {
+      "number": "6",
+      "destination": "Romera"
+    },
+    {
+      "number": "7",
+      "destination": "Zbożowa"
+    },
+    {
+      "number": "7",
+      "destination": "Felin Kalinówka"
+    },
+    {
+      "number": "8",
+      "destination": "Okopowa"
+    },
+    {
+      "number": "8",
+      "destination": "Zemborzyce Górrne/Krężnica Jara"
+    },
+    {
+      "number": "GAJ",
+      "destination": "Stary Gaj"
+    },
+    {
+      "number": "GAJ",
+      "destination": "Rąblowska NŻ"
+    },
+    {
+      "number": "11",
+      "destination": "Os.Widok"
+    },
+    {
+      "number": "11",
+      "destination": "Węglarza"
+    },
+    {
+      "number": "12",
+      "destination": "Koncertowa"
+    },
+    {
+      "number": "12",
+      "destination": "Konopnica-las / Stasin"
+    },
+    {
+      "number": "13",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "13",
+      "destination": "Paderewskiego"
+    },
+    {
+      "number": "14",
+      "destination": "Felin Uniwersytet"
+    },
+    {
+      "number": "14",
+      "destination": "Węglinek"
+    },
+    {
+      "number": "15",
+      "destination": "Żeglarska\\Dąbrowa"
+    },
+    {
+      "number": "15",
+      "destination": "Koncertowa"
+    },
+    {
+      "number": "16",
+      "destination": "Rudnik"
+    },
+    {
+      "number": "16",
+      "destination": "Wygodna"
+    },
+    {
+      "number": "17",
+      "destination": "Abramowicka Dominów / Głuszczyzna / Jabłonna - Urząd Gminy"
+    },
+    {
+      "number": "17",
+      "destination": "Paderewskiego"
+    },
+    {
+      "number": "18",
+      "destination": "Choiny"
+    },
+    {
+      "number": "18",
+      "destination": "Sławinkowska / Smugi"
+    },
+    {
+      "number": "20",
+      "destination": "Herberta"
+    },
+    {
+      "number": "20",
+      "destination": "Dębówka/Jastków-biblioteka/Piotrawin-Wygoda"
+    },
+    {
+      "number": "21",
+      "destination": "Żeglarska"
+    },
+    {
+      "number": "21",
+      "destination": "Felin / Felin Spiessa"
+    },
+    {
+      "number": "22",
+      "destination": "Brama Krakowska"
+    },
+    {
+      "number": "22",
+      "destination": "Pliszczyn/Zawieprzyce"
+    },
+    {
+      "number": "23",
+      "destination": "Kupiecka IKEA/Elizówka-giełda"
+    },
+    {
+      "number": "23",
+      "destination": "Felin / Felin Uniwersytet/Felin Spiessa"
+    },
+    {
+      "number": "24",
+      "destination": "Nasutów - kościół"
+    },
+    {
+      "number": "24",
+      "destination": "Dworzec Główny PKS - Ruska"
+    },
+    {
+      "number": "25",
+      "destination": "Rondo Lubelskiego Lipca"
+    },
+    {
+      "number": "25",
+      "destination": "Zemborzyce Górne"
+    },
+    {
+      "number": "26",
+      "destination": "Paderewskiego"
+    },
+    {
+      "number": "26",
+      "destination": "Węglinek"
+    },
+    {
+      "number": "29",
+      "destination": "Herberta/Inżynierska"
+    },
+    {
+      "number": "29",
+      "destination": "Paderewskiego"
+    },
+    {
+      "number": "30",
+      "destination": "Dworzec Gł. PKP"
+    },
+    {
+      "number": "30",
+      "destination": "Smugi"
+    },
+    {
+      "number": "31",
+      "destination": "Węglarza"
+    },
+    {
+      "number": "31",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "32",
+      "destination": "Daszyńskiego"
+    },
+    {
+      "number": "32",
+      "destination": "Os. Widok"
+    },
+    {
+      "number": "33",
+      "destination": "Tomaszowice-kościół"
+    },
+    {
+      "number": "33",
+      "destination": "Nałęczowska/Rondo Krwiodawców"
+    },
+    {
+      "number": "34",
+      "destination": "Koncertowa"
+    },
+    {
+      "number": "34",
+      "destination": "Dworzec Gł. PKP"
+    },
+    {
+      "number": "35",
+      "destination": "Armii Krajowej"
+    },
+    {
+      "number": "35",
+      "destination": "Felin"
+    },
+    {
+      "number": "36",
+      "destination": "Koncertowa"
+    },
+    {
+      "number": "36",
+      "destination": "Felin"
+    },
+    {
+      "number": "37",
+      "destination": "Zbożowa"
+    },
+    {
+      "number": "37",
+      "destination": "Żeglarska "
+    },
+    {
+      "number": "38",
+      "destination": "Abramowice"
+    },
+    {
+      "number": "38",
+      "destination": "Węglin"
+    },
+    {
+      "number": "39",
+      "destination": "Mełgiewska - chłodnia / Zadębie"
+    },
+    {
+      "number": "39",
+      "destination": "Lipniak"
+    },
+    {
+      "number": "40",
+      "destination": "Chodźki - szpital"
+    },
+    {
+      "number": "40",
+      "destination": "Żeglarska "
+    },
+    {
+      "number": "42",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "42",
+      "destination": "Kupiecka IKEA/Elizówka-giełda"
+    },
+    {
+      "number": "44",
+      "destination": "Choiny/Kawka-las"
+    },
+    {
+      "number": "44",
+      "destination": "Os.Widok"
+    },
+    {
+      "number": "45",
+      "destination": "Mełgiewska WSEI/Metalurgiczna"
+    },
+    {
+      "number": "45",
+      "destination": "Gęsia"
+    },
+    {
+      "number": "47",
+      "destination": "Zbożowa"
+    },
+    {
+      "number": "47",
+      "destination": "Felin / Felin Spiessa"
+    },
+    {
+      "number": "50",
+      "destination": "Bohaterów M. Cassino"
+    },
+    {
+      "number": "50",
+      "destination": "Pancerniaków Felicity"
+    },
+    {
+      "number": "52",
+      "destination": "Świdnik Duży - Leśniczówka"
+    },
+    {
+      "number": "52",
+      "destination": "Brama Krakowska"
+    },
+    {
+      "number": "54",
+      "destination": "Wądolna"
+    },
+    {
+      "number": "55",
+      "destination": "Koncertowa"
+    },
+    {
+      "number": "55",
+      "destination": "Felin Europark / Świdnik - helikopter"
+    },
+    {
+      "number": "57",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "57",
+      "destination": "Turystyczna"
+    },
+    {
+      "number": "70",
+      "destination": "Felin"
+    },
+    {
+      "number": "73",
+      "destination": "Mickiewicza"
+    },
+    {
+      "number": "73",
+      "destination": "Felin/Pancerniaków Felicity"
+    },
+    {
+      "number": "74",
+      "destination": "Zesłańców Sybiru"
+    },
+    {
+      "number": "74",
+      "destination": "Zesłańców Sybiru od Rudnik Kościół"
+    },
+    {
+      "number": "74",
+      "destination": "Rudnik/Ciecierzyn-Żulin"
+    },
+    {
+      "number": "78",
+      "destination": "Zemborzyce Podleśne"
+    },
+    {
+      "number": "78",
+      "destination": "Zana ZUS"
+    },
+    {
+      "number": "79",
+      "destination": "Nałęczowska"
+    },
+    {
+      "number": "85",
+      "destination": "Motycz Leśny - remiza"
+    },
+    {
+      "number": "85",
+      "destination": "Węglin"
+    },
+    {
+      "number": "725",
+      "destination": "Zemborzyce Górne"
+    },
+    {
+      "number": "725",
+      "destination": "Prawiedniki"
+    },
+    {
+      "number": "904",
+      "destination": "Plac Wolności"
+    },
+    {
+      "number": "917",
+      "destination": "Plac Bychawski"
+    },
+    {
+      "number": "917",
+      "destination": "Wyścigowa"
+    },
+    {
+      "number": "922",
+      "destination": "Dworzec Główny PKS"
+    },
+    {
+      "number": "Biała",
+      "destination": "Sławinkowska-Stefczyka"
+    },
+    {
+      "number": "Biała",
+      "destination": "Poligonowa-Stefczyka"
+    },
+    {
+      "number": "Biała",
+      "destination": "Zbożowa-Stefczyka"
+    },
+    {
+      "number": "Zielona",
+      "destination": "Zbożowa-Grygowej"
+    },
+    {
+      "number": "Zielona",
+      "destination": "Sławinkowska-Grygowej"
+    },
+    {
+      "number": "Zielona",
+      "destination": "Lipniak-Grygowej"
+    },
+    {
+      "number": "Zielona",
+      "destination": "Wojciechowska-Grygowej"
+    },
+    {
+      "number": "150",
+      "destination": "Mełgiewska WSEI/Pancerniaków"
+    },
+    {
+      "number": "150",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "151",
+      "destination": "Abramowice"
+    },
+    {
+      "number": "151",
+      "destination": "Węglin"
+    },
+    {
+      "number": "153",
+      "destination": "Pancerniaków "
+    },
+    {
+      "number": "153",
+      "destination": "Węglin"
+    },
+    {
+      "number": "154",
+      "destination": "Chodźki-szpital"
+    },
+    {
+      "number": "154",
+      "destination": "Węglin"
+    },
+    {
+      "number": "155",
+      "destination": "Pancerniaków"
+    },
+    {
+      "number": "155",
+      "destination": "Zana ZUS"
+    },
+    {
+      "number": "156",
+      "destination": "Felin"
+    },
+    {
+      "number": "156",
+      "destination": "Choiny"
+    },
+    {
+      "number": "157",
+      "destination": "Felin"
+    },
+    {
+      "number": "157",
+      "destination": "Zana Leclerc"
+    },
+    {
+      "number": "158",
+      "destination": "Felin"
+    },
+    {
+      "number": "158",
+      "destination": "Zana ZUS"
+    },
+    {
+      "number": "159",
+      "destination": "Mełgiewska WSEI/Pancerniaków"
+    },
+    {
+      "number": "159",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "160",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "160",
+      "destination": "Choiny"
+    },
+    {
+      "number": "161",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "161",
+      "destination": "Felin"
+    },
+    {
+      "number": "162",
+      "destination": "Inżynierska"
+    },
+    {
+      "number": "162",
+      "destination": "Os. Poręba"
+    },
+    {
+      "number": "950",
+      "destination": "Zana ZUS - Pancerniaków"
+    },
+    {
+      "number": "950",
+      "destination": "Os. Poręba - Pancerniaków"
+    },
+    {
+      "number": "950",
+      "destination": "Choiny - Pancerniaków"
+    },
+    {
+      "number": "N1",
+      "destination": "Żeglarska "
+    },
+    {
+      "number": "N1",
+      "destination": "Paderewskiego"
+    },
+    {
+      "number": "N2",
+      "destination": "Felin / Świdnik - helikopter"
+    },
+    {
+      "number": "N2",
+      "destination": "Rondo Przemysłowców NŻ"
+    },
+    {
+      "number": "N2",
+      "destination": "Gęsia"
+    },
+    {
+      "number": "N3",
+      "destination": "Abramowice"
+    },
+    {
+      "number": "N3",
+      "destination": "Skansen"
+    }
+  ]
+}

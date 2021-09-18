@@ -126,6 +126,7 @@ def find_active_div_direction(all_divs):
                 return div
         except KeyError:
             print()
+    raise Exception("class: " + "['timetable-line-header-summary-details-direction-item', 'active']" + " not found")
 
 
 def read_active_direction(div_active_direction):
@@ -177,15 +178,18 @@ def read_inactive_direction_from_link(link):
 def get_vehicle_data(vehicle_data_dict):
     _vehicle_data = []
     for key in vehicle_data_dict:
-        _vehicle_active_direction, _vehicle_inactive_direction = get_directions(vehicle_data_dict[key])
-        _number = key
-        row_active = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_active_direction}
-        _vehicle_data.append(row_active)
-        print(row_active)
-        if _vehicle_inactive_direction is not None:
-            row_inactive = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_inactive_direction}
-            _vehicle_data.append(row_inactive)
-            print(row_inactive)
+        try:
+            _vehicle_active_direction, _vehicle_inactive_direction = get_directions(vehicle_data_dict[key])
+            _number = key
+            row_active = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_active_direction}
+            _vehicle_data.append(row_active)
+            print(row_active)
+            if _vehicle_inactive_direction is not None:
+                row_inactive = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: _vehicle_inactive_direction}
+                _vehicle_data.append(row_inactive)
+                print(row_inactive)
+        except Exception:
+            print("Error: Line " + key + " is broken")
     return _vehicle_data
 
 

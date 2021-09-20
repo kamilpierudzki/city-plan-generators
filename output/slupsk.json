@@ -1,0 +1,181 @@
+{
+  "city": "Słupsk",
+  "lastUpdateTimestampInMillis": 1632168707,
+  "humanReadableLastUpdateTimestamp": "20-09-2021",
+  "appVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1B",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "1B",
+      "destination": "Hubalczyków"
+    },
+    {
+      "number": "1",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "1",
+      "destination": "Gdyńska"
+    },
+    {
+      "number": "2",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "2",
+      "destination": "Siemianice"
+    },
+    {
+      "number": "2",
+      "destination": "szkoła"
+    },
+    {
+      "number": "3",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "3",
+      "destination": "Kusowo"
+    },
+    {
+      "number": "4",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "4",
+      "destination": "Wieszyno"
+    },
+    {
+      "number": "5",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "5",
+      "destination": "Kobylnica"
+    },
+    {
+      "number": "6",
+      "destination": "Dworzec Kolejowy i Autobusowy"
+    },
+    {
+      "number": "6",
+      "destination": "3 Maja"
+    },
+    {
+      "number": "6",
+      "destination": "Działki"
+    },
+    {
+      "number": "7",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "7",
+      "destination": "Hubalczyków"
+    },
+    {
+      "number": "8",
+      "destination": "Park Wodny"
+    },
+    {
+      "number": "8",
+      "destination": "Hubalczyków"
+    },
+    {
+      "number": "9",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "9",
+      "destination": "Hubalczyków"
+    },
+    {
+      "number": "10",
+      "destination": "Kobylnica"
+    },
+    {
+      "number": "10",
+      "destination": "Baza MZK"
+    },
+    {
+      "number": "10",
+      "destination": "11 Listopada (przez Bolesławice)"
+    },
+    {
+      "number": "14",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "14",
+      "destination": "Szpital"
+    },
+    {
+      "number": "15",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "15",
+      "destination": "Szpital"
+    },
+    {
+      "number": "16",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "16",
+      "destination": "Szpital"
+    },
+    {
+      "number": "17",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "17",
+      "destination": "Strzelinko"
+    },
+    {
+      "number": "18",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "18",
+      "destination": "Klonowa"
+    },
+    {
+      "number": "19",
+      "destination": "11 Listopada"
+    },
+    {
+      "number": "19",
+      "destination": "Os. Batorego"
+    },
+    {
+      "number": "21",
+      "destination": "Dmowskiego"
+    },
+    {
+      "number": "21",
+      "destination": "Szpital"
+    },
+    {
+      "number": "25",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "25",
+      "destination": "Przemysłowa"
+    },
+    {
+      "number": "28",
+      "destination": "CH Jantar"
+    },
+    {
+      "number": "28",
+      "destination": "Słowackiego"
+    }
+  ]
+}

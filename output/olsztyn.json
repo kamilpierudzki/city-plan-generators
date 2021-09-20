@@ -1,0 +1,401 @@
+{
+  "city": "Olsztyn",
+  "lastUpdateTimestampInMillis": 1632175228,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
+  "appVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1",
+      "destination": "Wysoka Brama"
+    },
+    {
+      "number": "1",
+      "destination": "Kanta"
+    },
+    {
+      "number": "2",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "2",
+      "destination": "Kanta"
+    },
+    {
+      "number": "3",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "3",
+      "destination": "Uniwersytet-Prawocheńskiego"
+    },
+    {
+      "number": "101",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "101",
+      "destination": "Redykajny"
+    },
+    {
+      "number": "103",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "103",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "104",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "104",
+      "destination": "Klebark Wielki"
+    },
+    {
+      "number": "105",
+      "destination": "Borkowskiego"
+    },
+    {
+      "number": "105",
+      "destination": "Osiedle Mazurskie"
+    },
+    {
+      "number": "105",
+      "destination": "Borkowskiego"
+    },
+    {
+      "number": "105",
+      "destination": "Klewki"
+    },
+    {
+      "number": "106",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "106",
+      "destination": "Gutkowo"
+    },
+    {
+      "number": "106",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "106",
+      "destination": "Gutkowo"
+    },
+    {
+      "number": "107",
+      "destination": "Dajtki"
+    },
+    {
+      "number": "107",
+      "destination": "Jakubowo"
+    },
+    {
+      "number": "107",
+      "destination": "Łupstych"
+    },
+    {
+      "number": "107",
+      "destination": "Jakubowo"
+    },
+    {
+      "number": "108",
+      "destination": "Reymonta"
+    },
+    {
+      "number": "108",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "109",
+      "destination": "Osiedle Podleśna"
+    },
+    {
+      "number": "109",
+      "destination": "Słoneczny Stok"
+    },
+    {
+      "number": "110",
+      "destination": "Polmozbyt"
+    },
+    {
+      "number": "110",
+      "destination": "Jakubowo"
+    },
+    {
+      "number": "110",
+      "destination": "Polmozbyt"
+    },
+    {
+      "number": "110",
+      "destination": "Spręcowo"
+    },
+    {
+      "number": "110",
+      "destination": "Polmozbyt"
+    },
+    {
+      "number": "110",
+      "destination": "Jakubowo"
+    },
+    {
+      "number": "111",
+      "destination": "Nagórki"
+    },
+    {
+      "number": "111",
+      "destination": "Gutkowo"
+    },
+    {
+      "number": "112",
+      "destination": "Reymonta"
+    },
+    {
+      "number": "112",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "112",
+      "destination": "Reymonta"
+    },
+    {
+      "number": "113",
+      "destination": "Panasa"
+    },
+    {
+      "number": "113",
+      "destination": "Dajtki"
+    },
+    {
+      "number": "114",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "114",
+      "destination": "Barczewo"
+    },
+    {
+      "number": "116",
+      "destination": "Osiedle Mazurskie"
+    },
+    {
+      "number": "116",
+      "destination": "Track"
+    },
+    {
+      "number": "116",
+      "destination": "Osiedle Mazurskie"
+    },
+    {
+      "number": "117",
+      "destination": "Osiedle Generałów"
+    },
+    {
+      "number": "117",
+      "destination": "Cmentarz Dywity-Brama Wschodnia"
+    },
+    {
+      "number": "120",
+      "destination": "Panasa"
+    },
+    {
+      "number": "120",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "121",
+      "destination": "Bartąska-Rondo"
+    },
+    {
+      "number": "121",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "124",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "124",
+      "destination": "Barczewo"
+    },
+    {
+      "number": "126",
+      "destination": "Osiedle Generałów"
+    },
+    {
+      "number": "126",
+      "destination": "Jagiellońska-Ogrody"
+    },
+    {
+      "number": "127",
+      "destination": "Witosa"
+    },
+    {
+      "number": "127",
+      "destination": "Redykajny"
+    },
+    {
+      "number": "128",
+      "destination": "Brzeziny"
+    },
+    {
+      "number": "128",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "128",
+      "destination": "Brzeziny"
+    },
+    {
+      "number": "128",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "128",
+      "destination": "Brzeziny"
+    },
+    {
+      "number": "128",
+      "destination": "Uniwersytet-Centrum Konferencyjne"
+    },
+    {
+      "number": "129",
+      "destination": "Plac Roosevelta"
+    },
+    {
+      "number": "129",
+      "destination": "Olsztynek"
+    },
+    {
+      "number": "130",
+      "destination": "Panasa"
+    },
+    {
+      "number": "130",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "131",
+      "destination": "Panasa"
+    },
+    {
+      "number": "131",
+      "destination": "Indykpol"
+    },
+    {
+      "number": "136",
+      "destination": "Bartąska-Rondo"
+    },
+    {
+      "number": "136",
+      "destination": "Jagiellońska-Szpital"
+    },
+    {
+      "number": "141",
+      "destination": "Osiedle Generałów"
+    },
+    {
+      "number": "141",
+      "destination": "Cementowa"
+    },
+    {
+      "number": "201",
+      "destination": "Kutrzeby"
+    },
+    {
+      "number": "202",
+      "destination": "Pieczewo"
+    },
+    {
+      "number": "203",
+      "destination": "Andersa"
+    },
+    {
+      "number": "204",
+      "destination": "Andersa"
+    },
+    {
+      "number": "205",
+      "destination": "Tęczowy Las"
+    },
+    {
+      "number": "205",
+      "destination": "Galeria Warmińska"
+    },
+    {
+      "number": "302",
+      "destination": "Dajtki"
+    },
+    {
+      "number": "302",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "303",
+      "destination": "Witosa"
+    },
+    {
+      "number": "303",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "304",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "304",
+      "destination": "Wójtowo-Leszczynowa"
+    },
+    {
+      "number": "305",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "305",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "307",
+      "destination": "Witosa"
+    },
+    {
+      "number": "307",
+      "destination": "Plaża Miejska"
+    },
+    {
+      "number": "309",
+      "destination": "Jakubowo"
+    },
+    {
+      "number": "309",
+      "destination": "Stary Dwór"
+    },
+    {
+      "number": "N01",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "N02",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "Z-3",
+      "destination": "Dworzec Główny"
+    },
+    {
+      "number": "Z-3",
+      "destination": "Uniwersytet-Prawocheńskiego"
+    },
+    {
+      "number": "Z13",
+      "destination": "Gębika"
+    },
+    {
+      "number": "Z13",
+      "destination": "Krasickiego-Wilczyńskiego"
+    }
+  ]
+}

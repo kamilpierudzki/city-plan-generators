@@ -1,0 +1,306 @@
+{
+  "city": "Częstochowa",
+  "lastUpdateTimestampInMillis": 1632171190,
+  "humanReadableLastUpdateTimestamp": "20-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "1",
+      "destination": "Fieldorfa-Nila"
+    },
+    {
+      "number": "1",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "3",
+      "destination": "Fieldorfa-Nila"
+    },
+    {
+      "number": "3",
+      "destination": "Stadion Raków"
+    },
+    {
+      "number": "10",
+      "destination": "Krakowska"
+    },
+    {
+      "number": "10",
+      "destination": "Parkitka - Szpital"
+    }
+  ],
+  "buses": [
+    {
+      "number": "10",
+      "destination": "Krakowska"
+    },
+    {
+      "number": "10",
+      "destination": "Parkitka - Szpital"
+    },
+    {
+      "number": "11",
+      "destination": "Cmentarz Św. Rocha"
+    },
+    {
+      "number": "11",
+      "destination": "Legionów"
+    },
+    {
+      "number": "12",
+      "destination": "Gnaszyn - Dworzec Pkp"
+    },
+    {
+      "number": "12",
+      "destination": "Jesienna"
+    },
+    {
+      "number": "13",
+      "destination": "Kucelin - Szpital"
+    },
+    {
+      "number": "13",
+      "destination": "Kiedrzyn"
+    },
+    {
+      "number": "14",
+      "destination": "Korkowa"
+    },
+    {
+      "number": "14",
+      "destination": "Rząsawa"
+    },
+    {
+      "number": "15",
+      "destination": "Korkowa"
+    },
+    {
+      "number": "15",
+      "destination": "Kukuczki"
+    },
+    {
+      "number": "17",
+      "destination": "Liszka Dolna"
+    },
+    {
+      "number": "17",
+      "destination": "Wyczerpy - Osiedle"
+    },
+    {
+      "number": "18",
+      "destination": "Batalionów Chłopskich"
+    },
+    {
+      "number": "18",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "19",
+      "destination": "Walcownia"
+    },
+    {
+      "number": "19",
+      "destination": "Żabiniec"
+    },
+    {
+      "number": "20",
+      "destination": "Wyczerpy - Osiedle"
+    },
+    {
+      "number": "20",
+      "destination": "Korkowa"
+    },
+    {
+      "number": "21",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "21",
+      "destination": "Dźbów - Ksse Skorki"
+    },
+    {
+      "number": "22",
+      "destination": "Gombrowicza"
+    },
+    {
+      "number": "22",
+      "destination": "Łojki"
+    },
+    {
+      "number": "23",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "23",
+      "destination": "Dźbów - Ksse Skorki"
+    },
+    {
+      "number": "24",
+      "destination": "Krakowska"
+    },
+    {
+      "number": "24",
+      "destination": "Kukuczki"
+    },
+    {
+      "number": "25",
+      "destination": "Malownicza"
+    },
+    {
+      "number": "25",
+      "destination": "Wyczerpy - Osiedle"
+    },
+    {
+      "number": "26",
+      "destination": "Bursztynowa"
+    },
+    {
+      "number": "26",
+      "destination": "Grabówka"
+    },
+    {
+      "number": "27",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "27",
+      "destination": "Gnaszyn Dospel"
+    },
+    {
+      "number": "28",
+      "destination": "Kucelin - Szpital"
+    },
+    {
+      "number": "28",
+      "destination": "Parkitka - Szpital"
+    },
+    {
+      "number": "29",
+      "destination": "Gombrowicza"
+    },
+    {
+      "number": "29",
+      "destination": "Cmentarz Komunalny"
+    },
+    {
+      "number": "30",
+      "destination": "II Aleja Najświętszej Maryi Panny"
+    },
+    {
+      "number": "30",
+      "destination": "Jaskrów - Wille"
+    },
+    {
+      "number": "31",
+      "destination": "Cmentarz Komunalny"
+    },
+    {
+      "number": "31",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "32",
+      "destination": "Archiwum Państwowe"
+    },
+    {
+      "number": "32",
+      "destination": "Wielkoborska"
+    },
+    {
+      "number": "33",
+      "destination": "Wąsosz"
+    },
+    {
+      "number": "33",
+      "destination": "Piłsudskiego"
+    },
+    {
+      "number": "35",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "35",
+      "destination": "Kusięcka - Ksse"
+    },
+    {
+      "number": "37",
+      "destination": "Kawodrza Górna"
+    },
+    {
+      "number": "37",
+      "destination": "Tesco"
+    },
+    {
+      "number": "38",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "38",
+      "destination": "Przyjemna"
+    },
+    {
+      "number": "40",
+      "destination": "Kucelin - Szpital"
+    },
+    {
+      "number": "40",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "53",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "53",
+      "destination": "Huta Stara \"\"B\"\" - Osiedle"
+    },
+    {
+      "number": "58",
+      "destination": "Dworzec Główny Pkp"
+    },
+    {
+      "number": "58",
+      "destination": "Olsztyn - Rynek"
+    },
+    {
+      "number": "65",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "65",
+      "destination": "Korwinów - Pałac"
+    },
+    {
+      "number": "68",
+      "destination": "Poczesna - Bociania Górka"
+    },
+    {
+      "number": "68",
+      "destination": "Zajezdnia Mpk"
+    },
+    {
+      "number": "69",
+      "destination": "Dworzec Główny Pkp"
+    },
+    {
+      "number": "69",
+      "destination": "Nierada - Szkoła"
+    },
+    {
+      "number": "80",
+      "destination": "Raków - Dworzec Pkp"
+    },
+    {
+      "number": "80",
+      "destination": "Kukuczki"
+    },
+    {
+      "number": "100",
+      "destination": "Jesienna"
+    },
+    {
+      "number": "100",
+      "destination": "Mała"
+    }
+  ]
+}

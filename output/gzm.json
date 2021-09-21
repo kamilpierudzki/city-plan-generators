@@ -1,0 +1,3490 @@
+{
+  "city": "Górnośląsko-Zagłębowska Metropolia",
+  "lastUpdateTimestampInMillis": 1632259842,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
+  "appVersion": 1,
+  "trams": [
+    {
+      "number": "0",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "0",
+      "destination": "Chorzów Stadion Śląski Pętla Zach."
+    },
+    {
+      "number": "1",
+      "destination": "Chebzie Pętla"
+    },
+    {
+      "number": "1",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "2",
+      "destination": "Bytom Plac Sikorskiego"
+    },
+    {
+      "number": "2",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "3",
+      "destination": "Mikulczyce Pętla"
+    },
+    {
+      "number": "3",
+      "destination": "Makoszowy Pętla"
+    },
+    {
+      "number": "4",
+      "destination": "Zaborze Pętla"
+    },
+    {
+      "number": "4",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "5",
+      "destination": "Bytom Plac Sikorskiego"
+    },
+    {
+      "number": "5",
+      "destination": "Zaborze Pętla"
+    },
+    {
+      "number": "6",
+      "destination": "Bytom Szkoła Medyczna"
+    },
+    {
+      "number": "6",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "7",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "7",
+      "destination": "Bytom Plac Sikorskiego"
+    },
+    {
+      "number": "9",
+      "destination": "Chorzów Batory Zajezdnia"
+    },
+    {
+      "number": "9",
+      "destination": "Chebzie Pętla"
+    },
+    {
+      "number": "11",
+      "destination": "Katowice Plac Miarki"
+    },
+    {
+      "number": "11",
+      "destination": "Chorzów Metalowców"
+    },
+    {
+      "number": "13",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "13",
+      "destination": "Siemianowice Plac Skargi"
+    },
+    {
+      "number": "14",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "14",
+      "destination": "Szopienice Pętla"
+    },
+    {
+      "number": "15",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "15",
+      "destination": "Zagórze Pętla"
+    },
+    {
+      "number": "16",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "16",
+      "destination": "Wełnowiec Plac Alfreda"
+    },
+    {
+      "number": "17",
+      "destination": "Chorzów Batory Zajezdnia"
+    },
+    {
+      "number": "17",
+      "destination": "Lipiny Mijanka"
+    },
+    {
+      "number": "19",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "19",
+      "destination": "Stroszek Zajezdnia"
+    },
+    {
+      "number": "20",
+      "destination": "Chorzów Batory Zajezdnia"
+    },
+    {
+      "number": "20",
+      "destination": "Szopienice Pętla"
+    },
+    {
+      "number": "21",
+      "destination": "Milowice Pętla"
+    },
+    {
+      "number": "21",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "22",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "22",
+      "destination": "Czeladź Dworzec"
+    },
+    {
+      "number": "23",
+      "destination": "Zawodzie Zajezdnia"
+    },
+    {
+      "number": "23",
+      "destination": "Chorzów Stadion Śląski Pętla Zach."
+    },
+    {
+      "number": "26",
+      "destination": "Konstantynów Okrzei"
+    },
+    {
+      "number": "26",
+      "destination": "Pogoń Akademiki"
+    },
+    {
+      "number": "27",
+      "destination": "Osiedle Zamkowe Pętla"
+    },
+    {
+      "number": "27",
+      "destination": "Konstantynów Okrzei"
+    },
+    {
+      "number": "28",
+      "destination": "Osiedle Zamkowe Pętla"
+    },
+    {
+      "number": "28",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "35",
+      "destination": "Milowice Pętla"
+    },
+    {
+      "number": "35",
+      "destination": "Zagórze Pętla"
+    },
+    {
+      "number": "36",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "36",
+      "destination": "Zawodzie Zajezdnia"
+    },
+    {
+      "number": "38",
+      "destination": "Bytom Kościół św. Trójcy"
+    },
+    {
+      "number": "38",
+      "destination": "Bytom Powstańców Śląskich"
+    },
+    {
+      "number": "39",
+      "destination": "Szombierki Młyn [nż]"
+    },
+    {
+      "number": "39",
+      "destination": "Chebzie Pętla"
+    },
+    {
+      "number": "43",
+      "destination": "Chorzów Batory Zajezdnia"
+    },
+    {
+      "number": "43",
+      "destination": "Koszutka Słoneczna Pętla"
+    },
+    {
+      "number": "45",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "45",
+      "destination": "Zawodzie Zajezdnia"
+    },
+    {
+      "number": "46",
+      "destination": "Katowice Plac Miarki"
+    },
+    {
+      "number": "46",
+      "destination": "Koszutka Słoneczna Pętla"
+    },
+    {
+      "number": "49",
+      "destination": "Stroszek Zajezdnia"
+    },
+    {
+      "number": "49",
+      "destination": "Bytom Plac Sikorskiego"
+    }
+  ],
+  "buses": [
+    {
+      "number": "0",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "0",
+      "destination": "Pszczelnik Park"
+    },
+    {
+      "number": "1",
+      "destination": "Katowice Aleja Korfantego"
+    },
+    {
+      "number": "1",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "2",
+      "destination": "Wartogłowiec Pętla"
+    },
+    {
+      "number": "3",
+      "destination": "Stare Tarnowice GCR"
+    },
+    {
+      "number": "3",
+      "destination": "Osada Jana Pawilon"
+    },
+    {
+      "number": "4",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "4",
+      "destination": "Katowice Aleja Korfantego"
+    },
+    {
+      "number": "5",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "5",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "6",
+      "destination": "Gliwice Robotnicza"
+    },
+    {
+      "number": "6",
+      "destination": "Katowice Mickiewicza"
+    },
+    {
+      "number": "7",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "7",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "9",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "11",
+      "destination": "Czeladź Wojkowicka Pętla"
+    },
+    {
+      "number": "11",
+      "destination": "Piotrowice Pętla"
+    },
+    {
+      "number": "13",
+      "destination": "Bykowina Grzegorzka"
+    },
+    {
+      "number": "13",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "14",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "14",
+      "destination": "Katowice Aleja Korfantego"
+    },
+    {
+      "number": "15",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "15",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "16",
+      "destination": "Dąbrowa Górnicza Limanowskiego"
+    },
+    {
+      "number": "16",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "17",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "17",
+      "destination": "Siedliska"
+    },
+    {
+      "number": "19",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "19",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "20",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "20",
+      "destination": "Pyskowice Szpitalna"
+    },
+    {
+      "number": "21",
+      "destination": "Wilkowyje Murarska"
+    },
+    {
+      "number": "21",
+      "destination": "Cielmice Pętla"
+    },
+    {
+      "number": "22",
+      "destination": "Siemianowice Rurownia"
+    },
+    {
+      "number": "22",
+      "destination": "Chorzów Batory Pętla"
+    },
+    {
+      "number": "23",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "23",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "26",
+      "destination": "Jęzor Centrum Handlowe"
+    },
+    {
+      "number": "26",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "27",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "27",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "28",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "28",
+      "destination": "Maczki Kościuszki"
+    },
+    {
+      "number": "35",
+      "destination": "Czeladź Wojkowicka Pętla"
+    },
+    {
+      "number": "35",
+      "destination": "Kosztowy Pętla"
+    },
+    {
+      "number": "36",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "36",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "38",
+      "destination": "Bytom Kościół św. Trójcy"
+    },
+    {
+      "number": "38",
+      "destination": "Bytom Powstańców Śląskich"
+    },
+    {
+      "number": "39",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "39",
+      "destination": "Kochłowice Kopalnia Śląsk"
+    },
+    {
+      "number": "43",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "43",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "45",
+      "destination": "Katowice Andrzeja Dworzec"
+    },
+    {
+      "number": "45",
+      "destination": "Łaziska Średnie Dworzec PKP"
+    },
+    {
+      "number": "46",
+      "destination": "Ligota Zadole"
+    },
+    {
+      "number": "46",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "49",
+      "destination": "Sławków ZWM"
+    },
+    {
+      "number": "49",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "A",
+      "destination": "Tychy Zajezdnia"
+    },
+    {
+      "number": "A",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "B",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "B",
+      "destination": "Paprocany Pętla T-bus"
+    },
+    {
+      "number": "C",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "C",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "D",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "D",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "E",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "F",
+      "destination": "Paprocany Pętla T-bus"
+    },
+    {
+      "number": "F",
+      "destination": "Paprocany Pętla T-bus"
+    },
+    {
+      "number": "G",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "H",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "H",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "M1",
+      "destination": "Gliwice Arena Widowiskowo-Sportowa"
+    },
+    {
+      "number": "M1",
+      "destination": "Katowice Mickiewicza"
+    },
+    {
+      "number": "M2",
+      "destination": "Gołonóg Zajezdnia"
+    },
+    {
+      "number": "M2",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "M3",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "M3",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "M4",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "M4",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "M18",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "M18",
+      "destination": "Tychy Osiedle \"Z1\""
+    },
+    {
+      "number": "M22",
+      "destination": "Międzyrzecze Gospoda"
+    },
+    {
+      "number": "M22",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "M24",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "M24",
+      "destination": "Katowice Mickiewicza"
+    },
+    {
+      "number": "M101",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "M101",
+      "destination": "Katowice Aleja Korfantego"
+    },
+    {
+      "number": "M102",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "M102",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "M108",
+      "destination": "Imielin Wiadukt"
+    },
+    {
+      "number": "M108",
+      "destination": "Tychy Lodowisko"
+    },
+    {
+      "number": "2A",
+      "destination": "Myszków Dworzec PKP"
+    },
+    {
+      "number": "2A",
+      "destination": "Siewierz Zamek"
+    },
+    {
+      "number": "8",
+      "destination": "Gliwice Lipowa"
+    },
+    {
+      "number": "10",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "12",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "18",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "18",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "24",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "24",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "25",
+      "destination": "Będzin Sienkiewicza"
+    },
+    {
+      "number": "25",
+      "destination": "Grodziec Różyckiego"
+    },
+    {
+      "number": "29",
+      "destination": "Łaziska Górne Kopanina"
+    },
+    {
+      "number": "29",
+      "destination": "Katowice Andrzeja Dworzec"
+    },
+    {
+      "number": "30",
+      "destination": "Giszowiec Kopalnia Staszic"
+    },
+    {
+      "number": "30",
+      "destination": "Michałkowice Bytomska"
+    },
+    {
+      "number": "31",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "31",
+      "destination": "Bieruń Plac Autobusowy"
+    },
+    {
+      "number": "32",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "32",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "34",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "34",
+      "destination": "Kazimierz Górniczy Kopalnia"
+    },
+    {
+      "number": "37",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "37",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "40",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "40",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "41",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "41",
+      "destination": "Mikołów Nowa"
+    },
+    {
+      "number": "42",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "42",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "44",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "44",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "47",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "47",
+      "destination": "Szczygłowice Centrum Przesiadkowe"
+    },
+    {
+      "number": "48",
+      "destination": "Chorzów Stary Szyb Prezydent"
+    },
+    {
+      "number": "48",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "50",
+      "destination": "Siemianowice Powstańców Pętla"
+    },
+    {
+      "number": "50",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "51",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "51",
+      "destination": "Osiedle Tysiąclecia Pętla"
+    },
+    {
+      "number": "52",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "52",
+      "destination": "Rogoźnik Narutowicza"
+    },
+    {
+      "number": "53",
+      "destination": "Sączów Kościół"
+    },
+    {
+      "number": "53",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "55",
+      "destination": "Osiedle Naftowa Pętla"
+    },
+    {
+      "number": "55",
+      "destination": "Gołonóg Zajezdnia"
+    },
+    {
+      "number": "56",
+      "destination": "Wola Skrzyżowanie"
+    },
+    {
+      "number": "56",
+      "destination": "Bieruń Plac Nobla"
+    },
+    {
+      "number": "57",
+      "destination": "Brzezinka Wałbrzyska"
+    },
+    {
+      "number": "57",
+      "destination": "Helenka ELZAB"
+    },
+    {
+      "number": "58",
+      "destination": "Gliwice Lipowa"
+    },
+    {
+      "number": "59",
+      "destination": "Żernica Pętla"
+    },
+    {
+      "number": "59",
+      "destination": "Żerniki Osiedle"
+    },
+    {
+      "number": "60",
+      "destination": "Stanica Kościół"
+    },
+    {
+      "number": "60",
+      "destination": "Żerniki Osiedle"
+    },
+    {
+      "number": "61",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "61",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "64",
+      "destination": "Stare Tarnowice Pętla"
+    },
+    {
+      "number": "64",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "66",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "66",
+      "destination": "Golcówka ZPW"
+    },
+    {
+      "number": "67",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "69",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "69",
+      "destination": "Żory Centrum Przesiadkowe"
+    },
+    {
+      "number": "70",
+      "destination": "Borki Pętla"
+    },
+    {
+      "number": "70",
+      "destination": "Obroki Elkop"
+    },
+    {
+      "number": "71",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "71",
+      "destination": "Pyskowice Szpitalna"
+    },
+    {
+      "number": "72",
+      "destination": "Michałkowice Bytomska"
+    },
+    {
+      "number": "72",
+      "destination": "Giszowiec Kopalnia Staszic"
+    },
+    {
+      "number": "73",
+      "destination": "Stroszek Poczta"
+    },
+    {
+      "number": "73",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "74",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "74",
+      "destination": "Chorzów Batory Park Logistyczny"
+    },
+    {
+      "number": "75",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "75",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "76",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "76",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "78",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "78",
+      "destination": "Miedary Posesja 17"
+    },
+    {
+      "number": "79",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "79",
+      "destination": "Dąbrowa Górnicza Limanowskiego"
+    },
+    {
+      "number": "80",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "80",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "81",
+      "destination": "Helenka ELZAB"
+    },
+    {
+      "number": "81",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "82",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "82",
+      "destination": "Halemba Kopalnia"
+    },
+    {
+      "number": "83",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "83",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "84",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "84",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "85",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "85",
+      "destination": "Pyrzowice Port Lotniczy"
+    },
+    {
+      "number": "86",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "86",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "87",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "87",
+      "destination": "Żyglin Kościół"
+    },
+    {
+      "number": "88",
+      "destination": "Wojkowice Park"
+    },
+    {
+      "number": "88",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "89",
+      "destination": "Bielszowice Pętla"
+    },
+    {
+      "number": "89",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "90",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "90",
+      "destination": "Osiedle Syberka Ośrodek Zdrowia"
+    },
+    {
+      "number": "91",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "91",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "92",
+      "destination": "Helenka ELZAB"
+    },
+    {
+      "number": "92",
+      "destination": "Chorzów Rynek"
+    },
+    {
+      "number": "93",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "93",
+      "destination": "Brzezinka Wałbrzyska"
+    },
+    {
+      "number": "94",
+      "destination": "Radzionków Kościół"
+    },
+    {
+      "number": "94",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "95",
+      "destination": "Bieruń KWK Piast"
+    },
+    {
+      "number": "95",
+      "destination": "Goławiec Szkoła"
+    },
+    {
+      "number": "96",
+      "destination": "Przełajka Pętla"
+    },
+    {
+      "number": "97",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "98",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "98",
+      "destination": "Michałkowice Plac 11 Listopada"
+    },
+    {
+      "number": "99",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "99",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "100",
+      "destination": "Wojkowice Park"
+    },
+    {
+      "number": "100",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "101",
+      "destination": "Tychy Zajezdnia"
+    },
+    {
+      "number": "101",
+      "destination": "Czułów Fabryka"
+    },
+    {
+      "number": "102",
+      "destination": "Chropaczów Wiślan"
+    },
+    {
+      "number": "102",
+      "destination": "Piaśniki Szkoła Nr 1"
+    },
+    {
+      "number": "103",
+      "destination": "Wojkowice Park"
+    },
+    {
+      "number": "103",
+      "destination": "Tąpkowice Szkoła"
+    },
+    {
+      "number": "104",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "104",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "105",
+      "destination": "Siedliska"
+    },
+    {
+      "number": "105",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "106",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "106",
+      "destination": "Brzezinka Pętla"
+    },
+    {
+      "number": "107",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "107",
+      "destination": "Sączów Kościół"
+    },
+    {
+      "number": "108",
+      "destination": "Dąb Silesia City Center"
+    },
+    {
+      "number": "108",
+      "destination": "Giszowiec Kolista Pętla"
+    },
+    {
+      "number": "109",
+      "destination": "Janów Ośrodek Bolina"
+    },
+    {
+      "number": "109",
+      "destination": "Osiedle Witosa Pętla"
+    },
+    {
+      "number": "110",
+      "destination": "Osiedle Paderewskiego Trzy Stawy"
+    },
+    {
+      "number": "110",
+      "destination": "Michałkowice Fabud"
+    },
+    {
+      "number": "111",
+      "destination": "Makoszowy Oświęcimska"
+    },
+    {
+      "number": "111",
+      "destination": "Helenka ELZAB"
+    },
+    {
+      "number": "112",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "112",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "114",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "114",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "115",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "115",
+      "destination": "Obroki MPGK"
+    },
+    {
+      "number": "116",
+      "destination": "Ząbkowice Osiedle Młodych Hutników"
+    },
+    {
+      "number": "116",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "118",
+      "destination": "Chebzie Dworzec PKP"
+    },
+    {
+      "number": "118",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "119",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "119",
+      "destination": "Strąków Pętla"
+    },
+    {
+      "number": "120",
+      "destination": "Szczygłowice Centrum Przesiadkowe"
+    },
+    {
+      "number": "120",
+      "destination": "Katowice Andrzeja Dworzec"
+    },
+    {
+      "number": "121",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "121",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "125",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "125",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "126",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "126",
+      "destination": "Trynek Toruńska"
+    },
+    {
+      "number": "127",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "128",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "128",
+      "destination": "Tychy Zajezdnia"
+    },
+    {
+      "number": "129",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "129",
+      "destination": "Krupski Młyn Słoneczna"
+    },
+    {
+      "number": "130",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "130",
+      "destination": "Katowice Andrzeja Dworzec"
+    },
+    {
+      "number": "131",
+      "destination": "Tychy Marii Konopnickiej"
+    },
+    {
+      "number": "131",
+      "destination": "Tychy Sportowa"
+    },
+    {
+      "number": "132",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "132",
+      "destination": "Wieszowa Pętla"
+    },
+    {
+      "number": "133",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "134",
+      "destination": "Wieszowa Glinice [nż]"
+    },
+    {
+      "number": "134",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "135",
+      "destination": "Stare Tarnowice GCR"
+    },
+    {
+      "number": "135",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "137",
+      "destination": "Tychy Centrum Handlowe"
+    },
+    {
+      "number": "137",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "138",
+      "destination": "Osiedle Tysiąclecia Pętla"
+    },
+    {
+      "number": "138",
+      "destination": "Ochojec Szpital"
+    },
+    {
+      "number": "139",
+      "destination": "Bykowina Grzegorzka"
+    },
+    {
+      "number": "139",
+      "destination": "Chorzów Stary Szyb Prezydent"
+    },
+    {
+      "number": "140",
+      "destination": "Dąbrowa Górnicza Urząd Pracy"
+    },
+    {
+      "number": "140",
+      "destination": "Tucznawa Remiza"
+    },
+    {
+      "number": "142",
+      "destination": "Strzybnica Kościelna"
+    },
+    {
+      "number": "142",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "143",
+      "destination": "Nowa Wieś Pętla"
+    },
+    {
+      "number": "143",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "144",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "144",
+      "destination": "Chorzów Rynek"
+    },
+    {
+      "number": "145",
+      "destination": "Bibiela Pętla"
+    },
+    {
+      "number": "145",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "146",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "146",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "147",
+      "destination": "Orzegów Waniora"
+    },
+    {
+      "number": "147",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "148",
+      "destination": "Dołki Kaplica"
+    },
+    {
+      "number": "148",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "149",
+      "destination": "Chełm Mały Pętla"
+    },
+    {
+      "number": "149",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "150",
+      "destination": "Osiedle Bór Pętla"
+    },
+    {
+      "number": "150",
+      "destination": "Rudna Stawowa"
+    },
+    {
+      "number": "151",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "151",
+      "destination": "Miasteczko Śląskie Huta"
+    },
+    {
+      "number": "152",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "152",
+      "destination": "Pyskowice Szpitalna"
+    },
+    {
+      "number": "153",
+      "destination": "Pyskowice Plac Wyszyńskiego"
+    },
+    {
+      "number": "153",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "154",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "154",
+      "destination": "Środula Chemiczna"
+    },
+    {
+      "number": "155",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "156",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "156",
+      "destination": "Sikornik Osiedle"
+    },
+    {
+      "number": "157",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "157",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "158",
+      "destination": "Rokitnica Pętla"
+    },
+    {
+      "number": "158",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "159",
+      "destination": "Leboszowice Las"
+    },
+    {
+      "number": "159",
+      "destination": "Żernica Skrzyżowanie"
+    },
+    {
+      "number": "160",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "160",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "160S",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "160S",
+      "destination": "Bobrek Inwestycyjna Pętla II"
+    },
+    {
+      "number": "162",
+      "destination": "Brzezinka Pętla"
+    },
+    {
+      "number": "162",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "164",
+      "destination": "Dołki Kaplica"
+    },
+    {
+      "number": "165",
+      "destination": "Obroki Elkop"
+    },
+    {
+      "number": "165",
+      "destination": "Osiedle Tysiąclecia Pętla"
+    },
+    {
+      "number": "166",
+      "destination": "Chełm Śląski Fawent"
+    },
+    {
+      "number": "166",
+      "destination": "Chełm Śląski Fawent"
+    },
+    {
+      "number": "167",
+      "destination": "Szombierki Osiedle"
+    },
+    {
+      "number": "167",
+      "destination": "Miechowice Pętla"
+    },
+    {
+      "number": "168",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "168",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "169",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "169",
+      "destination": "Górniki Pętla"
+    },
+    {
+      "number": "170",
+      "destination": "Sączów Kościół"
+    },
+    {
+      "number": "170",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "173",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "173",
+      "destination": "Świerklaniec Park"
+    },
+    {
+      "number": "174",
+      "destination": "Sowice Czarna Huta"
+    },
+    {
+      "number": "174",
+      "destination": "Bobrowniki Śląskie"
+    },
+    {
+      "number": "175",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "175",
+      "destination": "Podwarpie Pętla"
+    },
+    {
+      "number": "176",
+      "destination": "Górniki Pętla"
+    },
+    {
+      "number": "176",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "177",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "177",
+      "destination": "Dąbrówka Mała Grzegorzka"
+    },
+    {
+      "number": "178",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "178",
+      "destination": "Trynek Toruńska"
+    },
+    {
+      "number": "179",
+      "destination": "Mierzęcice Magazyny"
+    },
+    {
+      "number": "179",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "180",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "180",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "181",
+      "destination": "Pszczyna Centrum Przesiadkowe"
+    },
+    {
+      "number": "181",
+      "destination": "Bieruń Plac Nobla"
+    },
+    {
+      "number": "182",
+      "destination": "Dąbrowa Górnicza Centrum"
+    },
+    {
+      "number": "182",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "183",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "183",
+      "destination": "Miechowice Pętla"
+    },
+    {
+      "number": "184",
+      "destination": "Pyskowice Plac Wyszyńskiego"
+    },
+    {
+      "number": "184",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "185",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "185",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "186",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "186",
+      "destination": "Trynek Toruńska"
+    },
+    {
+      "number": "187",
+      "destination": "Sikornik Osiedle"
+    },
+    {
+      "number": "187",
+      "destination": "Sikornik Osiedle"
+    },
+    {
+      "number": "188",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "188",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "189",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "189",
+      "destination": "Strzybnica Kościelna"
+    },
+    {
+      "number": "190",
+      "destination": "Siemianowice Plac Skargi"
+    },
+    {
+      "number": "190",
+      "destination": "Chorzów Miasto Dworzec PKP"
+    },
+    {
+      "number": "191",
+      "destination": "Zbrosławice Urząd Gminy"
+    },
+    {
+      "number": "191",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "192",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "192",
+      "destination": "Chorzów Stary Szyb Prezydent"
+    },
+    {
+      "number": "193",
+      "destination": "Osiedle Witosa Kossutha"
+    },
+    {
+      "number": "193",
+      "destination": "Wełnowiec GPP BUSINESS PARK"
+    },
+    {
+      "number": "194",
+      "destination": "Leszczyny Czereśniowa"
+    },
+    {
+      "number": "194",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "195",
+      "destination": "Leszczyny Czereśniowa"
+    },
+    {
+      "number": "195",
+      "destination": "Szczygłowice Centrum Przesiadkowe"
+    },
+    {
+      "number": "196",
+      "destination": "Przełajka Pętla"
+    },
+    {
+      "number": "197",
+      "destination": "Sośnica Osiedle Żeromskiego"
+    },
+    {
+      "number": "197",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "198",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "198",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "199",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "199",
+      "destination": "Kochłowice Kopalnia Śląsk"
+    },
+    {
+      "number": "200",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "200",
+      "destination": "Sączów Kościół"
+    },
+    {
+      "number": "201",
+      "destination": "Chorzów Batory Pętla"
+    },
+    {
+      "number": "201",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "202",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "202",
+      "destination": "Gliwice Centrum Logistyki"
+    },
+    {
+      "number": "203",
+      "destination": "Toszek"
+    },
+    {
+      "number": "203",
+      "destination": "Płużniczka Wieś"
+    },
+    {
+      "number": "204",
+      "destination": "Wilkowiczki Las"
+    },
+    {
+      "number": "204",
+      "destination": "Proboszczowice"
+    },
+    {
+      "number": "205",
+      "destination": "Toszek"
+    },
+    {
+      "number": "205",
+      "destination": "Dąbrówka Kościół"
+    },
+    {
+      "number": "206",
+      "destination": "Ciochowice"
+    },
+    {
+      "number": "206",
+      "destination": "Toszek"
+    },
+    {
+      "number": "207",
+      "destination": "Toszek"
+    },
+    {
+      "number": "207",
+      "destination": "Pyskowice Szpitalna"
+    },
+    {
+      "number": "208",
+      "destination": "Paczyna"
+    },
+    {
+      "number": "208",
+      "destination": "Pyskowice Plac Wyszyńskiego"
+    },
+    {
+      "number": "219",
+      "destination": "Ławki Pętla"
+    },
+    {
+      "number": "219",
+      "destination": "Mysłowice Kąpielisko Hubertus"
+    },
+    {
+      "number": "220",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "220",
+      "destination": "Szczakowa Dworzec PKP"
+    },
+    {
+      "number": "221",
+      "destination": "Szczakowa Ośrodek Sosina"
+    },
+    {
+      "number": "221",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "222",
+      "destination": "Siemianowice Budowlana Wolf"
+    },
+    {
+      "number": "222",
+      "destination": "Michałkowice Budryka"
+    },
+    {
+      "number": "223",
+      "destination": "Krasowy Przedszkole"
+    },
+    {
+      "number": "223",
+      "destination": "Giszowiec Kolista Pętla"
+    },
+    {
+      "number": "224",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "225",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "225",
+      "destination": "Mierzęcice Magazyny"
+    },
+    {
+      "number": "227",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "230",
+      "destination": "Godula Plac Niepodległości"
+    },
+    {
+      "number": "230",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "231",
+      "destination": "Chorzów Centrum Edukacji"
+    },
+    {
+      "number": "231",
+      "destination": "Osiedle Ustronie Chopina"
+    },
+    {
+      "number": "232",
+      "destination": "Gliwice Europa Centralna"
+    },
+    {
+      "number": "232",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "234",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "235",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "235",
+      "destination": "Czeladź Szpital"
+    },
+    {
+      "number": "236",
+      "destination": "Leboszowice Las"
+    },
+    {
+      "number": "236",
+      "destination": "Knurów Szpitalna"
+    },
+    {
+      "number": "237",
+      "destination": "Tucznawa Remiza"
+    },
+    {
+      "number": "237",
+      "destination": "Gołonóg Osiedle"
+    },
+    {
+      "number": "242",
+      "destination": "Ratanice"
+    },
+    {
+      "number": "242",
+      "destination": "Dąbrowa Górnicza Limanowskiego"
+    },
+    {
+      "number": "243",
+      "destination": "Będzin Dworzec PKP"
+    },
+    {
+      "number": "243",
+      "destination": "Ratanice"
+    },
+    {
+      "number": "245",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "245",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "246",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "246",
+      "destination": "Ożarowice Urząd Gminy"
+    },
+    {
+      "number": "250",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "250",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "252",
+      "destination": "Rachowy Osiedle"
+    },
+    {
+      "number": "253",
+      "destination": "Ławki Pętla"
+    },
+    {
+      "number": "253",
+      "destination": "Rachowy Osiedle"
+    },
+    {
+      "number": "254",
+      "destination": "Wartogłowiec Pętla"
+    },
+    {
+      "number": "255",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "259",
+      "destination": "Sośnica Osiedle Żeromskiego"
+    },
+    {
+      "number": "259",
+      "destination": "Osiedle Waryńskiego Pętla"
+    },
+    {
+      "number": "260",
+      "destination": "Porąbka Osiedle Juliusz II"
+    },
+    {
+      "number": "260",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "262",
+      "destination": "Rachowy Osiedle"
+    },
+    {
+      "number": "262",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "264",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "268",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "268",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "269",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "269",
+      "destination": "Siewierz Dom Kultury"
+    },
+    {
+      "number": "270",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "270",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "273",
+      "destination": "Mąkołowiec Pętla"
+    },
+    {
+      "number": "273",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "274",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "274",
+      "destination": "Bieruń KWK Piast"
+    },
+    {
+      "number": "275",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "275",
+      "destination": "Ząbkowice Osiedle Młodych Hutników"
+    },
+    {
+      "number": "280",
+      "destination": "Os. Młodego Górnika Kopalnia"
+    },
+    {
+      "number": "280",
+      "destination": "Gliwice Zakład Opla"
+    },
+    {
+      "number": "283",
+      "destination": "Świerklaniec Park"
+    },
+    {
+      "number": "283",
+      "destination": "Twardowice Remiza"
+    },
+    {
+      "number": "286",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "286",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "288",
+      "destination": "Przezchlebie Pętla"
+    },
+    {
+      "number": "288",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "289",
+      "destination": "Repty Śląskie Witosa"
+    },
+    {
+      "number": "289",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "292",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "292",
+      "destination": "Brzezinka Wysoki Brzeg Pętla"
+    },
+    {
+      "number": "294",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "294",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "296",
+      "destination": "Węzłowiec Pętla"
+    },
+    {
+      "number": "296",
+      "destination": "Ochojec Szpital"
+    },
+    {
+      "number": "297",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "299",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "299",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "505",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "505",
+      "destination": "Orzesze Szkoła"
+    },
+    {
+      "number": "515",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "515",
+      "destination": "Tychy Centrum Handlowe"
+    },
+    {
+      "number": "525",
+      "destination": "Łaziska Górne Kopanina"
+    },
+    {
+      "number": "525",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "536",
+      "destination": "Mysłowice Centrum Handlowe"
+    },
+    {
+      "number": "536",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "551",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "551",
+      "destination": "Tychy Towarowa"
+    },
+    {
+      "number": "554",
+      "destination": "Chełm Mały Pętla"
+    },
+    {
+      "number": "554",
+      "destination": "Tychy Lodowisko"
+    },
+    {
+      "number": "600",
+      "destination": "Katowice Ceglana Szpital Kliniczny"
+    },
+    {
+      "number": "600",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "603",
+      "destination": "Kuźniczka Nowa"
+    },
+    {
+      "number": "603",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "604",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "605",
+      "destination": "Łosień Szkoła"
+    },
+    {
+      "number": "605",
+      "destination": "Dąbrowa Górnicza Urząd Pracy"
+    },
+    {
+      "number": "606",
+      "destination": "Błędów Zagórze"
+    },
+    {
+      "number": "606",
+      "destination": "Dąbrowa Górnicza Urząd Pracy"
+    },
+    {
+      "number": "608",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "609",
+      "destination": "Grabowa Pętla"
+    },
+    {
+      "number": "609",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "614",
+      "destination": "Rybna Lotników"
+    },
+    {
+      "number": "614",
+      "destination": "Miasteczko Śląskie Osiedle"
+    },
+    {
+      "number": "615",
+      "destination": "Miasteczko Śląskie Osiedle"
+    },
+    {
+      "number": "615",
+      "destination": "Rybna Lotników"
+    },
+    {
+      "number": "616",
+      "destination": "Osiedle Zamkowe Krośnieńska"
+    },
+    {
+      "number": "616",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "617",
+      "destination": "Sikornik Osiedle"
+    },
+    {
+      "number": "617",
+      "destination": "Rokitnica Budowlana"
+    },
+    {
+      "number": "619",
+      "destination": "Siewierz Zamek"
+    },
+    {
+      "number": "619",
+      "destination": "Siewierz Zamek"
+    },
+    {
+      "number": "620",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "620",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "622",
+      "destination": "Rudna Stawowa"
+    },
+    {
+      "number": "622",
+      "destination": "Kazimierz Górniczy Kopalnia"
+    },
+    {
+      "number": "623",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "623",
+      "destination": "Miechowice Pętla"
+    },
+    {
+      "number": "624",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "624",
+      "destination": "Wilcze Gardło Pętla"
+    },
+    {
+      "number": "625",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "625",
+      "destination": "Mierzęcice Magazyny"
+    },
+    {
+      "number": "627",
+      "destination": "Międzyrzecze Gospoda"
+    },
+    {
+      "number": "627",
+      "destination": "Tychy Jana Pawła II"
+    },
+    {
+      "number": "632",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "632",
+      "destination": "Chorzów Gwarecka"
+    },
+    {
+      "number": "634",
+      "destination": "Sławków ZWM"
+    },
+    {
+      "number": "634",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "635",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "635",
+      "destination": "Wojkowice Kościelne Kościół"
+    },
+    {
+      "number": "636",
+      "destination": "Orzesze Szkoła"
+    },
+    {
+      "number": "636",
+      "destination": "Knurów Szpitalna"
+    },
+    {
+      "number": "637",
+      "destination": "Dąbrowa Górnicza Urząd Pracy"
+    },
+    {
+      "number": "637",
+      "destination": "Siewierz Dom Kultury"
+    },
+    {
+      "number": "644",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "646",
+      "destination": "Sadowie Daleka"
+    },
+    {
+      "number": "646",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "647",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "647",
+      "destination": "Ornontowice Centrum"
+    },
+    {
+      "number": "648",
+      "destination": "Knurów Dworcowa"
+    },
+    {
+      "number": "648",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "650",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "650",
+      "destination": "Czechowice Kąpielisko Parking"
+    },
+    {
+      "number": "653",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "653",
+      "destination": "Reta Hipermarket"
+    },
+    {
+      "number": "655",
+      "destination": "Zgoń Pętla"
+    },
+    {
+      "number": "655",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "657",
+      "destination": "Dąbrówka Mała Nowosam"
+    },
+    {
+      "number": "657",
+      "destination": "Panewniki Owsiana"
+    },
+    {
+      "number": "659",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "659",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "662",
+      "destination": "Pszczelnik Park"
+    },
+    {
+      "number": "662",
+      "destination": "Dąb Silesia City Center"
+    },
+    {
+      "number": "663",
+      "destination": "Chorzów Batory Pętla"
+    },
+    {
+      "number": "663",
+      "destination": "Pszczelnik Park"
+    },
+    {
+      "number": "664",
+      "destination": "Węzłowiec Pętla"
+    },
+    {
+      "number": "665",
+      "destination": "Przełajka Pętla"
+    },
+    {
+      "number": "669",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "669",
+      "destination": "Bykowina Grzegorzka"
+    },
+    {
+      "number": "670",
+      "destination": "Pniowiec Pętla"
+    },
+    {
+      "number": "670",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "671",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "671",
+      "destination": "Pniowiec Pętla"
+    },
+    {
+      "number": "672",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "672",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "673",
+      "destination": "Murcki Szyb Stanisław"
+    },
+    {
+      "number": "673",
+      "destination": "Osiedle Tysiąclecia Pętla"
+    },
+    {
+      "number": "674",
+      "destination": "Osiedle Tysiąclecia Pętla"
+    },
+    {
+      "number": "676",
+      "destination": "Sikornik Osiedle"
+    },
+    {
+      "number": "677",
+      "destination": "Pyskowice Szpitalna"
+    },
+    {
+      "number": "677",
+      "destination": "Gliwice Europa Centralna"
+    },
+    {
+      "number": "686",
+      "destination": "Oświęcim Dąbrowskiego Miasto"
+    },
+    {
+      "number": "686",
+      "destination": "Tychy Jana Pawła II"
+    },
+    {
+      "number": "688",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "689",
+      "destination": "Murcki Szyb Stanisław"
+    },
+    {
+      "number": "689",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "690",
+      "destination": "Sosnowiec Dworzec PKP"
+    },
+    {
+      "number": "690",
+      "destination": "Gołonóg Zajezdnia"
+    },
+    {
+      "number": "692",
+      "destination": "Brzezinka Park Logistyczny"
+    },
+    {
+      "number": "692",
+      "destination": "Osiedle Kopernika Pętla"
+    },
+    {
+      "number": "695",
+      "destination": "Szopienice Szpital Geriatryczny"
+    },
+    {
+      "number": "695",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "696",
+      "destination": "Wilkowyje Obywatelska"
+    },
+    {
+      "number": "696",
+      "destination": "Tychy Zajezdnia"
+    },
+    {
+      "number": "699",
+      "destination": "Osiedle Obrońców Pokoju"
+    },
+    {
+      "number": "699",
+      "destination": "Osiedle Waryńskiego Pętla"
+    },
+    {
+      "number": "700",
+      "destination": "Wojkowice Park"
+    },
+    {
+      "number": "700",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "702",
+      "destination": "Sośnica Osiedle Żeromskiego"
+    },
+    {
+      "number": "702",
+      "destination": "Żerniki Graniczna Pętla"
+    },
+    {
+      "number": "707",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "707",
+      "destination": "Pyskowice Plac Wyszyńskiego"
+    },
+    {
+      "number": "708",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "710",
+      "destination": "Osiedle Kopernika Pętla"
+    },
+    {
+      "number": "710",
+      "destination": "Szczygłowice Centrum Przesiadkowe"
+    },
+    {
+      "number": "712",
+      "destination": "Przezchlebie Pętla"
+    },
+    {
+      "number": "712",
+      "destination": "Zbrosławice Urząd Gminy"
+    },
+    {
+      "number": "716",
+      "destination": "Dąbrowa Górnicza Centrum"
+    },
+    {
+      "number": "716",
+      "destination": "Korzeniec Kopalnia Piasku [nż]"
+    },
+    {
+      "number": "717",
+      "destination": "Świerklaniec Park"
+    },
+    {
+      "number": "717",
+      "destination": "Strąków Pętla"
+    },
+    {
+      "number": "720",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "720",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "721",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "722",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "723",
+      "destination": "Czeladź Rynek"
+    },
+    {
+      "number": "723",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "735",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "735",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "736",
+      "destination": "Pniowiec Pętla"
+    },
+    {
+      "number": "736",
+      "destination": "Miedary Tarnogórska"
+    },
+    {
+      "number": "737",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "737",
+      "destination": "Dąbrówka Kościół"
+    },
+    {
+      "number": "738",
+      "destination": "Siewierz Dom Kultury"
+    },
+    {
+      "number": "738",
+      "destination": "Świerklaniec Park"
+    },
+    {
+      "number": "739",
+      "destination": "Wieszowa Glinice [nż]"
+    },
+    {
+      "number": "739",
+      "destination": "Tarnowskie Góry Dworzec"
+    },
+    {
+      "number": "742",
+      "destination": "Tworóg Dworzec PKP"
+    },
+    {
+      "number": "742",
+      "destination": "Mikołeska"
+    },
+    {
+      "number": "743",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "743",
+      "destination": "Tworóg Kościół"
+    },
+    {
+      "number": "747",
+      "destination": "Tworóg Szkoła"
+    },
+    {
+      "number": "747",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "748",
+      "destination": "Wielowieś Centrum Przesiadkowe"
+    },
+    {
+      "number": "750",
+      "destination": "Miechowice Plejada"
+    },
+    {
+      "number": "750",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "769",
+      "destination": "Siewierz Dom Kultury"
+    },
+    {
+      "number": "769",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "780",
+      "destination": "Szarlej Kaufland"
+    },
+    {
+      "number": "780",
+      "destination": "Stare Tarnowice GCR"
+    },
+    {
+      "number": "788",
+      "destination": "Mysłowice Bytomska"
+    },
+    {
+      "number": "788",
+      "destination": "Tychy Jana Pawła II"
+    },
+    {
+      "number": "791",
+      "destination": "Zbrosławice Urząd Gminy"
+    },
+    {
+      "number": "791",
+      "destination": "Pyskowice Plac Wyszyńskiego"
+    },
+    {
+      "number": "800",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "800",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "805",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "805",
+      "destination": "Sosnowiec Szpital Wojewódzki"
+    },
+    {
+      "number": "807",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "807",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "808",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "808",
+      "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "813",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "814",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "814",
+      "destination": "Gołonóg Dworzec PKP"
+    },
+    {
+      "number": "817",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "817",
+      "destination": "Osiedle Zamkowe Piastowska"
+    },
+    {
+      "number": "830",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "830",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "835",
+      "destination": "Katowice Piotra Skargi"
+    },
+    {
+      "number": "835",
+      "destination": "Maczki Kościuszki"
+    },
+    {
+      "number": "840",
+      "destination": "Katowice Mickiewicza"
+    },
+    {
+      "number": "840",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "850",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "850",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "860",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "860",
+      "destination": "Katowice Plac Wolności"
+    },
+    {
+      "number": "880",
+      "destination": "Katowice Andrzeja Dworzec"
+    },
+    {
+      "number": "880",
+      "destination": "Bykowina Grzegorzka"
+    },
+    {
+      "number": "900",
+      "destination": "Osiedle Witosa Pętla"
+    },
+    {
+      "number": "900",
+      "destination": "Katowice Cmentarz Komunalny"
+    },
+    {
+      "number": "901",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "901",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "910",
+      "destination": "Osiedle Paderewskiego Trzy Stawy"
+    },
+    {
+      "number": "911",
+      "destination": "Czeladź Wojkowicka Pętla"
+    },
+    {
+      "number": "911",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "912",
+      "destination": "Ligota Akademiki"
+    },
+    {
+      "number": "912",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "913",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "913",
+      "destination": "Panewniki Owsiana"
+    },
+    {
+      "number": "916",
+      "destination": "Ksawera Prosta Pętla"
+    },
+    {
+      "number": "920",
+      "destination": "Katowice Aleja Korfantego"
+    },
+    {
+      "number": "920",
+      "destination": "Szopienice Bednorza"
+    },
+    {
+      "number": "921",
+      "destination": "Grodziec Kijowska"
+    },
+    {
+      "number": "921",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "922",
+      "destination": "Brzeziny Śląskie Skrzyżowanie"
+    },
+    {
+      "number": "922",
+      "destination": "Chorzów Stary Szyb Prezydent"
+    },
+    {
+      "number": "924",
+      "destination": "Sośnicowice Pętla"
+    },
+    {
+      "number": "924",
+      "destination": "Osiedle Waryńskiego Pętla"
+    },
+    {
+      "number": "930",
+      "destination": "Nikiszowiec Pętla"
+    },
+    {
+      "number": "930",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "931",
+      "destination": "Zawodzie Centrum Przesiadkowe"
+    },
+    {
+      "number": "931",
+      "destination": "Bieruń Potok Stawowy"
+    },
+    {
+      "number": "932",
+      "destination": "Osiedle Kopernika Pętla"
+    },
+    {
+      "number": "932",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "935",
+      "destination": "Czeladź Wojkowicka Pętla"
+    },
+    {
+      "number": "935",
+      "destination": "Ćmok Pętla"
+    },
+    {
+      "number": "937",
+      "destination": "Brynów Centrum Przesiadkowe"
+    },
+    {
+      "number": "937",
+      "destination": "Zarzecze Owsiana Pętla"
+    },
+    {
+      "number": "940",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "949",
+      "destination": "Burki Pętla"
+    },
+    {
+      "number": "949",
+      "destination": "Sławków Rynek"
+    },
+    {
+      "number": "950",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "950",
+      "destination": "Wełnowiec GPP BUSINESS PARK"
+    },
+    {
+      "number": "954",
+      "destination": "Wesoła Kościół"
+    },
+    {
+      "number": "954",
+      "destination": "Kosztowy Szkoła"
+    },
+    {
+      "number": "959",
+      "destination": "Miedawa Tartak"
+    },
+    {
+      "number": "959",
+      "destination": "Sławków Rynek"
+    },
+    {
+      "number": "969",
+      "destination": "Siewierz Dom Kultury"
+    },
+    {
+      "number": "972",
+      "destination": "Gołonóg Osiedle"
+    },
+    {
+      "number": "972",
+      "destination": "Tucznawa Strefa Ekonomiczna"
+    },
+    {
+      "number": "973",
+      "destination": "Podlesie Oczyszczalnia"
+    },
+    {
+      "number": "973",
+      "destination": "Murcki Rynek"
+    },
+    {
+      "number": "974",
+      "destination": "Chorzów Batory Pętla"
+    },
+    {
+      "number": "974",
+      "destination": "Michałkowice Plac 11 Listopada"
+    },
+    {
+      "number": "982",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "982",
+      "destination": "Orzegów Waniora"
+    },
+    {
+      "number": "984",
+      "destination": "Strzemieszyce Zakawie Kapliczka"
+    },
+    {
+      "number": "984",
+      "destination": "Osiedle Mydlice Pętla"
+    },
+    {
+      "number": "995",
+      "destination": "Mysłowice Towarowa"
+    },
+    {
+      "number": "995",
+      "destination": "Lędziny Kopalnia Ziemowit"
+    },
+    {
+      "number": "998",
+      "destination": "Chorzów Gwarecka"
+    },
+    {
+      "number": "998",
+      "destination": "Klimzowiec Racławicka"
+    },
+    {
+      "number": "A4",
+      "destination": "Gliwice Teatr"
+    },
+    {
+      "number": "A4",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "J",
+      "destination": "Mikołów Jamna"
+    },
+    {
+      "number": "J",
+      "destination": "Śmiłowice Pętla"
+    },
+    {
+      "number": "K",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "L",
+      "destination": "Wartogłowiec Kościół"
+    },
+    {
+      "number": "L",
+      "destination": "Tychy Barwna Cmentarz"
+    },
+    {
+      "number": "P",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "P",
+      "destination": "Wygoda Skrzyżowanie"
+    },
+    {
+      "number": "R",
+      "destination": "Czułów Fabryka"
+    },
+    {
+      "number": "R",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "S",
+      "destination": "Mąkołowiec Łabędzia"
+    },
+    {
+      "number": "S",
+      "destination": "Żwaków Rogatki"
+    },
+    {
+      "number": "Sz1",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "Sz2",
+      "destination": "Tychy Pogodna Szkoła"
+    },
+    {
+      "number": "Sz2",
+      "destination": "Wartogłowiec Wiadukt"
+    },
+    {
+      "number": "Sz3",
+      "destination": "Tychy Pogodna Szkoła"
+    },
+    {
+      "number": "Sz3",
+      "destination": "Urbanowice Przejazd"
+    },
+    {
+      "number": "Sz4",
+      "destination": "Czułów Fabryka"
+    },
+    {
+      "number": "Sz4",
+      "destination": "Tychy Sikorskiego Wiadukt"
+    },
+    {
+      "number": "W",
+      "destination": "Urbanowice Sklep"
+    },
+    {
+      "number": "W",
+      "destination": "Wygorzele Ułańska"
+    },
+    {
+      "number": "1N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "1N",
+      "destination": "Tychy Szpital Wojewódzki"
+    },
+    {
+      "number": "7N",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "7N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "30N",
+      "destination": "Przełajka Pętla"
+    },
+    {
+      "number": "30N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "32N",
+      "destination": "Zabrze Goethego"
+    },
+    {
+      "number": "32N",
+      "destination": "Łabędy Huta"
+    },
+    {
+      "number": "60N",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "60N",
+      "destination": "Żerniki Osiedle"
+    },
+    {
+      "number": "76N",
+      "destination": "Wesoła Kopalnia"
+    },
+    {
+      "number": "76N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "113N",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "113N",
+      "destination": "Osiedle Wieczorka Dworzec"
+    },
+    {
+      "number": "130N",
+      "destination": "Halemba Pętla"
+    },
+    {
+      "number": "130N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "194N",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "194N",
+      "destination": "Szczygłowice Centrum Przesiadkowe"
+    },
+    {
+      "number": "297N",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "617N",
+      "destination": "Helenka ELZAB"
+    },
+    {
+      "number": "617N",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "623N",
+      "destination": "Bytom Dworzec"
+    },
+    {
+      "number": "623N",
+      "destination": "Miechowice Pętla"
+    },
+    {
+      "number": "657N",
+      "destination": "Panewniki Owsiana"
+    },
+    {
+      "number": "657N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "672N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "672N",
+      "destination": "Murcki Rynek"
+    },
+    {
+      "number": "692N",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "692N",
+      "destination": "Osiedle Waryńskiego Pętla"
+    },
+    {
+      "number": "840N",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "840N",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "902N",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "902N",
+      "destination": "Zagórze Zajezdnia"
+    },
+    {
+      "number": "903N",
+      "destination": "Gołonóg Zajezdnia"
+    },
+    {
+      "number": "903N",
+      "destination": "Gołonóg Zajezdnia"
+    },
+    {
+      "number": "904N",
+      "destination": "Będzin Kościuszki"
+    },
+    {
+      "number": "904N",
+      "destination": "Dobieszowice Skrzyżowanie"
+    },
+    {
+      "number": "905N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "905N",
+      "destination": "Mikołów Dworzec"
+    },
+    {
+      "number": "906N",
+      "destination": "Giszowiec Kolista Pętla"
+    },
+    {
+      "number": "906N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "911N",
+      "destination": "Katowice Dworzec"
+    },
+    {
+      "number": "911N",
+      "destination": "Czeladź Wojkowicka Pętla"
+    },
+    {
+      "number": "A4N",
+      "destination": "Gliwice Zajezdnia"
+    },
+    {
+      "number": "A4N",
+      "destination": "Trynek Toruńska"
+    },
+    {
+      "number": "AP1",
+      "destination": "Pyrzowice Port Lotniczy"
+    },
+    {
+      "number": "AP1",
+      "destination": "Gliwice Plac Piastów"
+    },
+    {
+      "number": "AP2",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "AP2",
+      "destination": "Pyrzowice Port Lotniczy"
+    },
+    {
+      "number": "AP3",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "AP3",
+      "destination": "Pyrzowice Port Lotniczy"
+    },
+    {
+      "number": "AP4",
+      "destination": "Katowice Sądowa"
+    },
+    {
+      "number": "AP4",
+      "destination": "Tychy Dworzec PKP"
+    },
+    {
+      "number": "926",
+      "destination": "Sosnowiec Urząd Miasta"
+    },
+    {
+      "number": "926",
+      "destination": "Mysłowice Poczta"
+    },
+    {
+      "number": "S1",
+      "destination": "Koszutka Słoneczna"
+    },
+    {
+      "number": "S2",
+      "destination": "Koszutka Słoneczna Pętla"
+    },
+    {
+      "number": "T-11",
+      "destination": "Chebzie Dworzec PKP"
+    },
+    {
+      "number": "T-11",
+      "destination": "Chorzów Rynek"
+    },
+    {
+      "number": "T-14",
+      "destination": "Szopienice Kościół"
+    },
+    {
+      "number": "T-14",
+      "destination": "Mysłowice Poczta"
+    },
+    {
+      "number": "T-17",
+      "destination": "Chorzów Rynek"
+    },
+    {
+      "number": "T-17",
+      "destination": "Świętochłowice Mijanka"
+    },
+    {
+      "number": "T-40",
+      "destination": "Chorzów Batory Zajezdnia"
+    },
+    {
+      "number": "T-40",
+      "destination": "Chorzów Rynek"
+    }
+  ]
+}

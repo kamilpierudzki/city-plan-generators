@@ -1,7 +1,7 @@
 {
   "city": "Warszawa",
-  "lastUpdateTimestampInMillis": 1631992185,
-  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "lastUpdateTimestampInMillis": 1632249655,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -69,12 +69,20 @@
       "destination": "Wyścigi 07"
     },
     {
+      "number": "11",
+      "destination": "rondo Daszyńskiego 07"
+    },
+    {
+      "number": "11",
+      "destination": "Koło 01"
+    },
+    {
       "number": "13",
       "destination": "Kawęczyńska-Bazylika 03"
     },
     {
       "number": "13",
-      "destination": "Koło 01"
+      "destination": "Cm.Wolski 04"
     },
     {
       "number": "14",
@@ -110,7 +118,7 @@
     },
     {
       "number": "20",
-      "destination": "Cm.Wolski 04"
+      "destination": "Boernerowo 01"
     },
     {
       "number": "20",
@@ -138,7 +146,7 @@
     },
     {
       "number": "24",
-      "destination": "Wawrzyszewska 04"
+      "destination": "Nowe Bemowo 03"
     },
     {
       "number": "25",
@@ -211,14 +219,6 @@
     {
       "number": "41",
       "destination": "Żerań Wschodni 03"
-    },
-    {
-      "number": "70",
-      "destination": "Boernerowo 01"
-    },
-    {
-      "number": "70",
-      "destination": "Koło 01"
     }
   ],
   "buses": [
@@ -800,7 +800,7 @@
     },
     {
       "number": "177",
-      "destination": "Posag 7 Panien 02"
+      "destination": "Ursus-Ratusz 03"
     },
     {
       "number": "178",
@@ -1903,14 +1903,6 @@
       "destination": "Chlubna 02"
     },
     {
-      "number": "C",
-      "destination": "pl.Narutowicza 04"
-    },
-    {
-      "number": "C",
-      "destination": "Centrum 06"
-    },
-    {
       "number": "E-1",
       "destination": "Gocław 02"
     },
@@ -1925,14 +1917,6 @@
     {
       "number": "E-9",
       "destination": "Metro Marymont 11"
-    },
-    {
-      "number": "Z23",
-      "destination": "Nowe Bemowo 10"
-    },
-    {
-      "number": "Z23",
-      "destination": "Okopowa 02"
     },
     {
       "number": "L-1",

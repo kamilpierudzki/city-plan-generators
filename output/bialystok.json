@@ -1,7 +1,7 @@
 {
   "city": "Białystok",
-  "lastUpdateTimestampInMillis": 1631992016,
-  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "lastUpdateTimestampInMillis": 1632250177,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
   "appVersion": 1,
   "trams": [],
   "buses": [
@@ -35,7 +35,7 @@
     },
     {
       "number": "4",
-      "destination": "KURONIA, Myśliwska"
+      "destination": "PLAŻOWA, Cerk.Pror.Eliasza"
     },
     {
       "number": "5",
@@ -315,7 +315,7 @@
     },
     {
       "number": "109",
-      "destination": "SIENKIEWICZA, Rzeka Biała"
+      "destination": "PIŁSUDSKIEGO, Sienkiewicza"
     },
     {
       "number": "111",

@@ -1,17 +1,9 @@
 {
   "city": "Kraków",
-  "lastUpdateTimestampInMillis": 1631992036,
-  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "lastUpdateTimestampInMillis": 1632250205,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
   "appVersion": 1,
   "trams": [
-    {
-      "number": "0",
-      "destination": "Dajwór"
-    },
-    {
-      "number": "0",
-      "destination": "Cichy Kącik"
-    },
     {
       "number": "1",
       "destination": "Wzgórza Krzesławickie"
@@ -38,7 +30,7 @@
     },
     {
       "number": "4",
-      "destination": "Kopiec Wandy"
+      "destination": "Wzgórza Krzesławickie"
     },
     {
       "number": "4",
@@ -109,12 +101,12 @@
       "destination": "Bronowice"
     },
     {
-      "number": "16",
-      "destination": "Mistrzejowice"
+      "number": "17",
+      "destination": "Czerwone Maki P+R"
     },
     {
-      "number": "16",
-      "destination": "Bardosa"
+      "number": "17",
+      "destination": "Dworzec Towarowy"
     },
     {
       "number": "18",
@@ -211,6 +203,14 @@
     {
       "number": "69",
       "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "74",
+      "destination": "Mistrzejowice"
+    },
+    {
+      "number": "74",
+      "destination": "Dworzec Towarowy"
     }
   ],
   "buses": [
@@ -336,11 +336,11 @@
     },
     {
       "number": "120",
-      "destination": "Krowodrza Górka"
+      "destination": "Bronowice Małe"
     },
     {
       "number": "120",
-      "destination": "Bronowice Małe"
+      "destination": "Tonie"
     },
     {
       "number": "121",
@@ -1615,12 +1615,20 @@
       "destination": "Krowodrza Górka"
     },
     {
-      "number": "704",
-      "destination": "Kombinat"
+      "number": "716",
+      "destination": "Aleja Przyjaźni"
     },
     {
-      "number": "704",
-      "destination": "Wzgórza Krzesławickie"
+      "number": "716",
+      "destination": "Fort Mogiła"
+    },
+    {
+      "number": "720",
+      "destination": "Krowodrza Górka"
+    },
+    {
+      "number": "720",
+      "destination": "Starego Wiarusa"
     },
     {
       "number": "744",

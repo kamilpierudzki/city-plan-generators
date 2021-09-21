@@ -1,7 +1,7 @@
 {
   "city": "Szczecin",
-  "lastUpdateTimestampInMillis": 1631992038,
-  "humanReadableLastUpdateTimestamp": "18-09-2021",
+  "lastUpdateTimestampInMillis": 1632250215,
+  "humanReadableLastUpdateTimestamp": "21-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -559,6 +559,14 @@
       "destination": "Smocza — Falskiego"
     },
     {
+      "number": "85",
+      "destination": "Klucz Autostrada"
+    },
+    {
+      "number": "85",
+      "destination": "Smocza — Falskiego"
+    },
+    {
       "number": "86",
       "destination": "Zakłady Piekarnicze"
     },
@@ -893,14 +901,6 @@
     {
       "number": "904",
       "destination": "Podjuchy Dworzec"
-    },
-    {
-      "number": "908",
-      "destination": "Maczka"
-    },
-    {
-      "number": "908",
-      "destination": "Kwiatkowskiego"
     },
     {
       "number": "908",

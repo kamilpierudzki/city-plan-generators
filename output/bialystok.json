@@ -1,7 +1,7 @@
 {
   "city": "Białystok",
-  "lastUpdateTimestampInMillis": 1632250177,
-  "humanReadableLastUpdateTimestamp": "21-09-2021",
+  "lastUpdateTimestampInMillis": 1632415930,
+  "humanReadableLastUpdateTimestamp": "23-09-2021",
   "appVersion": 1,
   "trams": [],
   "buses": [
@@ -228,6 +228,14 @@
     {
       "number": "29",
       "destination": "GAJOWA, Jarzębinowa"
+    },
+    {
+      "number": "30",
+      "destination": "DOJLIDY GÓRNE, Pętla"
+    },
+    {
+      "number": "30",
+      "destination": "PIŁSUDSKIEGO, Sienkiewicza"
     },
     {
       "number": "50",

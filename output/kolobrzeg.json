@@ -1,0 +1,113 @@
+{
+  "city": "Kołobrzeg",
+  "lastUpdateTimestampInMillis": 1632409062,
+  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "appVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1",
+      "destination": "Zieleniewo"
+    },
+    {
+      "number": "1",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "1",
+      "destination": "6 Dywizji Piechoty"
+    },
+    {
+      "number": "1",
+      "destination": "Szczecińska"
+    },
+    {
+      "number": "1",
+      "destination": "Rościęcino"
+    },
+    {
+      "number": "2",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "2",
+      "destination": "Arka"
+    },
+    {
+      "number": "3",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "3",
+      "destination": "Arka"
+    },
+    {
+      "number": "4",
+      "destination": "Arka"
+    },
+    {
+      "number": "4",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "4",
+      "destination": "Korzystno"
+    },
+    {
+      "number": "5",
+      "destination": "Podczele"
+    },
+    {
+      "number": "5",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "6",
+      "destination": "Grzybowo"
+    },
+    {
+      "number": "6",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "7",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "7",
+      "destination": "Janiska"
+    },
+    {
+      "number": "8A",
+      "destination": "Źródlana przez Unii Lubelskiej"
+    },
+    {
+      "number": "8B",
+      "destination": "Źródlana przez Mickiewicza"
+    },
+    {
+      "number": "9",
+      "destination": "Bogucino"
+    },
+    {
+      "number": "9",
+      "destination": "Kołobrzeg"
+    },
+    {
+      "number": "10",
+      "destination": "Zieleniewo"
+    },
+    {
+      "number": "10",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "11",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "11",
+      "destination": "Starynowska"
+    }
+  ]
+}

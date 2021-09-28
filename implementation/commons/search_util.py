@@ -2,7 +2,7 @@ import bs4.element
 
 
 def find_first_attribute_matching_or_error(
-        elements: bs4.element.ResultSet,
+        elements: list[bs4.element.Tag],
         attribute: str,
         value_to_match
 ) -> bs4.element.Tag:
@@ -36,7 +36,11 @@ def find_all_attribute_matching_or_error(
     return _result
 
 
-def find_all_containing_value_or_error(elements: list[bs4.element.Tag], attribute: str, value_to_match: str):
+def find_all_containing_value_or_error(
+        elements: list[bs4.element.Tag],
+        attribute: str,
+        value_to_match: str
+) -> list[bs4.element.Tag]:
     _result: list[bs4.element.Tag] = []
     for element in elements:
         try:
@@ -49,3 +53,32 @@ def find_all_containing_value_or_error(elements: list[bs4.element.Tag], attribut
     if len(_result) == 0:
         raise Exception("Error, elements do not match")
     return _result
+
+
+def find_all_containing_any_of_values_or_error(
+        elements: list[bs4.element.Tag],
+        attribute: str,
+        values_to_match: []
+) -> list[bs4.element.Tag]:
+    _result: list[bs4.element.Tag] = []
+    for element in elements:
+        try:
+            attr = element.attrs[attribute]
+            is_any_element_matching_value = is_any_element_matching_to_value(
+                elements=values_to_match,
+                value_to_match=attr
+            )
+            if is_any_element_matching_value:
+                _result.append(element)
+        except KeyError:
+            continue
+    if len(_result) == 0:
+        raise Exception("Error, elements do not match")
+    return _result
+
+
+def is_any_element_matching_to_value(elements: [], value_to_match) -> bool:
+    for element in elements:
+        if element == value_to_match:
+            return True
+    return False

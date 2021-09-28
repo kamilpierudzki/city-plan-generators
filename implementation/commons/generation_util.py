@@ -21,7 +21,7 @@ def get_page_content(link: str) -> BeautifulSoup:
     return _content
 
 
-def print_list(transit_agency: str, elements: list[str]):
+def print_list_str(transit_agency: str, elements: list[str]):
     print(transit_agency)
     for e in elements:
         print(e)

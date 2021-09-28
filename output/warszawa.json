@@ -1,7 +1,7 @@
 {
   "city": "Warszawa",
-  "lastUpdateTimestampInMillis": 1632416109,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862554,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -203,14 +203,6 @@
     {
       "number": "35",
       "destination": "Wyścigi 05"
-    },
-    {
-      "number": "36",
-      "destination": "Metro Marymont 04"
-    },
-    {
-      "number": "36",
-      "destination": "pl.Narutowicza 13"
     },
     {
       "number": "41",

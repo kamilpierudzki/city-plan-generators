@@ -1,7 +1,7 @@
 {
   "city": "Bydgoszcz",
-  "lastUpdateTimestampInMillis": 1632415930,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862356,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -110,6 +110,22 @@
     }
   ],
   "buses": [
+    {
+      "number": "92",
+      "destination": "MUROWANIEC"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "92",
+      "destination": "ŁOCHOWO"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
     {
       "number": "51",
       "destination": "CZYŻKÓWKO"
@@ -335,14 +351,6 @@
       "destination": "KAPUŚCISKA"
     },
     {
-      "number": "73",
-      "destination": "DWORZEC BIELAWY (INWALIDÓW)"
-    },
-    {
-      "number": "73",
-      "destination": "KAPUŚCISKA"
-    },
-    {
       "number": "74",
       "destination": "WYŚCIGOWA"
     },
@@ -520,22 +528,6 @@
     },
     {
       "number": "91",
-      "destination": "BŁONIE"
-    },
-    {
-      "number": "92",
-      "destination": "MUROWANIEC"
-    },
-    {
-      "number": "92",
-      "destination": "BŁONIE"
-    },
-    {
-      "number": "92",
-      "destination": "ŁOCHOWO"
-    },
-    {
-      "number": "92",
       "destination": "BŁONIE"
     },
     {

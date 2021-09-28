@@ -1,7 +1,7 @@
 {
   "city": "Kraków",
-  "lastUpdateTimestampInMillis": 1632415964,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862396,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -1172,7 +1172,7 @@
     },
     {
       "number": "262",
-      "destination": "Kocmyrzów-Luborzyca Urząd Gminy"
+      "destination": "Rawałowice Kapliczka"
     },
     {
       "number": "263",

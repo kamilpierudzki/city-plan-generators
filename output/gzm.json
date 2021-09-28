@@ -1,7 +1,7 @@
 {
   "city": "Górnośląsko-Zagłębowska Metropolia",
-  "lastUpdateTimestampInMillis": 1632416066,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862505,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -187,6 +187,14 @@
     {
       "number": "28",
       "destination": "Tworzeń Huta Katowice"
+    },
+    {
+      "number": "30",
+      "destination": "Bytom Plac Sikorskiego"
+    },
+    {
+      "number": "30",
+      "destination": "Szombierki Kościół"
     },
     {
       "number": "35",
@@ -429,6 +437,14 @@
     {
       "number": "28",
       "destination": "Maczki Kościuszki"
+    },
+    {
+      "number": "30",
+      "destination": "Giszowiec Kopalnia Staszic"
+    },
+    {
+      "number": "30",
+      "destination": "Michałkowice Bytomska"
     },
     {
       "number": "35",
@@ -683,14 +699,6 @@
       "destination": "Katowice Andrzeja Dworzec"
     },
     {
-      "number": "30",
-      "destination": "Giszowiec Kopalnia Staszic"
-    },
-    {
-      "number": "30",
-      "destination": "Michałkowice Bytomska"
-    },
-    {
       "number": "31",
       "destination": "Tychy Dworzec PKP"
     },
@@ -788,11 +796,11 @@
     },
     {
       "number": "52",
-      "destination": "Bytom Dworzec"
+      "destination": "Rogoźnik Narutowicza"
     },
     {
       "number": "52",
-      "destination": "Rogoźnik Narutowicza"
+      "destination": "Bytom Dworzec"
     },
     {
       "number": "53",
@@ -1140,11 +1148,11 @@
     },
     {
       "number": "104",
-      "destination": "Będzin Kościuszki"
+      "destination": "Bytom Dworzec"
     },
     {
       "number": "104",
-      "destination": "Bytom Dworzec"
+      "destination": "Będzin Kościuszki"
     },
     {
       "number": "105",
@@ -1468,11 +1476,11 @@
     },
     {
       "number": "153",
-      "destination": "Tarnowskie Góry Dworzec"
+      "destination": "Pyskowice Plac Wyszyńskiego"
     },
     {
       "number": "153",
-      "destination": "Pyskowice Plac Wyszyńskiego"
+      "destination": "Tarnowskie Góry Dworzec"
     },
     {
       "number": "154",
@@ -3471,12 +3479,44 @@
       "destination": "Świętochłowice Mijanka"
     },
     {
+      "number": "T-21",
+      "destination": "Będzin Rondo"
+    },
+    {
+      "number": "T-21",
+      "destination": "Dąbrowa Górnicza Huta Bankowa"
+    },
+    {
+      "number": "T-22",
+      "destination": "Osiedle Zamkowe Pętla"
+    },
+    {
+      "number": "T-22",
+      "destination": "Dąbrowa Górnicza Huta Bankowa"
+    },
+    {
       "number": "T-40",
       "destination": "Chorzów Batory Zajezdnia"
     },
     {
       "number": "T-40",
       "destination": "Chorzów Rynek"
+    },
+    {
+      "number": "T-47",
+      "destination": "Łagiewniki Targowisko"
+    },
+    {
+      "number": "T-47",
+      "destination": "Lipiny Mijanka"
+    },
+    {
+      "number": "Z-1",
+      "destination": "Giszowiec Kościół"
+    },
+    {
+      "number": "Z-1",
+      "destination": "Giszowiec Kopalnia Staszic"
     }
   ]
 }

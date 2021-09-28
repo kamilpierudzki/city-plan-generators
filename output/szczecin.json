@@ -1,7 +1,7 @@
 {
   "city": "Szczecin",
-  "lastUpdateTimestampInMillis": 1632415979,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862411,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -631,14 +631,6 @@
       "destination": "Świergotki"
     },
     {
-      "number": "90",
-      "destination": "Dworzec Główny (Owocowa)"
-    },
-    {
-      "number": "90",
-      "destination": "Dworzec Główny (Owocowa)"
-    },
-    {
       "number": "91",
       "destination": "Turkusowa"
     },
@@ -669,14 +661,6 @@
     {
       "number": "94",
       "destination": "Struga"
-    },
-    {
-      "number": "95",
-      "destination": "Dworzec Główny (Owocowa)"
-    },
-    {
-      "number": "95",
-      "destination": "Dworzec Główny (Owocowa)"
     },
     {
       "number": "96",

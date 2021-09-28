@@ -1,17 +1,9 @@
 {
   "city": "Łódź",
-  "lastUpdateTimestampInMillis": 1632416006,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862437,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
-    {
-      "number": "0",
-      "destination": "Północna"
-    },
-    {
-      "number": "0",
-      "destination": "pl. Niepodległości"
-    },
     {
       "number": "2",
       "destination": "Kochanówka"
@@ -364,7 +356,7 @@
     },
     {
       "number": "55B",
-      "destination": "Młynek"
+      "destination": "Dw. Łódź Dąbrowa"
     },
     {
       "number": "55B",

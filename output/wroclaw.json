@@ -1,7 +1,7 @@
 {
   "city": "Wrocław",
-  "lastUpdateTimestampInMillis": 1632415993,
-  "humanReadableLastUpdateTimestamp": "23-09-2021",
+  "lastUpdateTimestampInMillis": 1632862427,
+  "humanReadableLastUpdateTimestamp": "28-09-2021",
   "appVersion": 1,
   "trams": [
     {
@@ -118,7 +118,7 @@
     },
     {
       "number": "20",
-      "destination": "OPORÓW"
+      "destination": "KRZYKI"
     },
     {
       "number": "20",
@@ -154,7 +154,7 @@
     },
     {
       "number": "70",
-      "destination": "FAT"
+      "destination": "KRZYKI"
     },
     {
       "number": "74",
@@ -162,7 +162,7 @@
     },
     {
       "number": "74",
-      "destination": "FAT"
+      "destination": "OPORÓW"
     }
   ],
   "buses": [
@@ -256,11 +256,11 @@
     },
     {
       "number": "111",
-      "destination": "PL. GRUNWALDZKI"
+      "destination": "KMINKOWA"
     },
     {
       "number": "111",
-      "destination": "KMINKOWA"
+      "destination": "OSIEDLE SOBIESKIEGO"
     },
     {
       "number": "112",
@@ -479,14 +479,6 @@
       "destination": "Kwiska"
     },
     {
-      "number": "141",
-      "destination": "PL. GRUNWALDZKI"
-    },
-    {
-      "number": "141",
-      "destination": "OSIEDLE SOBIESKIEGO"
-    },
-    {
       "number": "142",
       "destination": "KARŁOWICE"
     },
@@ -653,6 +645,14 @@
     {
       "number": "703",
       "destination": "KSIĘŻE WIELKIE"
+    },
+    {
+      "number": "720",
+      "destination": "FAT"
+    },
+    {
+      "number": "720",
+      "destination": "Sudecka"
     },
     {
       "number": "722",
@@ -919,6 +919,14 @@
       "destination": "KSIĘŻE WIELKIE"
     },
     {
+      "number": "244",
+      "destination": "PETRUSEWICZA"
+    },
+    {
+      "number": "244",
+      "destination": "KMINKOWA"
+    },
+    {
       "number": "245",
       "destination": "PRACZE ODRZAŃSKIE"
     },
@@ -928,11 +936,11 @@
     },
     {
       "number": "246",
-      "destination": "KOZANÓW"
+      "destination": "SOŁTYSOWICE"
     },
     {
       "number": "246",
-      "destination": "ŚWINIARY"
+      "destination": "KOZANÓW"
     },
     {
       "number": "247",

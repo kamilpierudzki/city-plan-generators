@@ -1,7 +1,7 @@
 import bs4
 
 from TransitAgency import TransitAgency
-from implementation.commons.generation_util import create_links_dictionary, get_page_content
+from implementation.commons.generation_util import create_links_dictionary, get_page_content, print_list
 from implementation.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_attribute_matching_or_error
 
@@ -77,7 +77,7 @@ class MpkPoznan(TransitAgency):
         _directions = _read_directions_from_h2(_filtered_h2)
         return _directions
 
-    def _get_transit_agency_name(self):
+    def get_transit_agency_name(self):
         return "MPK Poznań"
 
     def _get_line_direction_json_file_name(self):
@@ -112,3 +112,4 @@ class MpkPoznan(TransitAgency):
 if __name__ == '__main__':
     mpk_poznan = MpkPoznan()
     mpk_poznan.generate_data()
+    print_list(mpk_poznan.get_transit_agency_name(), mpk_poznan.errors)

@@ -19,3 +19,9 @@ def get_page_content(link: str) -> BeautifulSoup:
     _raw_content = _r.content
     _content = BeautifulSoup(_raw_content, 'html.parser')
     return _content
+
+
+def print_list(transit_agency: str, elements: list[str]):
+    print(transit_agency)
+    for e in elements:
+        print(e)

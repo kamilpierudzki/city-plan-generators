@@ -34,3 +34,18 @@ def find_all_attribute_matching_or_error(
     if len(_result) == 0:
         raise Exception("Error, elements do not match")
     return _result
+
+
+def find_all_containing_value_or_error(elements: list[bs4.element.Tag], attribute: str, value_to_match: str):
+    _result: list[bs4.element.Tag] = []
+    for element in elements:
+        try:
+            attr = element.attrs[attribute]
+            is_element_containing_value = value_to_match in attr
+            if is_element_containing_value:
+                _result.append(element)
+        except KeyError:
+            continue
+    if len(_result) == 0:
+        raise Exception("Error, elements do not match")
+    return _result

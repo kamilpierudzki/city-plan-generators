@@ -154,7 +154,7 @@ class TransitAgency:
         tram_lines_list_verification_result = verify_lines_list(tram_lines_list)
         if tram_lines_list_verification_result.is_error:
             error_message = "Error, " + self.get_transit_agency_name() + \
-                            "tram lines list verification failed, message: " + \
+                            " tram lines list verification failed, message: " + \
                             tram_lines_list_verification_result.error_message
             print(error_message)
             self.errors.append(error_message)
@@ -164,7 +164,7 @@ class TransitAgency:
         bus_lines_list_verification_result = verify_lines_list(bus_lines_list)
         if bus_lines_list_verification_result.is_error:
             error_message = "Error, " + self.get_transit_agency_name() + \
-                            "bus lines list verification failed, message: " + \
+                            " bus lines list verification failed, message: " + \
                             bus_lines_list_verification_result.error_message
             print(error_message)
             self.errors.append(error_message)

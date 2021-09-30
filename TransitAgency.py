@@ -48,7 +48,7 @@ class TransitAgency:
 
         bus_links_dictionary = self._get_bus_links_dictionary()
         bus_links_verification_result = verify_links_dictionary(bus_links_dictionary)
-        if tram_links_verification_result.is_error:
+        if bus_links_verification_result.is_error:
             error_message = "Error, " + \
                             self.get_transit_agency_name() + \
                             "bus links verification failed, message: " + \
@@ -99,9 +99,16 @@ class TransitAgency:
         raw_json = json.dumps(json_dict, ensure_ascii=False)
         _create_json_file(raw_json, self._STOPS_OUTPUT_DIR, self._get_stops_data_json_file_name())
 
-    def _create_vehicle_json_stops_dictionary(self, vehicle_type: str,
-                                              vehicle_stops_dictionary: dict[str, list[str]]) -> list[dict]:
+    def _create_vehicle_json_stops_dictionary(
+            self,
+            vehicle_type: str,
+            vehicle_stops_dictionary: dict[str, list[str]]
+    ) -> list[dict]:
         _json_stops_dictionary_list: list[dict] = []
+
+        if len(vehicle_stops_dictionary) == 0:
+            return _json_stops_dictionary_list
+
         for stop in vehicle_stops_dictionary:
             json_stops_dictionary = {
                 self._STOP_NAME_ATTR: stop,
@@ -121,6 +128,10 @@ class TransitAgency:
 
     def _create_stops_dictionary(self, vehicle_type: str, vehicle_links_dictionary) -> dict[str, list[str]]:
         _stops_dictionary: dict[str, list[str]] = {}
+
+        if len(vehicle_links_dictionary) == 0:
+            return _stops_dictionary
+
         for key in vehicle_links_dictionary:
             try:
                 _all_stops_for_link = self._get_all_stops_for_link(vehicle_links_dictionary[key])

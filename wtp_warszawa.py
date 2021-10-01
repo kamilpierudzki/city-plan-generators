@@ -41,8 +41,8 @@ class WtpWarszawa(TransitAgency):
             value_to_match=["timetable-button", "timetable-button-tile"]
         )
 
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        sub_page_content = get_page_content(link)
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        sub_page_content = get_page_content(url)
         all_divs = sub_page_content.find_all('div')
         active_div = find_first_attribute_matching_or_error(
             elements=all_divs,

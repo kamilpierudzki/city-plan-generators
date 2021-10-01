@@ -28,8 +28,8 @@ class GzmZtm(TransitAgency):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         self._all_divs = self._main_page_content.find_all('div')
 
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        sub_page_content = get_page_content(link)
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        sub_page_content = get_page_content(url)
         all_div_tags = sub_page_content.find_all('div')
         try:
             filtered_div_direction_tags = find_all_attribute_matching_or_error(

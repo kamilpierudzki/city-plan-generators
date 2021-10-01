@@ -67,8 +67,8 @@ class MpkWroclaw(TransitAgency):
             value_to_match=["table", "table-bordered", "table-schedule"]
         )
 
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        sub_page_content = get_page_content(link)
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        sub_page_content = get_page_content(url)
         all_h4_tags = sub_page_content.find_all('h4')
         filtered_h4_tags = find_all_attribute_matching_or_error(
             elements=all_h4_tags,

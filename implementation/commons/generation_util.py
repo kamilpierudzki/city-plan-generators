@@ -14,11 +14,16 @@ def create_links_dictionary(vehicle_tag_links: list[bs4.element.Tag], sub_link_t
     return _dictionary
 
 
-def get_page_content(link: str) -> BeautifulSoup:
-    _r = requests.get(link)
-    _raw_content = _r.content
-    _content = BeautifulSoup(_raw_content, 'html.parser')
-    return _content
+def get_page_content(url: str, session: requests.Session = None) -> BeautifulSoup:
+    if session is None:
+        r = requests.get(url)
+        raw_content = r.content
+    else:
+        r = session.get(url)
+        raw_content = r.content
+
+    content = BeautifulSoup(raw_content, 'html.parser')
+    return content
 
 
 def print_list_str(transit_agency: str, elements: list[str]):

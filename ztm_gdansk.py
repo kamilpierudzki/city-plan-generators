@@ -37,8 +37,8 @@ class ZtmGdansk(TransitAgency):
             img_tag = parent_tag.find_next("img")
             self._link_parent_img_tags.append(img_tag)
 
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        sub_page_content = get_page_content(link)
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        sub_page_content = get_page_content(url)
         all_td_tags = sub_page_content.find_all('td')
         filtered_td_tags = find_all_attribute_matching_or_error(
             elements=all_td_tags,

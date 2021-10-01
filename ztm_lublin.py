@@ -53,8 +53,8 @@ class ZtmLublin(TransitAgency):
         super().__init__()
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
 
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        sub_page_content = get_page_content(link)
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        sub_page_content = get_page_content(url)
         all_span_tags = sub_page_content.find_all('span')
         filtered_span_tags = find_all_attribute_matching_or_error(
             elements=all_span_tags,
@@ -65,7 +65,7 @@ class ZtmLublin(TransitAgency):
         for span_tag in filtered_span_tags:
             directions.append(_read_direction(span_tag))
         if len(directions) == 0:
-            raise Exception("Error: _get_directions_for_sub_page did not find any directions for: " + link)
+            raise Exception("Error: _get_directions_for_sub_page did not find any directions for: " + url)
         return directions
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:

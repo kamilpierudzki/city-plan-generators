@@ -134,8 +134,8 @@ class TransitAgency:
 
         for key in vehicle_links_dictionary:
             try:
-                _all_stops_for_link = self._get_all_stops_for_link(vehicle_links_dictionary[key])
-                for stop in _all_stops_for_link:
+                all_stops_for_link = self._get_all_stops_for_link(vehicle_links_dictionary[key])
+                for stop in all_stops_for_link:
                     try:
                         _stops_dictionary[stop] = _stops_dictionary[stop] + [key]
                     except KeyError:
@@ -198,30 +198,21 @@ class TransitAgency:
         _create_json_file(raw_json, self._OUTPUT_DIR, self._get_line_direction_json_file_name())
 
     def _get_vehicle_lines(self, vehicle_links_dictionary: dict[str, str]) -> list[dict[str:str]]:
-        _vehicle_data: list[dict] = []
+        vehicle_data: list[dict] = []
         for key in vehicle_links_dictionary:
             try:
                 _directions_for_subpage: list[str] = self._get_directions_for_sub_page(vehicle_links_dictionary[key])
                 _number = key
                 for direction in _directions_for_subpage:
-                    _row = {self._VEHICLE_NUMBER_ATTR: _number, self._VEHICLE_DESTINATION_ATTR: direction}
-                    _vehicle_data.append(_row)
-                    print(self.get_transit_agency_name() + ", " + str(_row))
+                    row = {self._VEHICLE_NUMBER_ATTR: _number, self._VEHICLE_DESTINATION_ATTR: direction}
+                    vehicle_data.append(row)
+                    print(self.get_transit_agency_name() + ", " + str(row))
             except Exception as e:
                 error_message = "Error, " + self.get_transit_agency_name() + ". _get_vehicle_lines, message: " + str(e)
                 print(error_message)
                 self.errors.append(error_message)
                 continue
-        return _vehicle_data
-
-    def _get_directions_for_sub_page(self, link: str) -> list[str]:
-        raise Exception("_get_directions_for_sub_page not implemented")
-
-    def _get_tram_links_dictionary(self) -> dict[str, str]:
-        raise Exception("_get_tram_links_dictionary not implemented")
-
-    def _get_bus_links_dictionary(self) -> dict[str, str]:
-        raise Exception("_get_bus_links_dictionary not implemented")
+        return vehicle_data
 
     def get_transit_agency_name(self) -> str:
         raise Exception("_get_transit_agency_name not implemented")
@@ -231,6 +222,15 @@ class TransitAgency:
 
     def _get_stops_data_json_file_name(self) -> str:
         raise Exception("_get_stops_data_json_file_name not implemented")
+
+    def _get_tram_links_dictionary(self) -> dict[str, str]:
+        raise Exception("_get_tram_links_dictionary not implemented")
+
+    def _get_bus_links_dictionary(self) -> dict[str, str]:
+        raise Exception("_get_bus_links_dictionary not implemented")
+
+    def _get_directions_for_sub_page(self, url: str) -> list[str]:
+        raise Exception("_get_directions_for_sub_page not implemented")
 
     def _get_all_stops_for_link(self, url: str) -> list[str]:
         raise Exception("_get_all_stops_for_link not implemented")

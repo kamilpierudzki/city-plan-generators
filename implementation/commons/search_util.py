@@ -55,6 +55,33 @@ def find_all_containing_value_or_error(
     return _result
 
 
+def find_all_containing_values_or_error(
+        elements: list[bs4.element.Tag],
+        attribute: str,
+        values_to_match: list[str]
+) -> list[bs4.element.Tag]:
+    _result: list[bs4.element.Tag] = []
+    for element in elements:
+        try:
+            attr = element.attrs[attribute]
+            is_element_containing_all_values = is_element_contains_all_to_values(attr, values_to_match)
+            if is_element_containing_all_values:
+                _result.append(element)
+        except KeyError:
+            continue
+    if len(_result) == 0:
+        raise Exception("Error, elements do not match")
+    return _result
+
+
+def is_element_contains_all_to_values(element: str, values_to_match: list[str]) -> bool:
+    for value in values_to_match:
+        is_element_not_containing_value = value not in element
+        if is_element_not_containing_value:
+            return False
+    return True
+
+
 def find_all_containing_any_of_values_or_error(
         elements: list[bs4.element.Tag],
         attribute: str,

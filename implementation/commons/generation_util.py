@@ -14,9 +14,9 @@ def create_links_dictionary(vehicle_tag_links: list[bs4.element.Tag], sub_link_t
     return _dictionary
 
 
-def get_page_content(url: str, session: requests.Session = None) -> BeautifulSoup:
+def get_page_content(url: str, session: requests.Session = None, verify=True) -> BeautifulSoup:
     if session is None:
-        r = requests.get(url)
+        r = requests.get(url, verify=verify)
         raw_content = r.content
     else:
         r = session.get(url)

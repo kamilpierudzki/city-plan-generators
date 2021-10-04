@@ -93,7 +93,7 @@ class TransitAgency:
             self._TIMESTAMP_FORMATTED_ATTR: formatted_date,
             self._STOPS_DATA_VERSION_ATTR: 1,
             self._TRAM_STOPS_ATTR: tram_stops_json_dictionary,
-            self._BUSES_ATTR: bus_stops_json_dictionary
+            self._BUS_STOPS_ATTR: bus_stops_json_dictionary
         }
 
         raw_json = json.dumps(json_dict, ensure_ascii=False)

@@ -145,8 +145,8 @@ class TransitAgency:
                         vehicle_type + ", " +
                         stop + ": " + str(_stops_dictionary[stop])
                     )
-            except Exception:
-                error_message = "Error, link " + vehicle_links_dictionary[key] + " is broken"
+            except Exception as e:
+                error_message = "Error, " + e.__str__() + ", link " + vehicle_links_dictionary[key] + " is broken"
                 self.errors.append(error_message)
                 print(error_message)
                 continue

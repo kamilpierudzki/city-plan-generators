@@ -1,0 +1,105 @@
+{
+  "transit-agency": "KM Kołobrzeg",
+  "lastUpdateTimestampInMillis": 1633345924,
+  "lastUpdateFormatted": "04-10-2021",
+  "dataVersion": 1,
+  "trams": [],
+  "buses": [
+    {
+      "number": "1",
+      "destination": "Rościęcino"
+    },
+    {
+      "number": "1",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "2",
+      "destination": "Arka"
+    },
+    {
+      "number": "2",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "3",
+      "destination": "Arka"
+    },
+    {
+      "number": "3",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "4",
+      "destination": "Korzystno"
+    },
+    {
+      "number": "4",
+      "destination": "Arka"
+    },
+    {
+      "number": "5",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "5",
+      "destination": "Podczele"
+    },
+    {
+      "number": "6",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "6",
+      "destination": "Grzybowo"
+    },
+    {
+      "number": "7",
+      "destination": "Janiska"
+    },
+    {
+      "number": "7",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8A",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8A",
+      "destination": "Unii Lubelskiej"
+    },
+    {
+      "number": "8B",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8B",
+      "destination": "Mickiewicza"
+    },
+    {
+      "number": "9",
+      "destination": "Kołobrzeg"
+    },
+    {
+      "number": "9",
+      "destination": "Bogucino"
+    },
+    {
+      "number": "10",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "10",
+      "destination": "Zieleniewo"
+    },
+    {
+      "number": "11",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "11",
+      "destination": "Źródlana"
+    }
+  ]
+}

@@ -208,7 +208,11 @@ class TransitAgency:
                     vehicle_data.append(row)
                     print(self.get_transit_agency_name() + ", " + str(row))
             except Exception as e:
-                error_message = "Error, " + self.get_transit_agency_name() + ". _get_vehicle_lines, message: " + str(e)
+                error_message = "Error, " + \
+                                self.get_transit_agency_name() + \
+                                ". _get_vehicle_lines, message: " + \
+                                str(e) + ", link " + \
+                                vehicle_links_dictionary[key]
                 print(error_message)
                 self.errors.append(error_message)
                 continue

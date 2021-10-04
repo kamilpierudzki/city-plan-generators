@@ -15,7 +15,7 @@ def _create_json_file(raw_json: str, directory: str, json_file_name: str):
 
 
 class TransitAgency:
-    _TRANSIT_AGENCY_ATTR = "transit-agency"
+    _TRANSIT_AGENCY_ATTR = "transitAgency"
     _TIMESTAMP_ATTR = "lastUpdateTimestampInMillis"
     _DATA_VERSION_ATTR = "dataVersion"
     _TIMESTAMP_FORMATTED_ATTR = "lastUpdateFormatted"

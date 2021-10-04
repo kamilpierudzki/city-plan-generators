@@ -10,7 +10,7 @@ BUSES_ATTR = "buses"
 VEHICLE_NUMBER_ATTR = "number"
 VEHICLE_DESTINATION_ATTR = "destination"
 
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "../output"
 
 
 def create_json_file(raw_json, json_file_name):

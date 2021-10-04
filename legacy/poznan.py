@@ -4,27 +4,26 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-from commons import CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, \
+from legacy.commons import CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, \
     VEHICLE_NUMBER_ATTR, VEHICLE_DESTINATION_ATTR, create_json_file
 
-JSON_FILE_NAME = "olsztyn.json"
-MAIN_PAGE_LINK = "https://www.zdzit.olsztyn.eu/index.php/pl/transport-publiczny/rozklad-jazdy"
-SUB_PAGE_LINK = "https://www.zdzit.olsztyn.eu/index.php"
+JSON_FILE_NAME = "poznan.json"
 
 
-def olsztyn():
-    bus_dict = get_vehicle_types_dicts()
+def poznan():
+    tram_dict, bus_dict = get_vehicle_types_dicts()
+    trams = get_vehicle_data(tram_dict)
     buses = get_vehicle_data(bus_dict)
     current_time = datetime.datetime.now()
     timestamp = int(current_time.timestamp())
     formatted_date = current_time.strftime("%d-%m-%Y")
 
     json_dict = {
-        CITY_ATTR: "Olsztyn",
+        CITY_ATTR: "Poznań",
         TIMESTAMP_ATTR: timestamp,
         READABLE_TIME_ATTR: formatted_date,
         APP_VERSION_ATTR: 1,
-        TRAMS_ATTR: [],
+        TRAMS_ATTR: trams,
         BUSES_ATTR: buses
     }
 
@@ -34,37 +33,31 @@ def olsztyn():
 
 def get_vehicle_types_dicts():
     _main_page_content = get_main_page_content()
-    _all_links = _main_page_content.find_all('a')
-    _bus_timetable_links = filtered_links_with_class(_all_links)
+    _all_divs = _main_page_content.find_all('div')
+    _content_div = find_content_div(_all_divs)
+    _tram_timetable_links, _bus_timetable_links = get_tram_and_bus_timetable_links(_content_div)
+    _tram_dict = create_dict(_tram_timetable_links)
     _bus_dict = create_dict(_bus_timetable_links)
-    return _bus_dict
+    return _tram_dict, _bus_dict
 
 
 def get_main_page_content():
-    _r = requests.get(MAIN_PAGE_LINK, verify=False)
+    _r = requests.get("https://www.mpk.poznan.pl/rozklad-jazdy")
     _raw_content = _r.content
     _content = BeautifulSoup(_raw_content, 'html.parser')
     return _content
 
 
-def filtered_links_with_class(all_links):
-    _filtered = []
-    for link in all_links:
+def find_content_div(all_divs):
+    for div in all_divs:
         try:
-            a_class = link.attrs['class']
-            is_class_matching = \
-                a_class == ['ttt_cl'] or \
-                a_class == ['dtt_cl'] or \
-                a_class == ['gtt_cl'] or \
-                a_class == ['ntt_cl'] or \
-                a_class == ['stt_cl']
-            if is_class_matching:
-                _filtered.append(link)
+            a_id = div.attrs['id']
+            is_id_matching = a_id == 'content'
+            if is_id_matching:
+                return div
         except KeyError:
             print()
-    if len(_filtered) == 0:
-        raise Exception("Error: did not find classes")
-    return _filtered
+    return None
 
 
 def get_tram_and_bus_timetable_links(content_div):
@@ -116,7 +109,7 @@ def create_dict(timetable_links):
     _dict = {}
     for link in timetable_links:
         line_number = link.text.strip()
-        link_to_timetable = SUB_PAGE_LINK + link.attrs['href']
+        link_to_timetable = link.attrs['href']
         _dict[line_number] = link_to_timetable
     return _dict
 
@@ -124,40 +117,32 @@ def create_dict(timetable_links):
 def get_vehicle_data(vehicle_data_dict):
     _vehicle_data = []
     for key in vehicle_data_dict:
-        try:
-            _directions_for_subpage = get_directions_for_subpage(vehicle_data_dict[key])
-            _number = key
-            for direction in _directions_for_subpage:
-                _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
-                _vehicle_data.append(_row)
-                print(_row)
-        except Exception:
-            print("Error: link " + vehicle_data_dict[key] + " is broken")
+        _directions_for_subpage = get_directions_for_subpage(vehicle_data_dict[key])
+
+        if _directions_for_subpage is None:
+            continue
+
+        _number = key
+        for direction in _directions_for_subpage:
+            _row = {VEHICLE_NUMBER_ATTR: _number, VEHICLE_DESTINATION_ATTR: direction}
+            _vehicle_data.append(_row)
+            print(_row)
     return _vehicle_data
 
 
 def get_directions_for_subpage(url_to_subpage):
     _sub_page_content = get_sub_page_content(url_to_subpage)
     _all_h2s = _sub_page_content.find_all('h2')
-    _filtered_h2s = filter_h2s(_all_h2s)
-    _directions = get_directions(_filtered_h2s)
-    return _directions
-
-
-def filter_h2s(all_h2s):
-    _filtered = []
-    for h2 in all_h2s:
-        try:
-            h2.attrs['class']
-        except KeyError:
-            _filtered.append(h2)
-    if len(_filtered) == 0:
-        raise Exception("Error: directions not found")
-    return _filtered
+    _filtered_h2 = filtered_h2_line_title_name(_all_h2s)
+    if _filtered_h2 is not None:
+        _filtered_directions = filtered_h2_directions(_filtered_h2)
+        return _filtered_directions
+    else:
+        return None
 
 
 def get_sub_page_content(url):
-    _r = requests.get(url, verify=False)
+    _r = requests.get(url)
     _raw_content = _r.content
     _content = BeautifulSoup(_raw_content, 'html.parser')
     return _content
@@ -175,17 +160,14 @@ def filtered_h2_line_title_name(all_h2s):
     return None
 
 
-def get_directions(h2s):
+def filtered_h2_directions(filtered_h2):
+    _filtered = filtered_h2.text.split('&leftrightarrow')
     _directions = []
-    for h2 in h2s:
-        raw_text = h2.text
-        split = raw_text.split(' - ')
-        direction = split[0]
-        _directions.append(direction)
-    if len(_directions) == 0:
-        raise Exception("Error: directions not found")
+    for direction in _filtered:
+        stripped = direction.strip()
+        _directions.append(stripped)
     return _directions
 
 
 if __name__ == '__main__':
-    olsztyn()
+    poznan()

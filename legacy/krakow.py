@@ -4,7 +4,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-from commons import VEHICLE_NUMBER_ATTR, VEHICLE_DESTINATION_ATTR, CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, \
+from legacy.commons import VEHICLE_NUMBER_ATTR, VEHICLE_DESTINATION_ATTR, CITY_ATTR, TIMESTAMP_ATTR, READABLE_TIME_ATTR, \
     APP_VERSION_ATTR, TRAMS_ATTR, BUSES_ATTR, create_json_file
 
 MAIN_PAGE_URL = "https://rozklady.mpk.krakow.pl"

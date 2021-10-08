@@ -1,1 +1,5401 @@
-{"transitAgency": "Zarząd Dróg Miejskich i Komunikacji Publicznej w Bydgoszczy", "lastUpdateTimestampInMillis": 1633378321, "lastUpdateFormatted": "04-10-2021", "dataVersion": 1, "trams": [{"number": "1", "destination": "WILCZAK"}, {"number": "1", "destination": "LAS GDAŃSKI"}, {"number": "2", "destination": "LAS GDAŃSKI"}, {"number": "2", "destination": "KAPUŚCISKA"}, {"number": "3", "destination": "WILCZAK"}, {"number": "3", "destination": "ŁOSKOŃ"}, {"number": "4", "destination": "BIELAWY"}, {"number": "4", "destination": "GLINKI "}, {"number": "5", "destination": "RYCERSKA"}, {"number": "5", "destination": "ŁOSKOŃ"}, {"number": "6", "destination": "BIELAWY"}, {"number": "6", "destination": "ŁĘGNOWO"}, {"number": "7", "destination": "KAPUŚCISKA"}, {"number": "7", "destination": "NIEPODLEGŁOŚCI (PĘTLA)"}, {"number": "7", "destination": "KAPUŚCISKA"}, {"number": "7", "destination": "ŁOSKOŃ"}, {"number": "8", "destination": "RYCERSKA"}, {"number": "8", "destination": "KAPUŚCISKA"}, {"number": "9", "destination": "RYCERSKA"}, {"number": "9", "destination": "GLINKI "}, {"number": "10", "destination": "LAS GDAŃSKI"}, {"number": "10", "destination": "NIEPODLEGŁOŚCI (PĘTLA)"}, {"number": "10", "destination": "LAS GDAŃSKI"}, {"number": "10", "destination": "ŁOSKOŃ"}, {"number": "11", "destination": "BIELAWY"}, {"number": "11", "destination": "WYŻYNY (PĘTLA)"}], "buses": [{"number": "51", "destination": "CZYŻKÓWKO"}, {"number": "51", "destination": "PLAC KOŚCIELECKICH"}, {"number": "52", "destination": "DWORZEC LEŚNE"}, {"number": "52", "destination": "BŁONIE"}, {"number": "52", "destination": "PODKOWA"}, {"number": "52", "destination": "BŁONIE"}, {"number": "53", "destination": "DWORZEC BŁONIE"}, {"number": "53", "destination": "ŁUKASIEWICZA"}, {"number": "54", "destination": "PIASKI"}, {"number": "54", "destination": "BŁONIE"}, {"number": "54", "destination": "PIASKI"}, {"number": "54", "destination": "SMUKAŁA"}, {"number": "54", "destination": "BŁONIE"}, {"number": "54", "destination": "BŁONIE"}, {"number": "55", "destination": "SKORUPKI"}, {"number": "55", "destination": "MORSKA"}, {"number": "56", "destination": "BELMA"}, {"number": "56", "destination": "GLINKI BFM"}, {"number": "56", "destination": "BELMA"}, {"number": "56", "destination": "GLINKI BFM"}, {"number": "57", "destination": "DWORZEC GŁÓWNY"}, {"number": "57", "destination": "BŁONIE"}, {"number": "58", "destination": "SMUKAŁA"}, {"number": "58", "destination": "PLAC KOŚCIELECKICH"}, {"number": "58", "destination": "SMUKAŁA"}, {"number": "58", "destination": "PLAC KOŚCIELECKICH"}, {"number": "59", "destination": "KAPUŚCISKA"}, {"number": "59", "destination": "BŁONIE"}, {"number": "59", "destination": "ŁĘGNOWO"}, {"number": "59", "destination": "BŁONIE"}, {"number": "60", "destination": "MORSKA"}, {"number": "60", "destination": "BŁONIE"}, {"number": "61", "destination": "REKINOWA"}, {"number": "61", "destination": "PLAC KOŚCIELECKICH"}, {"number": "62", "destination": "BELMA"}, {"number": "62", "destination": "GARBARY"}, {"number": "64", "destination": "PRZEMYSŁOWA"}, {"number": "64", "destination": "BARWNA"}, {"number": "65", "destination": "DWORZEC LEŚNE"}, {"number": "65", "destination": "NAD WISŁĄ"}, {"number": "65", "destination": "DWORZEC LEŚNE"}, {"number": "65", "destination": "ŁOSKOŃ / ZAJEZDNIA"}, {"number": "67", "destination": "SKŁODOWSKIEJ-CURIE / ŁĘCZYCKA"}, {"number": "67", "destination": "RYCERSKA"}, {"number": "68", "destination": "GLINKI "}, {"number": "68", "destination": "DWORZEC LEŚNE"}, {"number": "68", "destination": "PARK PRZEMYSŁOWY / EXPLOSEUM"}, {"number": "68", "destination": "PRĄDOCIŃSKA"}, {"number": "68", "destination": "DWORZEC LEŚNE"}, {"number": "68", "destination": "DWORZEC LEŚNE"}, {"number": "69", "destination": "BŁONIE"}, {"number": "69", "destination": "TATRZAŃSKIE"}, {"number": "71", "destination": "REKINOWA"}, {"number": "71", "destination": "MORSKA"}, {"number": "73", "destination": "ESKULAPA"}, {"number": "73", "destination": "KAPUŚCISKA"}, {"number": "74", "destination": "WYŚCIGOWA"}, {"number": "74", "destination": "TATRZAŃSKIE"}, {"number": "76", "destination": "ŁĘGNOWO"}, {"number": "76", "destination": "RONDO TORUŃSKIE"}, {"number": "76", "destination": "NOWOTORUŃSKA / PLĄTNOWSKA"}, {"number": "76", "destination": "RONDO TORUŃSKIE"}, {"number": "77", "destination": "NIKLOWA"}, {"number": "77", "destination": "MORSKA"}, {"number": "77", "destination": "NIKLOWA"}, {"number": "77", "destination": "MORSKA"}, {"number": "79", "destination": "GLINKI "}, {"number": "79", "destination": "RYCERSKA"}, {"number": "79", "destination": "GLINKI "}, {"number": "79", "destination": "RYCERSKA"}, {"number": "80", "destination": "DWORZEC GŁÓWNY"}, {"number": "80", "destination": "PORT LOTNICZY (AIRPORT)"}, {"number": "80", "destination": "ZBOŻOWY RYNEK"}, {"number": "81", "destination": "SKANDYNAWSKA / IKEA"}, {"number": "81", "destination": "TATRZAŃSKIE"}, {"number": "81", "destination": "TOR REGATOWY"}, {"number": "81", "destination": "PRZEMYSŁOWA"}, {"number": "81", "destination": "CENTRUM ONKOLOGII"}, {"number": "81", "destination": "TATRZAŃSKIE"}, {"number": "81", "destination": "TATRZAŃSKIE"}, {"number": "82", "destination": "ZAMCZYSKO (PĘTLA)"}, {"number": "82", "destination": "TATRZAŃSKIE"}, {"number": "83", "destination": "TATRZAŃSKIE"}, {"number": "83", "destination": "CZYŻKÓWKO"}, {"number": "84", "destination": "GLINKI "}, {"number": "84", "destination": "KAPUŚCISKA"}, {"number": "85", "destination": "ŁĘGNOWO"}, {"number": "85", "destination": "KAPUŚCISKA"}, {"number": "89", "destination": "BŁONIE"}, {"number": "89", "destination": "TATRZAŃSKIE"}, {"number": "ZaT6", "destination": "RONDO TORUŃSKIE"}, {"number": "ZaT6", "destination": "RONDO JAGIELLONÓW"}, {"number": "90", "destination": "ŁOCHOWICE/NAKIELSKA/ZAJĘCZA (PĘTLA)"}, {"number": "90", "destination": "GARBARY"}, {"number": "91", "destination": "PRZYŁĘKI"}, {"number": "91", "destination": "BŁONIE"}, {"number": "91", "destination": "PRZYŁĘKI"}, {"number": "91", "destination": "BŁONIE"}, {"number": "91", "destination": "BŁONIE"}, {"number": "92", "destination": "DRZEWCE PĘTLA"}, {"number": "92", "destination": "BŁONIE"}, {"number": "92", "destination": "ŁOCHOWO"}, {"number": "92", "destination": "BŁONIE"}, {"number": "93", "destination": "NIWY"}, {"number": "93", "destination": "DWORZEC LEŚNE"}, {"number": "93", "destination": "WILCZE"}, {"number": "93", "destination": "DWORZEC LEŚNE"}, {"number": "94", "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"}, {"number": "94", "destination": "DWORZEC LEŚNE"}, {"number": "94", "destination": "NEKLA / AKACJOWA"}, {"number": "94", "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"}, {"number": "94", "destination": "DWORZEC LEŚNE"}, {"number": "94", "destination": "DWORZEC LEŚNE"}, {"number": "95", "destination": "TATRZAŃSKIE"}, {"number": "96", "destination": "PRZYŁĘKI"}, {"number": "96", "destination": "BŁONIE"}, {"number": "96", "destination": "PRZYŁĘKI"}, {"number": "96", "destination": "BŁONIE"}, {"number": "97", "destination": "KOZIELEC"}, {"number": "97", "destination": "TATRZAŃSKIE"}, {"number": "98", "destination": "PRZYLESIE"}, {"number": "99", "destination": "NOWA WIEŚ WIELKA"}, {"number": "99", "destination": "PLAC KOŚCIELECKICH"}, {"number": "31N", "destination": "DWORZEC LEŚNE"}, {"number": "31N", "destination": "ŁOSKOŃ / ZAJEZDNIA"}, {"number": "31N", "destination": "ŁOSKOŃ / ZAJEZDNIA"}, {"number": "31N", "destination": "DWORZEC LEŚNE"}, {"number": "31N", "destination": "PODKOWA"}, {"number": "32N", "destination": "TATRZAŃSKIE"}, {"number": "32N", "destination": "DWORZEC BŁONIE"}, {"number": "32N", "destination": "ŁOSKOŃ / ZAJEZDNIA"}, {"number": "32N", "destination": "DWORZEC BŁONIE"}, {"number": "33N", "destination": "TATRZAŃSKIE"}, {"number": "33N", "destination": "PIASKI"}, {"number": "33N", "destination": "ŁOSKOŃ / ZAJEZDNIA"}, {"number": "33N", "destination": "PIASKI"}, {"number": "34N", "destination": "SMUKAŁA"}, {"number": "34N", "destination": "PLAC KOŚCIELECKICH"}, {"number": "34N", "destination": "SMUKAŁA"}, {"number": "35N", "destination": "REKINOWA"}, {"number": "35N", "destination": "PLAC KOŚCIELECKICH"}, {"number": "35N", "destination": "REKINOWA"}, {"number": "36N", "destination": "ŁĘGNOWO"}, {"number": "36N", "destination": "NAKIELSKA / LISIA"}, {"number": "36N", "destination": "PLAC KOŚCIELECKICH"}, {"number": "36N", "destination": "BELMA"}]}
+{
+  "transitAgency": "Zarząd Dróg Miejskich i Komunikacji Publicznej w Bydgoszczy",
+  "lastUpdateTimestampInMillis": 1633691806,
+  "lastUpdateFormatted": "08-10-2021",
+  "dataVersion": 1,
+  "tramLines": [
+    {
+      "number": "1",
+      "destination": "WILCZAK"
+    },
+    {
+      "number": "1",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "2",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "2",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "3",
+      "destination": "WILCZAK"
+    },
+    {
+      "number": "3",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "4",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "4",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "5",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "5",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "6",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "6",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "7",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "7",
+      "destination": "NIEPODLEGŁOŚCI (PĘTLA)"
+    },
+    {
+      "number": "7",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "7",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "8",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "8",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "9",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "9",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "10",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "10",
+      "destination": "NIEPODLEGŁOŚCI (PĘTLA)"
+    },
+    {
+      "number": "10",
+      "destination": "LAS GDAŃSKI"
+    },
+    {
+      "number": "10",
+      "destination": "ŁOSKOŃ"
+    },
+    {
+      "number": "11",
+      "destination": "BIELAWY"
+    },
+    {
+      "number": "11",
+      "destination": "WYŻYNY (PĘTLA)"
+    }
+  ],
+  "busLines": [
+    {
+      "number": "51",
+      "destination": "CZYŻKÓWKO"
+    },
+    {
+      "number": "51",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "52",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "52",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "52",
+      "destination": "PODKOWA"
+    },
+    {
+      "number": "52",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "53",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "53",
+      "destination": "ŁUKASIEWICZA"
+    },
+    {
+      "number": "54",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "54",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "54",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "54",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "55",
+      "destination": "SKORUPKI"
+    },
+    {
+      "number": "55",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "56",
+      "destination": "BELMA"
+    },
+    {
+      "number": "56",
+      "destination": "GLINKI BFM"
+    },
+    {
+      "number": "56",
+      "destination": "BELMA"
+    },
+    {
+      "number": "56",
+      "destination": "GLINKI BFM"
+    },
+    {
+      "number": "57",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "57",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "58",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "58",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "58",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "58",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "59",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "59",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "59",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "59",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "60",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "60",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "61",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "61",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "62",
+      "destination": "BELMA"
+    },
+    {
+      "number": "62",
+      "destination": "GARBARY"
+    },
+    {
+      "number": "64",
+      "destination": "PRZEMYSŁOWA"
+    },
+    {
+      "number": "64",
+      "destination": "BARWNA"
+    },
+    {
+      "number": "65",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "65",
+      "destination": "NAD WISŁĄ"
+    },
+    {
+      "number": "65",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "65",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "67",
+      "destination": "SKŁODOWSKIEJ-CURIE / ŁĘCZYCKA"
+    },
+    {
+      "number": "67",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "68",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "68",
+      "destination": "PARK PRZEMYSŁOWY / EXPLOSEUM"
+    },
+    {
+      "number": "68",
+      "destination": "PRĄDOCIŃSKA"
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "68",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "69",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "69",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "71",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "71",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "73",
+      "destination": "ESKULAPA"
+    },
+    {
+      "number": "73",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "74",
+      "destination": "WYŚCIGOWA"
+    },
+    {
+      "number": "74",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "76",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "76",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "76",
+      "destination": "NOWOTORUŃSKA / PLĄTNOWSKA"
+    },
+    {
+      "number": "76",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "77",
+      "destination": "NIKLOWA"
+    },
+    {
+      "number": "77",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "77",
+      "destination": "NIKLOWA"
+    },
+    {
+      "number": "77",
+      "destination": "MORSKA"
+    },
+    {
+      "number": "79",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "79",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "79",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "79",
+      "destination": "RYCERSKA"
+    },
+    {
+      "number": "80",
+      "destination": "DWORZEC GŁÓWNY"
+    },
+    {
+      "number": "80",
+      "destination": "PORT LOTNICZY (AIRPORT)"
+    },
+    {
+      "number": "80",
+      "destination": "ZBOŻOWY RYNEK"
+    },
+    {
+      "number": "81",
+      "destination": "SKANDYNAWSKA / IKEA"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "81",
+      "destination": "TOR REGATOWY"
+    },
+    {
+      "number": "81",
+      "destination": "PRZEMYSŁOWA"
+    },
+    {
+      "number": "81",
+      "destination": "CENTRUM ONKOLOGII"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "81",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "82",
+      "destination": "ZAMCZYSKO (PĘTLA)"
+    },
+    {
+      "number": "82",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "83",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "83",
+      "destination": "CZYŻKÓWKO"
+    },
+    {
+      "number": "84",
+      "destination": "GLINKI "
+    },
+    {
+      "number": "84",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "85",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "85",
+      "destination": "KAPUŚCISKA"
+    },
+    {
+      "number": "89",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "89",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "ZaT6",
+      "destination": "RONDO TORUŃSKIE"
+    },
+    {
+      "number": "ZaT6",
+      "destination": "RONDO JAGIELLONÓW"
+    },
+    {
+      "number": "90",
+      "destination": "ŁOCHOWICE/NAKIELSKA/ZAJĘCZA (PĘTLA)"
+    },
+    {
+      "number": "90",
+      "destination": "GARBARY"
+    },
+    {
+      "number": "91",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "91",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "91",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "92",
+      "destination": "DRZEWCE PĘTLA"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "92",
+      "destination": "ŁOCHOWO"
+    },
+    {
+      "number": "92",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "93",
+      "destination": "NIWY"
+    },
+    {
+      "number": "93",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "93",
+      "destination": "WILCZE"
+    },
+    {
+      "number": "93",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "NEKLA / AKACJOWA"
+    },
+    {
+      "number": "94",
+      "destination": "ŻOŁĘDOWO / AUGUSTOWSKA"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "94",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "95",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "96",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "96",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "96",
+      "destination": "PRZYŁĘKI"
+    },
+    {
+      "number": "96",
+      "destination": "BŁONIE"
+    },
+    {
+      "number": "97",
+      "destination": "KOZIELEC"
+    },
+    {
+      "number": "97",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "98",
+      "destination": "PRZYLESIE"
+    },
+    {
+      "number": "99",
+      "destination": "NOWA WIEŚ WIELKA"
+    },
+    {
+      "number": "99",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "31N",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "31N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "31N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "31N",
+      "destination": "DWORZEC LEŚNE"
+    },
+    {
+      "number": "31N",
+      "destination": "PODKOWA"
+    },
+    {
+      "number": "32N",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "32N",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "32N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "32N",
+      "destination": "DWORZEC BŁONIE"
+    },
+    {
+      "number": "33N",
+      "destination": "TATRZAŃSKIE"
+    },
+    {
+      "number": "33N",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "33N",
+      "destination": "ŁOSKOŃ / ZAJEZDNIA"
+    },
+    {
+      "number": "33N",
+      "destination": "PIASKI"
+    },
+    {
+      "number": "34N",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "34N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "34N",
+      "destination": "SMUKAŁA"
+    },
+    {
+      "number": "35N",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "35N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "35N",
+      "destination": "REKINOWA"
+    },
+    {
+      "number": "36N",
+      "destination": "ŁĘGNOWO"
+    },
+    {
+      "number": "36N",
+      "destination": "NAKIELSKA / LISIA"
+    },
+    {
+      "number": "36N",
+      "destination": "PLAC KOŚCIELECKICH"
+    },
+    {
+      "number": "36N",
+      "destination": "BELMA"
+    }
+  ],
+  "tramStops": [
+    {
+      "stopName": "Gdańska / Dworcowa",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Powst. Warszawy",
+      "stopLines": [
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Wrocławska",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Plac Teatralny",
+      "stopLines": [
+        "1",
+        "3",
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Stadion Zawisza",
+      "stopLines": [
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "<<Powrót do wyboru linii komunikacyjnej",
+      "stopLines": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "LAS GDAŃSKI",
+      "stopLines": [
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Cieszkowskiego",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Plac Wolności",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Garbary",
+      "stopLines": [
+        "1",
+        "3",
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Stawowa",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Słoneczna",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Focha / Opera",
+      "stopLines": [
+        "1",
+        "3",
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Artyleryjska",
+      "stopLines": [
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "WILCZAK",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Wrzesińska",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Chodkiewicza",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Rondo Grunwaldzkie",
+      "stopLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "stopName": "KAPUŚCISKA",
+      "stopLines": [
+        "2",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "Szarych Szeregów",
+      "stopLines": [
+        "2",
+        "4",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Rondo Jagiellonów",
+      "stopLines": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Wojska Polskiego / Kładka",
+      "stopLines": [
+        "2",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Prezydenta Lecha Kaczyńskiego",
+      "stopLines": [
+        "2",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "Wyżyny",
+      "stopLines": [
+        "2",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Rondo Kujawskie",
+      "stopLines": [
+        "2",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Ujejskiego",
+      "stopLines": [
+        "2",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Zbożowy Rynek",
+      "stopLines": [
+        "2",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Baczyńskiego",
+      "stopLines": [
+        "2",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "Wzgórze Wolności",
+      "stopLines": [
+        "2",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Igrzyskowa",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Niepodległości",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Rejewskiego",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Romanowskiej",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Fabryczna",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Dworzec Autobusowy",
+      "stopLines": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Bajka",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska / Łużycka",
+      "stopLines": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Dworzec Wschód ",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Andersa / Wolna",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Wyścigowa",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Łoskoń",
+      "stopLines": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "stopName": "Andersa / Gieryna",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Bałtycka",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Kaliskiego ",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Przylesie",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Andersa / Kleeberga",
+      "stopLines": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Rondo Fordońskie",
+      "stopLines": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza / Paderewskiego",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "UKW",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Perłowa / Toruńska",
+      "stopLines": [
+        "4",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "Szpitalna / Solna",
+      "stopLines": [
+        "4",
+        "9"
+      ]
+    },
+    {
+      "stopName": "GLINKI ",
+      "stopLines": [
+        "4",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza / Lelewela",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Szpitalna / Łomżyńska",
+      "stopLines": [
+        "4",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Rondo Toruńskie",
+      "stopLines": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "BIELAWY",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza / Gdańska",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "RYCERSKA",
+      "stopLines": [
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Dworzec Główny",
+      "stopLines": [
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Dworcowa / Matejki",
+      "stopLines": [
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Tor awaryjny",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Sporna",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Hutnicza / Nowotoruńska",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Równa",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Kazimierza Wlk.",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Perłowa",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Filmowa",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Stomil",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Stomil (brama)",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "ŁĘGNOWO",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Kielecka",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Zaj.Tramwajowa",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "ŁOSKOŃ",
+      "stopLines": [
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "NIEPODLEGŁOŚCI (PĘTLA)",
+      "stopLines": [
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Niepodległości (pętla)",
+      "stopLines": [
+        "7",
+        "10"
+      ]
+    },
+    {
+      "stopName": "WYŻYNY (PĘTLA)",
+      "stopLines": [
+        "11"
+      ]
+    }
+  ],
+  "busStops": [
+    {
+      "stopName": "Grunwaldzka / Czarna Droga",
+      "stopLines": [
+        "51",
+        "58",
+        "61",
+        "71",
+        "77"
+      ]
+    },
+    {
+      "stopName": "<<Powrót do wyboru linii komunikacyjnej",
+      "stopLines": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "64",
+        "65",
+        "67",
+        "68",
+        "69",
+        "71",
+        "73",
+        "74",
+        "76",
+        "77",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "89",
+        "ZaT6",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "31N",
+        "32N",
+        "33N",
+        "34N",
+        "35N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Deszczowa / Wiejska",
+      "stopLines": [
+        "51",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Nad Torem / Orlicza",
+      "stopLines": [
+        "51",
+        "58",
+        "83",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "CZYŻKÓWKO",
+      "stopLines": [
+        "51",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Rondo Maczka",
+      "stopLines": [
+        "51",
+        "58",
+        "61",
+        "71",
+        "77",
+        "83",
+        "34N",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Rondo Jagiellonów",
+      "stopLines": [
+        "51",
+        "52",
+        "55",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "64",
+        "80",
+        "99",
+        "31N",
+        "32N",
+        "33N",
+        "34N",
+        "35N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Krajeńska / Wiejska",
+      "stopLines": [
+        "51",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Wiejska / Chojnicka",
+      "stopLines": [
+        "51",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Orlicza / Nad Torem",
+      "stopLines": [
+        "51",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Wiejska / Deszczowa",
+      "stopLines": [
+        "51",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Rondo Grunwaldzkie",
+      "stopLines": [
+        "51",
+        "54",
+        "56",
+        "58",
+        "61",
+        "62",
+        "71",
+        "77",
+        "79",
+        "90",
+        "34N",
+        "35N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Plac Poznański",
+      "stopLines": [
+        "51",
+        "52",
+        "54",
+        "55",
+        "56",
+        "58",
+        "59",
+        "60",
+        "61",
+        "79",
+        "35N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Zbożowy Rynek",
+      "stopLines": [
+        "51",
+        "52",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "64",
+        "80",
+        "ZaT6",
+        "99",
+        "35N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Kanałowa",
+      "stopLines": [
+        "51",
+        "58",
+        "61",
+        "71",
+        "77",
+        "34N",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "PLAC KOŚCIELECKICH",
+      "stopLines": [
+        "51",
+        "58",
+        "61",
+        "99",
+        "34N",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Kraszewskiego",
+      "stopLines": [
+        "51",
+        "58",
+        "61",
+        "71",
+        "77",
+        "34N",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Grudziądzka / Urząd Miasta",
+      "stopLines": [
+        "51",
+        "52",
+        "55",
+        "56",
+        "58",
+        "59",
+        "60"
+      ]
+    },
+    {
+      "stopName": "Wiejska / Krajeńska",
+      "stopLines": [
+        "51",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Nowy Rynek",
+      "stopLines": [
+        "51",
+        "52",
+        "55",
+        "56",
+        "58",
+        "59",
+        "60",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Deszczowa / Wichrowa",
+      "stopLines": [
+        "51",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Myślęcinek",
+      "stopLines": [
+        "52",
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "PODKOWA",
+      "stopLines": [
+        "52",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "BŁONIE",
+      "stopLines": [
+        "52",
+        "54",
+        "57",
+        "59",
+        "60",
+        "69",
+        "89",
+        "91",
+        "92",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Leśne",
+      "stopLines": [
+        "52",
+        "65",
+        "68",
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Jeździecka / Ogród Botaniczny",
+      "stopLines": [
+        "52",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Armii Krajowej / Zamczysko",
+      "stopLines": [
+        "52"
+      ]
+    },
+    {
+      "stopName": "UKW",
+      "stopLines": [
+        "52",
+        "57",
+        "65",
+        "68",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Las Gdański",
+      "stopLines": [
+        "52",
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Jeździecka / Gdańska",
+      "stopLines": [
+        "52",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Plac Weyssenhoffa",
+      "stopLines": [
+        "52",
+        "59",
+        "60",
+        "64",
+        "67"
+      ]
+    },
+    {
+      "stopName": "Zamczysko / Gdańska",
+      "stopLines": [
+        "52"
+      ]
+    },
+    {
+      "stopName": "Szubińska / Gnieźnieńska",
+      "stopLines": [
+        "52",
+        "53",
+        "54",
+        "59",
+        "60",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Rondo Ossolińskich",
+      "stopLines": [
+        "52",
+        "55",
+        "59",
+        "60",
+        "64",
+        "67",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Markwarta / 3 Maja",
+      "stopLines": [
+        "52",
+        "55",
+        "59",
+        "60",
+        "64",
+        "67",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Sułkowskiego / Kamienna",
+      "stopLines": [
+        "52",
+        "57",
+        "65",
+        "68",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Jeździecka / Hipiczna",
+      "stopLines": [
+        "52",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Szubińska / Żwirki i Wigury",
+      "stopLines": [
+        "52",
+        "53",
+        "54",
+        "59",
+        "60",
+        "64",
+        "69",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "3 Maja / Markwarta",
+      "stopLines": [
+        "52",
+        "59",
+        "60",
+        "64",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Modrzewiowa / Gdańska",
+      "stopLines": [
+        "52",
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Zamczysko / Armii Krajowej",
+      "stopLines": [
+        "52"
+      ]
+    },
+    {
+      "stopName": "Szubińska / Piękna",
+      "stopLines": [
+        "52",
+        "53",
+        "54",
+        "55",
+        "59",
+        "60",
+        "79",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Armii Krajowej / Jeździecka",
+      "stopLines": [
+        "52"
+      ]
+    },
+    {
+      "stopName": "DWORZEC LEŚNE",
+      "stopLines": [
+        "52",
+        "65",
+        "68",
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Paderewskiego",
+      "stopLines": [
+        "52",
+        "59",
+        "60",
+        "64",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Las (NŻ)",
+      "stopLines": [
+        "52",
+        "93",
+        "94"
+      ]
+    },
+    {
+      "stopName": "Sułkowskiego / Czerkaska",
+      "stopLines": [
+        "52",
+        "65",
+        "68",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Jeździecka / Dżokejowa",
+      "stopLines": [
+        "52",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Piękna / Szubińska",
+      "stopLines": [
+        "53",
+        "55",
+        "57",
+        "79",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Schulza / Szubińska",
+      "stopLines": [
+        "53",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Solskiego / Bielicka",
+      "stopLines": [
+        "53",
+        "57",
+        "79",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Szarych Szeregów",
+      "stopLines": [
+        "53",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Solskiego / Kossaka",
+      "stopLines": [
+        "53",
+        "55",
+        "57",
+        "79",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Schulza / Stawowa",
+      "stopLines": [
+        "53",
+        "57",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Prezydenta Lecha Kaczyńskiego",
+      "stopLines": [
+        "53",
+        "59",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Wojska Polskiego / Kładka",
+      "stopLines": [
+        "53",
+        "56",
+        "68",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Baczyńskiego / Sandomierska",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "Wyżyny",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "Rondo Kujawskie",
+      "stopLines": [
+        "53",
+        "56",
+        "57",
+        "61",
+        "64",
+        "69",
+        "79",
+        "80",
+        "89",
+        "99",
+        "31N",
+        "32N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Ujejskiego",
+      "stopLines": [
+        "53",
+        "56",
+        "68",
+        "69",
+        "89",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Solskiego / Ugory",
+      "stopLines": [
+        "53",
+        "57",
+        "61",
+        "79",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "ŁUKASIEWICZA",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "Wzgórze Wolności",
+      "stopLines": [
+        "53",
+        "56",
+        "69",
+        "79",
+        "89",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Baczyńskiego / Woj.Polskiego",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "DWORZEC BŁONIE",
+      "stopLines": [
+        "53",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Pileckiego / Kmicica",
+      "stopLines": [
+        "54",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Saperów / Kąpielisko",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Zaświat / Artyleryjska",
+      "stopLines": [
+        "54",
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Piaski",
+      "stopLines": [
+        "54"
+      ]
+    },
+    {
+      "stopName": "Smukalska / Agrestowa",
+      "stopLines": [
+        "54"
+      ]
+    },
+    {
+      "stopName": "Warszawska / Fredry",
+      "stopLines": [
+        "54",
+        "79",
+        "31N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Królowej Jadwigi / Astoria",
+      "stopLines": [
+        "54",
+        "71",
+        "77",
+        "79"
+      ]
+    },
+    {
+      "stopName": "Pileckiego / Żeglarska",
+      "stopLines": [
+        "54",
+        "83"
+      ]
+    },
+    {
+      "stopName": "PIASKI",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Smukalska / Sanktuarium (NŻ)",
+      "stopLines": [
+        "54"
+      ]
+    },
+    {
+      "stopName": "Dworzec Główny",
+      "stopLines": [
+        "54",
+        "67",
+        "71",
+        "77",
+        "79",
+        "31N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Saperów / Zakątek",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Smukalska / Baranowskiego (NŻ)",
+      "stopLines": [
+        "54"
+      ]
+    },
+    {
+      "stopName": "Garbary",
+      "stopLines": [
+        "54",
+        "56",
+        "61",
+        "71",
+        "77",
+        "79",
+        "31N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "SMUKAŁA",
+      "stopLines": [
+        "54",
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Pileckiego / Rynkowska",
+      "stopLines": [
+        "54",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Żeglarska / Ludwikowo",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Saperów / Komandosów",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Pileckiego / Cmentarz",
+      "stopLines": [
+        "54",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Saperów / Ludwikowo",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Smukalska / Błądzimska",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Saperów / Czołgistów",
+      "stopLines": [
+        "54",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Rondo Wielkopolskie",
+      "stopLines": [
+        "55",
+        "57",
+        "64",
+        "71",
+        "77",
+        "80",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Powstańców Wlkp. / Lelewela",
+      "stopLines": [
+        "55",
+        "64",
+        "65",
+        "68",
+        "71",
+        "77",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Ogińskiego / Moniuszki",
+      "stopLines": [
+        "55",
+        "57",
+        "80",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Powst. Wlkp. / Wyszyńskiego",
+      "stopLines": [
+        "55",
+        "64",
+        "65",
+        "68",
+        "71",
+        "77",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Głowackiego / Gajowa",
+      "stopLines": [
+        "55",
+        "71",
+        "77",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "MORSKA",
+      "stopLines": [
+        "55",
+        "60",
+        "71",
+        "77"
+      ]
+    },
+    {
+      "stopName": "Skorupki / Czackiego",
+      "stopLines": [
+        "55",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska / Piotrowskiego",
+      "stopLines": [
+        "55"
+      ]
+    },
+    {
+      "stopName": "SKORUPKI",
+      "stopLines": [
+        "55"
+      ]
+    },
+    {
+      "stopName": "Głowackiego / Bałtycka",
+      "stopLines": [
+        "55",
+        "71",
+        "77",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Notecka",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Wilczak",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Glinki / Eltra",
+      "stopLines": [
+        "56"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Iglasta",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Glinki / Polon",
+      "stopLines": [
+        "56",
+        "68",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Glinki / Zajęcza",
+      "stopLines": [
+        "56",
+        "68",
+        "79",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Stawowa",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Pijarów",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "BELMA",
+      "stopLines": [
+        "56",
+        "62",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Magnuszewska",
+      "stopLines": [
+        "56",
+        "68",
+        "79"
+      ]
+    },
+    {
+      "stopName": "Łochowska",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Stadion BKS Chemik",
+      "stopLines": [
+        "56",
+        "68",
+        "79",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Lisia",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Widok",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Wrzesińska",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Glinki_",
+      "stopLines": [
+        "56",
+        "68",
+        "84",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Wiśniowa",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Magnuszewska / Modrakowa",
+      "stopLines": [
+        "56",
+        "68",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Tarnowska",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "GLINKI BFM",
+      "stopLines": [
+        "56"
+      ]
+    },
+    {
+      "stopName": "Nakielska / Żywiecka",
+      "stopLines": [
+        "56",
+        "62",
+        "90",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Dworzec Autobusowy",
+      "stopLines": [
+        "57",
+        "80",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Czerkaska / Gdańska",
+      "stopLines": [
+        "57",
+        "80",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Połtyna / Szubińska",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Czerkaska / Sułkowskiego",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Stawowa / 16 Pułku Uł.Wlkp.",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Stawowa / Władysława IV",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Zaświat / Cmentarz",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Powst.Warszawy / Skromna",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Powst.Warszawy / Gdańska",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Powst.Warszawy / Szpital Woj.",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Rycerska",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Wysoka / Koszarowa",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "DWORZEC GŁÓWNY",
+      "stopLines": [
+        "57",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Sanatorium",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Przedszkole",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Biwakowa",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Chmurna / Nad Torem",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Nad Torem / Chmurna",
+      "stopLines": [
+        "58",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Meysnera",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Kolonijna",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Internat",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Meysnera / Opławiec",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Nad Torem / Karolewska",
+      "stopLines": [
+        "58",
+        "83"
+      ]
+    },
+    {
+      "stopName": "Siedlecka / Wodociągi (NŻ)",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Soboczyńskiego",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Siedlecka / Chmielna",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Siedlecka / Łubinowa",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Koronowska",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Wypoczynkowa",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Opławiec / Elektrownia",
+      "stopLines": [
+        "58",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Woj. Polskiego / Petersona (NŻ)",
+      "stopLines": [
+        "59",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Hutnicza / Eberhardta (NŻ)",
+      "stopLines": [
+        "59"
+      ]
+    },
+    {
+      "stopName": "Most Kazimierza Wielkiego",
+      "stopLines": [
+        "59",
+        "64",
+        "65",
+        "69",
+        "89",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Bałtycka/Skłodowskiej-Curie",
+      "stopLines": [
+        "59",
+        "64",
+        "69",
+        "89",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Woj. Polskiego / Dziatkiewicza (NŻ)",
+      "stopLines": [
+        "59",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Wulffa / Eberhardta",
+      "stopLines": [
+        "59"
+      ]
+    },
+    {
+      "stopName": "Woj. Polskiego / Hechlińskiego",
+      "stopLines": [
+        "59",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Prezydenta Lecha Kaczyńskiego / Sandomierska",
+      "stopLines": [
+        "59"
+      ]
+    },
+    {
+      "stopName": "Skłodowskiej-Curie / Bałtycka",
+      "stopLines": [
+        "59",
+        "60",
+        "64",
+        "67",
+        "69",
+        "89"
+      ]
+    },
+    {
+      "stopName": "Kazimierza Wlk. / Toruńska",
+      "stopLines": [
+        "59",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Skłodowskiej-Curie / Gajowa",
+      "stopLines": [
+        "59",
+        "60",
+        "64",
+        "67",
+        "69",
+        "89"
+      ]
+    },
+    {
+      "stopName": "Kapuściska",
+      "stopLines": [
+        "59",
+        "73",
+        "84",
+        "85",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "ŁĘGNOWO",
+      "stopLines": [
+        "59",
+        "76",
+        "85",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Bałtycka",
+      "stopLines": [
+        "59",
+        "64",
+        "65",
+        "69",
+        "89",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Skłodowskiej-Curie / Jurasza",
+      "stopLines": [
+        "59",
+        "60",
+        "67"
+      ]
+    },
+    {
+      "stopName": "Woj.Polskiego / Baczyńskiego",
+      "stopLines": [
+        "59",
+        "73",
+        "84",
+        "85",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Bałtycka / Fordońska",
+      "stopLines": [
+        "59",
+        "64",
+        "69",
+        "89",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Hutnicza / Świetlicowa (NŻ)",
+      "stopLines": [
+        "59"
+      ]
+    },
+    {
+      "stopName": "Bałtycka / Głowackiego",
+      "stopLines": [
+        "60"
+      ]
+    },
+    {
+      "stopName": "Bałtycka / Skłodowskiej-Curie",
+      "stopLines": [
+        "60",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Flisacka",
+      "stopLines": [
+        "61",
+        "71",
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Stroma / Kossaka",
+      "stopLines": [
+        "61",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "REKINOWA",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Ugory / Solskiego",
+      "stopLines": [
+        "61"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Chojnicka",
+      "stopLines": [
+        "61",
+        "71"
+      ]
+    },
+    {
+      "stopName": "Skorupki / Orla",
+      "stopLines": [
+        "61"
+      ]
+    },
+    {
+      "stopName": "Stroma / Orla",
+      "stopLines": [
+        "61",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Kolbego / Dzięciołowa",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Skorupki / Jordanowska",
+      "stopLines": [
+        "61"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Kolbego",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Kolbego / Wielorybia",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Kolbego / Kogucia",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Kolbego / Grunwaldzka",
+      "stopLines": [
+        "61",
+        "71",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Filtrowa",
+      "stopLines": [
+        "61",
+        "71"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka / Przejście",
+      "stopLines": [
+        "61",
+        "71"
+      ]
+    },
+    {
+      "stopName": "Ugory / Nowodworska",
+      "stopLines": [
+        "61"
+      ]
+    },
+    {
+      "stopName": "GARBARY",
+      "stopLines": [
+        "62",
+        "90"
+      ]
+    },
+    {
+      "stopName": "Rondo Inowrocławskie",
+      "stopLines": [
+        "64",
+        "69",
+        "80",
+        "89",
+        "99",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Fabryczna",
+      "stopLines": [
+        "64",
+        "65",
+        "69",
+        "89",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Inowrocławska / Skorupki",
+      "stopLines": [
+        "64",
+        "69",
+        "89"
+      ]
+    },
+    {
+      "stopName": "BARWNA",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "Brzozowa / Bielicka",
+      "stopLines": [
+        "64",
+        "69",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Władysława IV / Stawowa",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "Dworzec Wschód ",
+      "stopLines": [
+        "64",
+        "65",
+        "69",
+        "73",
+        "74",
+        "83",
+        "89",
+        "31N",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Żwirki i Wigury / Jaskółcza",
+      "stopLines": [
+        "64",
+        "69",
+        "89"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Wyścigowa",
+      "stopLines": [
+        "64",
+        "65",
+        "69",
+        "74",
+        "89",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Przemysłowa / Os. Rzemieślnicze",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "Brzozowa / Jesionowa",
+      "stopLines": [
+        "64",
+        "69",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Wyszyńskiego / Powst.Wlkp.",
+      "stopLines": [
+        "64",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Inowrocławska / Zajezdnia",
+      "stopLines": [
+        "64",
+        "69",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Przemysłowa / Portowa",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "Władysława IV / Czerw.Krzyża",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "PRZEMYSŁOWA",
+      "stopLines": [
+        "64",
+        "81"
+      ]
+    },
+    {
+      "stopName": "Przemysłowa / Tartak",
+      "stopLines": [
+        "64"
+      ]
+    },
+    {
+      "stopName": "Rondo Skrzetuskie",
+      "stopLines": [
+        "64",
+        "65",
+        "68",
+        "69",
+        "89"
+      ]
+    },
+    {
+      "stopName": "Niepodległości",
+      "stopLines": [
+        "65",
+        "81",
+        "82",
+        "31N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Fordon Rynek",
+      "stopLines": [
+        "65",
+        "81",
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Łowicka",
+      "stopLines": [
+        "65",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "NAD WISŁĄ",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Gajowa",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Nad Wisłą",
+      "stopLines": [
+        "65",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Wiślana",
+      "stopLines": [
+        "65",
+        "69",
+        "73",
+        "74",
+        "83",
+        "89",
+        "31N",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Piłsudskiego / Swobodna",
+      "stopLines": [
+        "65",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Bora-Komorow. / Braci Baż.",
+      "stopLines": [
+        "65",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Traktorzystów",
+      "stopLines": [
+        "65",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Sochaczewska",
+      "stopLines": [
+        "65",
+        "69",
+        "73",
+        "74",
+        "83",
+        "89",
+        "31N",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Dworzec Fordon",
+      "stopLines": [
+        "65",
+        "74",
+        "81",
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Łoskoń",
+      "stopLines": [
+        "65",
+        "81",
+        "95",
+        "97",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Bora-Komorow. / Gieryna",
+      "stopLines": [
+        "65",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Styki",
+      "stopLines": [
+        "65",
+        "81",
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Kapliczna",
+      "stopLines": [
+        "65",
+        "73",
+        "74"
+      ]
+    },
+    {
+      "stopName": "Dworzec Akademia",
+      "stopLines": [
+        "65",
+        "83",
+        "89"
+      ]
+    },
+    {
+      "stopName": "Bora-Komorow. / Kiedrowskiego",
+      "stopLines": [
+        "65",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Wyszogrodzka",
+      "stopLines": [
+        "65",
+        "74",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Fordońska / Wiadukt",
+      "stopLines": [
+        "65",
+        "81",
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Rondo Fordońskie",
+      "stopLines": [
+        "65",
+        "68",
+        "69",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Swobodna",
+      "stopLines": [
+        "65",
+        "81",
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Mickiewicza / Teatr Polski",
+      "stopLines": [
+        "67",
+        "71",
+        "77"
+      ]
+    },
+    {
+      "stopName": "SKŁODOWSKIEJ-CURIE / ŁĘCZYCKA",
+      "stopLines": [
+        "67"
+      ]
+    },
+    {
+      "stopName": "RYCERSKA",
+      "stopLines": [
+        "67",
+        "79"
+      ]
+    },
+    {
+      "stopName": "Plac Piastowski",
+      "stopLines": [
+        "67",
+        "71",
+        "77",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Hetmańska / Kaszubska",
+      "stopLines": [
+        "67",
+        "71",
+        "77",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Śniadeckich / Sienkiewicza",
+      "stopLines": [
+        "67",
+        "71",
+        "77",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Śniadeckich / Gdańska",
+      "stopLines": [
+        "67"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Exploseum",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "PARK PRZEMYSŁOWY / EXPLOSEUM",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Petersona",
+      "stopLines": [
+        "68",
+        "84"
+      ]
+    },
+    {
+      "stopName": "PRĄDOCIŃSKA",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "GLINKI ",
+      "stopLines": [
+        "68",
+        "79",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Falkowskiego",
+      "stopLines": [
+        "68",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysł./ Paciorkiewicza",
+      "stopLines": [
+        "68",
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Gamma",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Rondo Toruńskie",
+      "stopLines": [
+        "68",
+        "69",
+        "89",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Romanowskiej / Akademicka",
+      "stopLines": [
+        "69",
+        "81"
+      ]
+    },
+    {
+      "stopName": "TATRZAŃSKIE",
+      "stopLines": [
+        "69",
+        "74",
+        "81",
+        "82",
+        "83",
+        "89",
+        "95",
+        "97",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Romanowskiej",
+      "stopLines": [
+        "69",
+        "81"
+      ]
+    },
+    {
+      "stopName": "Matki Teresy z Kalkuty / Akademicka",
+      "stopLines": [
+        "69",
+        "73",
+        "81"
+      ]
+    },
+    {
+      "stopName": "Pelplińska / Taterników",
+      "stopLines": [
+        "69",
+        "74",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Pelplińska / Targowisko",
+      "stopLines": [
+        "69",
+        "74",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Twardzickiego / Kleina",
+      "stopLines": [
+        "69",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Matki Teresy z Kalkuty / Romanowskiej",
+      "stopLines": [
+        "69",
+        "73",
+        "81"
+      ]
+    },
+    {
+      "stopName": "Pelplińska / Jarużyńska",
+      "stopLines": [
+        "69",
+        "74",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Korfantego / Prejsa",
+      "stopLines": [
+        "69",
+        "82",
+        "83",
+        "89",
+        "98",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Twardzickiego / Thommée",
+      "stopLines": [
+        "69",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Twardzickiego / Łochowskiego",
+      "stopLines": [
+        "69",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Twardzickiego / Witosa",
+      "stopLines": [
+        "69",
+        "81",
+        "82",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Centrum Onkologii",
+      "stopLines": [
+        "69",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Przylesie",
+      "stopLines": [
+        "69",
+        "81",
+        "82",
+        "83",
+        "89",
+        "31N",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Rejewskiego / Akademicka",
+      "stopLines": [
+        "69",
+        "73",
+        "81"
+      ]
+    },
+    {
+      "stopName": "Rejewskiego / Auchan",
+      "stopLines": [
+        "69",
+        "73",
+        "81",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Twardzickiego / Przybory",
+      "stopLines": [
+        "69",
+        "81",
+        "82",
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Cieszkowskiego",
+      "stopLines": [
+        "71",
+        "77",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Sporna / Toruńska",
+      "stopLines": [
+        "73"
+      ]
+    },
+    {
+      "stopName": "KAPUŚCISKA",
+      "stopLines": [
+        "73"
+      ]
+    },
+    {
+      "stopName": "Plątnowska / Kościół",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Chemiczna / Energetyczna (NŻ)",
+      "stopLines": [
+        "73",
+        "85"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Sporna",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Przyłubska (NŻ)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Wypaleniska (NŻ)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Pod Skarpą / Stamma",
+      "stopLines": [
+        "73",
+        "98"
+      ]
+    },
+    {
+      "stopName": "Trybowskiego / Matki Teresy z Kalkuty",
+      "stopLines": [
+        "73",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Chemiczna / Eurogaz (NŻ)",
+      "stopLines": [
+        "73",
+        "85"
+      ]
+    },
+    {
+      "stopName": "Spółdzielcza",
+      "stopLines": [
+        "73",
+        "76",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Plątnowska / Przejazd (NŻ)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Żółwińska (NŻ)",
+      "stopLines": [
+        "73",
+        "76",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Łęgnowo",
+      "stopLines": [
+        "73",
+        "76"
+      ]
+    },
+    {
+      "stopName": "Stomil",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Chemiczna / Szczerby (NŻ)",
+      "stopLines": [
+        "73",
+        "85"
+      ]
+    },
+    {
+      "stopName": "Plątnowska / Otorowska (NŻ)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Stomil (brama)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Świetlicowa",
+      "stopLines": [
+        "73",
+        "76",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "ESKULAPA",
+      "stopLines": [
+        "73"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Wieża Ciśnień (NŻ)",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Dworzec Łęgnowo",
+      "stopLines": [
+        "73",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Chemiczna / Dachtery (NŻ)",
+      "stopLines": [
+        "73",
+        "85",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Trybowskiego / Jasiniecka",
+      "stopLines": [
+        "73",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Jasiniecka / Trybowskiego",
+      "stopLines": [
+        "73",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Przepompownia (NŻ)",
+      "stopLines": [
+        "73",
+        "76",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Jasiniecka / Pod Skarpą",
+      "stopLines": [
+        "73",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Plątnowska (NŻ)",
+      "stopLines": [
+        "73"
+      ]
+    },
+    {
+      "stopName": "Matki Teresy z Kalkuty / Rydygiera",
+      "stopLines": [
+        "73"
+      ]
+    },
+    {
+      "stopName": "Trybowskiego / Majtkowskiego",
+      "stopLines": [
+        "73",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Brzechwy / Szafirowa",
+      "stopLines": [
+        "74",
+        "81",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Łowicka / Szkoła",
+      "stopLines": [
+        "74",
+        "81",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Więcka / Łowicka",
+      "stopLines": [
+        "74",
+        "81",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Brdyujście",
+      "stopLines": [
+        "74",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Bajka",
+      "stopLines": [
+        "74",
+        "81",
+        "82",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Skarżyńskiego / Twardzickiego",
+      "stopLines": [
+        "74",
+        "81",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Witebska / Wschodnia",
+      "stopLines": [
+        "74",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Tor Regatowy",
+      "stopLines": [
+        "74",
+        "81",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Skandynawska / IKEA",
+      "stopLines": [
+        "74",
+        "81",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Wyszogrodzka / Opalowa",
+      "stopLines": [
+        "74",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Skarżyńskiego / Kwiatkowskiego",
+      "stopLines": [
+        "74",
+        "81",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Wyścigowa",
+      "stopLines": [
+        "74"
+      ]
+    },
+    {
+      "stopName": "Brzechwy / Szelburg-Zarem.",
+      "stopLines": [
+        "74",
+        "81",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Prezydenta Lecha Kaczyńskiego",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Spokojna",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Kielecka",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "RONDO TORUŃSKIE",
+      "stopLines": [
+        "76",
+        "ZaT6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Łuczniczki",
+      "stopLines": [
+        "76",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Plątnowska",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Objazdowa",
+      "stopLines": [
+        "76",
+        "85"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Perłowa",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Nowotoruńska / Hutnicza",
+      "stopLines": [
+        "76",
+        "85"
+      ]
+    },
+    {
+      "stopName": "Smoleńska / Kielecka",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Objazdowa / Nowotoruńska",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Smoleńska / Budowlana",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "Smoleńska / Pińczowska",
+      "stopLines": [
+        "76"
+      ]
+    },
+    {
+      "stopName": "NIKLOWA",
+      "stopLines": [
+        "77"
+      ]
+    },
+    {
+      "stopName": "Podmiejska / Kruszyńska",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Bronikowskiego / Śluzowa",
+      "stopLines": [
+        "77"
+      ]
+    },
+    {
+      "stopName": "Kruszyńska / Krańcowa",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Dworzec Zachód",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Spiżowa / Ołowiana",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Kruszyńska / Sowia",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Srebrna / Stalowa",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Srebrna / Spiżowa",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Mińska / Plonowa",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Flisacka / Grunwaldzka",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Mińska / Studzienna",
+      "stopLines": [
+        "77",
+        "35N"
+      ]
+    },
+    {
+      "stopName": "Glinki / Zelwerowicza",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Trasa Uniwersytecka / Ujejskiego",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Cmentarna / Glinki",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Wąbrzeska (NŻ)",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Cmentarna / Dobrzyńska (NŻ)",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Wąbrzeska",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Cmentarna / Glinki (NŻ)",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Glinki / Cmentarna",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "Cmentarna / Gniewkowska (NŻ)",
+      "stopLines": [
+        "79"
+      ]
+    },
+    {
+      "stopName": "PORT LOTNICZY (AIRPORT)",
+      "stopLines": [
+        "80"
+      ]
+    },
+    {
+      "stopName": "Jana Pawła II / Wąbrzeska",
+      "stopLines": [
+        "80",
+        "99"
+      ]
+    },
+    {
+      "stopName": "Jana Pawła II / Ziemska",
+      "stopLines": [
+        "80",
+        "99"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Igrzyskowa",
+      "stopLines": [
+        "81",
+        "82",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "SKANDYNAWSKA / IKEA",
+      "stopLines": [
+        "81"
+      ]
+    },
+    {
+      "stopName": "Kleeberga / Andersa",
+      "stopLines": [
+        "81",
+        "82"
+      ]
+    },
+    {
+      "stopName": "Przemysłowa / Przejazd (NŻ)",
+      "stopLines": [
+        "81"
+      ]
+    },
+    {
+      "stopName": "Geodetów / Wyzwolenia",
+      "stopLines": [
+        "81",
+        "97",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Komisariat",
+      "stopLines": [
+        "81",
+        "97",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "TOR REGATOWY",
+      "stopLines": [
+        "81"
+      ]
+    },
+    {
+      "stopName": "Geodetów / Pienińska",
+      "stopLines": [
+        "81",
+        "97",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Witebska / Gazbud (NŻ)",
+      "stopLines": [
+        "81"
+      ]
+    },
+    {
+      "stopName": "Akademicka / Kaliskiego ",
+      "stopLines": [
+        "81",
+        "82",
+        "83",
+        "89",
+        "31N",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Andersa / Kleeberga",
+      "stopLines": [
+        "81",
+        "82",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Pod Skarpą / Przemysła II",
+      "stopLines": [
+        "82",
+        "98"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Derdowskiego",
+      "stopLines": [
+        "82",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Pod Skarpą / Żemojtela",
+      "stopLines": [
+        "82",
+        "98"
+      ]
+    },
+    {
+      "stopName": "ZAMCZYSKO (PĘTLA)",
+      "stopLines": [
+        "82"
+      ]
+    },
+    {
+      "stopName": "Dworzec Bielawy",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Kamienna / Gdańska",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Kamienna / Wyszyńskiego",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Kamienna / Sułkowskiego",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Artyleryjska / Zaświat",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Kamienna / Gajowa",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Kaliskiego / Politechnika",
+      "stopLines": [
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Kaliskiego / Akademicka ",
+      "stopLines": [
+        "83",
+        "89",
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Kamienna / Fabryczna",
+      "stopLines": [
+        "83"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy/Trzecia",
+      "stopLines": [
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Biurowiec",
+      "stopLines": [
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Frankego",
+      "stopLines": [
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysł./ Raczkowskiego",
+      "stopLines": [
+        "84"
+      ]
+    },
+    {
+      "stopName": "Park Przemysłowy / Michałowskiego",
+      "stopLines": [
+        "84"
+      ]
+    },
+    {
+      "stopName": "Mokra",
+      "stopLines": [
+        "85",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Szczerby / Chemiczna",
+      "stopLines": [
+        "85"
+      ]
+    },
+    {
+      "stopName": "Chemiczna / Ogrodnictwo (NŻ)",
+      "stopLines": [
+        "85"
+      ]
+    },
+    {
+      "stopName": "RONDO JAGIELLONÓW",
+      "stopLines": [
+        "ZaT6"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Hala",
+      "stopLines": [
+        "ZaT6"
+      ]
+    },
+    {
+      "stopName": "Babia Wieś",
+      "stopLines": [
+        "ZaT6",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Żupy",
+      "stopLines": [
+        "ZaT6",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Bydgoska/Spokojna 1",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Potulicka/Dworska",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Potulicka/Szlachecka",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Belma",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Szosa Bydgoska/Grabowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Szosa Bydgoska/Kwiatowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Szosa Nakielska/Topolowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "ŁOCHOWICE/NAKIELSKA/ZAJĘCZA (PĘTLA)",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Szosa Bydgoska/Kasztanowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Potulicka/Wyczynowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Nakielska 34/Cmentarz",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Potulicka32/Hubertusa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowice I/Nakielska/Kanałowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo / Wierzbowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Szosa Nakielska/Czereśniowa",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowo/Nakielska 33",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Łochowice I/Nakielska/Kurkowa Sklep",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Lisi Ogon/Bydgoska 10-12",
+      "stopLines": [
+        "90"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Modra",
+      "stopLines": [
+        "91"
+      ]
+    },
+    {
+      "stopName": "Ciele / Źródlana",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Przyłęki / Młyńska",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "PRZYŁĘKI",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Kruszyn Kraj. / Zbożowa",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Zielonka / Orzechowa",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Ciele / Pogodna",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Kruszyńska",
+      "stopLines": [
+        "91"
+      ]
+    },
+    {
+      "stopName": "Przyłęki / Kościół",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Kruszyn Kraj. / Mroźna",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Zielonka / Bocianowo",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Ciele / Myśliwska",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Ciele / Makowa",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Czekoladowa",
+      "stopLines": [
+        "91"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Czerska",
+      "stopLines": [
+        "91"
+      ]
+    },
+    {
+      "stopName": "Ciele / Ogrody",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Przyłęki / Cicha",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Chlebowa",
+      "stopLines": [
+        "91"
+      ]
+    },
+    {
+      "stopName": "Ciele / Kościelna",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Przyłęki / Biznesowa",
+      "stopLines": [
+        "91",
+        "96"
+      ]
+    },
+    {
+      "stopName": "Lipniki / Akacjowa",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Lipniki / Wierzbowa",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Kapliczna",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Murowaniec / Strusia",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Kruszyn Kraj. / Jasiniecka",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Urząd Gminy",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "ŁOCHOWO",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Lipniki / Wiadukt",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Drzewce",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Lipniki / STW",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Kruszyn Kraj. / Łąkowa",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Łochowo / Sosnowa (NŻ)",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Kruszyn Kraj. / Słoneczna",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "DRZEWCE PĘTLA",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Murowaniec",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Białe Błota / Sosnowa",
+      "stopLines": [
+        "92"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Jeździecka",
+      "stopLines": [
+        "93",
+        "94",
+        "31N"
+      ]
+    },
+    {
+      "stopName": "WILCZE",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Jarużyn / Bociania",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Niwy",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Jarużyn / Nowowiejska",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Jaworowa",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Myślęcinek",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Wilcze / Krakowska ",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Niwy / Zakopiańska ",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Młyn",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Gmina",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Centralna",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Kwiatowa",
+      "stopLines": [
+        "93",
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Leśna",
+      "stopLines": [
+        "93",
+        "98"
+      ]
+    },
+    {
+      "stopName": "NIWY",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Niwy / Bocheńska",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Wiązowa",
+      "stopLines": [
+        "93"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Słowackiego",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Maksymilianowo / Ptasia",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Żołędowo / Koronowska",
+      "stopLines": [
+        "94",
+        "98"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Pod Wierzbami",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Nekla / Leśna",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Jagodowo / Letnia (NŻ)",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Nekla / Makowa",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Mickiewicza ",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Nekla / Tęczowa",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Maksymilianowo / Jagodowa",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Maksymilianowo / Główna",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Krzyszkowiaka",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Maksymilianowo / Szkoła",
+      "stopLines": [
+        "94",
+        "98"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Malczewskiego",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Nekla / Ciepła",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "ŻOŁĘDOWO / AUGUSTOWSKA",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Urocza",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "NEKLA / AKACJOWA",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Żołędowo / Szkoła",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Żołędowo / Augustowska",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Żołędowo / Przyjazna",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Rutkiewicz",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Niemcz / Kasprowicza",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Jagodowo / Polna",
+      "stopLines": [
+        "94"
+      ]
+    },
+    {
+      "stopName": "Geodetów / Wyzwolenia (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Szkolna",
+      "stopLines": [
+        "95",
+        "97"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Gołębia (NŻ)",
+      "stopLines": [
+        "95",
+        "97"
+      ]
+    },
+    {
+      "stopName": "Jarużyn / Rajska (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Geodetów (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Geodetów / Pienińska (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Diamentowa (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Strzelce Dolne II",
+      "stopLines": [
+        "95",
+        "97"
+      ]
+    },
+    {
+      "stopName": "Strzelce Dolne III (NŻ)",
+      "stopLines": [
+        "95",
+        "97"
+      ]
+    },
+    {
+      "stopName": "Jarużyn / Krakowska (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Wilcza (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Komisariat (NŻ)",
+      "stopLines": [
+        "95"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Brzegowa (NŻ)",
+      "stopLines": [
+        "95",
+        "97"
+      ]
+    },
+    {
+      "stopName": "al. Żołnierzy Wyklętych / Ciele",
+      "stopLines": [
+        "96"
+      ]
+    },
+    {
+      "stopName": "Trzciniec / Sarnia",
+      "stopLines": [
+        "96"
+      ]
+    },
+    {
+      "stopName": "KOZIELEC",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Włóki",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Gądecz",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Strzelce Górne / Gądecka",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia / Geodetów",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Hutna Wieś",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Trzęsacz II",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Trzęsacz I",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Kozielec I",
+      "stopLines": [
+        "97"
+      ]
+    },
+    {
+      "stopName": "Żołędowo / Tulipanowa",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Czarnówczyn",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Kolonijna",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Maksymilianowo / Świetlica",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Jana Pawła II",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Bożenkowo / Bożenkowska",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Lipowa",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Bożenkowo / Harcerska",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Gryczana",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Bożenkowo / Osiedlowa",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Cisowa",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Osielsko / Kąty",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "PRZYLESIE",
+      "stopLines": [
+        "98"
+      ]
+    },
+    {
+      "stopName": "Prądocin",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "NOWA WIEŚ WIELKA",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Chmielniki I (NŻ)",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Chmielniki / Plaża",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Brzoza",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Januszkowo",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Stryszek (NŻ)",
+      "stopLines": [
+        "99"
+      ]
+    },
+    {
+      "stopName": "Plac Teatralny",
+      "stopLines": [
+        "31N",
+        "33N",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Andersa / Kasztelańska",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Powst. Warszawy",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Kielecka / Toruńska",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Równa",
+      "stopLines": [
+        "31N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Artyleryjska",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Andersa / Wolna",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Plac Kościeleckich",
+      "stopLines": [
+        "31N",
+        "32N",
+        "33N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Focha / Opera",
+      "stopLines": [
+        "31N",
+        "33N",
+        "34N"
+      ]
+    },
+    {
+      "stopName": "Gdańska / Chodkiewicza",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Dachtery / Chemiczna (NŻ)",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Szpitalna / Łomżyńska",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Kielecka",
+      "stopLines": [
+        "31N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Kielecka / Smoleńska (NŻ)",
+      "stopLines": [
+        "31N"
+      ]
+    },
+    {
+      "stopName": "ŁOSKOŃ / ZAJEZDNIA",
+      "stopLines": [
+        "31N",
+        "32N",
+        "33N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Zaj.Tramwajowa",
+      "stopLines": [
+        "31N",
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska / Łużycka",
+      "stopLines": [
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Skorupki",
+      "stopLines": [
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Błonie",
+      "stopLines": [
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Tatrzańskie",
+      "stopLines": [
+        "32N"
+      ]
+    },
+    {
+      "stopName": "Niklowa",
+      "stopLines": [
+        "35N"
+      ]
+    },
+    {
+      "stopName": "NAKIELSKA / LISIA",
+      "stopLines": [
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Toruńska / Kazimierza Wlk.",
+      "stopLines": [
+        "36N"
+      ]
+    },
+    {
+      "stopName": "Bielicka / Solskiego",
+      "stopLines": [
+        "36N"
+      ]
+    }
+  ]
+}

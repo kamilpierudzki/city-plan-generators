@@ -19,18 +19,15 @@ class TransitAgency:
     _TIMESTAMP_ATTR = "lastUpdateTimestampInMillis"
     _DATA_VERSION_ATTR = "dataVersion"
     _TIMESTAMP_FORMATTED_ATTR = "lastUpdateFormatted"
-    _TRAMS_ATTR = "trams"
-    _BUSES_ATTR = "buses"
+    _TRAMS_LINES_ATTR = "tramLines"
+    _BUSES_LINES_ATTR = "busLines"
     _VEHICLE_NUMBER_ATTR = "number"
     _VEHICLE_DESTINATION_ATTR = "destination"
-    _OUTPUT_DIR = os.path.join("output", "transit-agencies")
-
-    _STOPS_DATA_VERSION_ATTR = "dataVersion"
     _TRAM_STOPS_ATTR = "tramStops"
     _BUS_STOPS_ATTR = "busStops"
     _STOP_NAME_ATTR = "stopName"
     _STOP_LINES_ATTR = "stopLines"
-    _STOPS_OUTPUT_DIR = os.path.join("output", "stops")
+    _OUTPUT_DIR = os.path.join("output", "transit-agencies")
 
     errors: list[str] = []
 
@@ -57,47 +54,7 @@ class TransitAgency:
             self.errors.append(error_message)
             return
 
-        self._generate_lines_directions_data(tram_links_dictionary, bus_links_dictionary)
-        self._generate_stops_data(tram_links_dictionary, bus_links_dictionary)
-
-    def _generate_stops_data(self, tram_links_dictionary: dict[str, str], bus_links_dictionary: dict[str, str]):
-        tram_stops_dictionary = self._create_stops_dictionary("tram", tram_links_dictionary)
-        tram_stops_dictionary_verification_result = verify_stops_dictionary(tram_stops_dictionary)
-        if tram_stops_dictionary_verification_result.is_error:
-            error_message = "Error, " + self.get_transit_agency_name() + \
-                            "tram stops dictionary verification failed, message: " + \
-                            tram_stops_dictionary_verification_result.error_message
-            print(error_message)
-            self.errors.append(error_message)
-            return
-        tram_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("tram", tram_stops_dictionary)
-
-        bus_stops_dictionary = self._create_stops_dictionary("bus", bus_links_dictionary)
-        bus_stops_dictionary_verification_result = verify_stops_dictionary(bus_stops_dictionary)
-        if bus_stops_dictionary_verification_result.is_error:
-            error_message = "Error, " + self.get_transit_agency_name() + \
-                            "bus stops dictionary verification failed, message: " + \
-                            bus_stops_dictionary_verification_result.error_message
-            print(error_message)
-            self.errors.append(error_message)
-            return
-        bus_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("bus", bus_stops_dictionary)
-
-        current_time = datetime.datetime.now()
-        timestamp = int(current_time.timestamp())
-        formatted_date = current_time.strftime("%d-%m-%Y")
-
-        json_dict = {
-            self._TRANSIT_AGENCY_ATTR: self.get_transit_agency_name(),
-            self._TIMESTAMP_ATTR: timestamp,
-            self._TIMESTAMP_FORMATTED_ATTR: formatted_date,
-            self._STOPS_DATA_VERSION_ATTR: 1,
-            self._TRAM_STOPS_ATTR: tram_stops_json_dictionary,
-            self._BUS_STOPS_ATTR: bus_stops_json_dictionary
-        }
-
-        raw_json = json.dumps(json_dict, ensure_ascii=False)
-        _create_json_file(raw_json, self._STOPS_OUTPUT_DIR, self._get_stops_data_json_file_name())
+        self._generate_json(tram_links_dictionary, bus_links_dictionary)
 
     def _create_vehicle_json_stops_dictionary(
             self,
@@ -156,7 +113,7 @@ class TransitAgency:
             raise Exception(error_message)
         return _stops_dictionary
 
-    def _generate_lines_directions_data(
+    def _generate_json(
             self,
             tram_links_dictionary: dict[str, str],
             bus_links_dictionary: dict[str, str]
@@ -181,6 +138,28 @@ class TransitAgency:
             self.errors.append(error_message)
             return
 
+        tram_stops_dictionary = self._create_stops_dictionary("tram", tram_links_dictionary)
+        tram_stops_dictionary_verification_result = verify_stops_dictionary(tram_stops_dictionary)
+        if tram_stops_dictionary_verification_result.is_error:
+            error_message = "Error, " + self.get_transit_agency_name() + \
+                            "tram stops dictionary verification failed, message: " + \
+                            tram_stops_dictionary_verification_result.error_message
+            print(error_message)
+            self.errors.append(error_message)
+            return
+        tram_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("tram", tram_stops_dictionary)
+
+        bus_stops_dictionary = self._create_stops_dictionary("bus", bus_links_dictionary)
+        bus_stops_dictionary_verification_result = verify_stops_dictionary(bus_stops_dictionary)
+        if bus_stops_dictionary_verification_result.is_error:
+            error_message = "Error, " + self.get_transit_agency_name() + \
+                            "bus stops dictionary verification failed, message: " + \
+                            bus_stops_dictionary_verification_result.error_message
+            print(error_message)
+            self.errors.append(error_message)
+            return
+        bus_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("bus", bus_stops_dictionary)
+
         current_time = datetime.datetime.now()
         timestamp = int(current_time.timestamp())
         formatted_date = current_time.strftime("%d-%m-%Y")
@@ -190,8 +169,10 @@ class TransitAgency:
             self._TIMESTAMP_ATTR: timestamp,
             self._TIMESTAMP_FORMATTED_ATTR: formatted_date,
             self._DATA_VERSION_ATTR: 1,
-            self._TRAMS_ATTR: tram_lines_list,
-            self._BUSES_ATTR: bus_lines_list
+            self._TRAMS_LINES_ATTR: tram_lines_list,
+            self._BUSES_LINES_ATTR: bus_lines_list,
+            self._TRAM_STOPS_ATTR: tram_stops_json_dictionary,
+            self._BUS_STOPS_ATTR: bus_stops_json_dictionary
         }
 
         raw_json = json.dumps(json_dict, ensure_ascii=False)

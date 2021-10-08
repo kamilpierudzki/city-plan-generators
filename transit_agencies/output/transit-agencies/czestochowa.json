@@ -1,9 +1,9 @@
 {
   "transitAgency": "Częstochowa",
-  "lastUpdateTimestampInMillis": 1633378306,
-  "lastUpdateFormatted": "04-10-2021",
+  "lastUpdateTimestampInMillis": 1633691784,
+  "lastUpdateFormatted": "08-10-2021",
   "dataVersion": 1,
-  "trams": [
+  "tramLines": [
     {
       "number": "2",
       "destination": "Fieldorfa-Nila"
@@ -21,7 +21,7 @@
       "destination": "Stadion Raków"
     }
   ],
-  "buses": [
+  "busLines": [
     {
       "number": "10",
       "destination": "Krakowska"
@@ -293,6 +293,3449 @@
     {
       "number": "100",
       "destination": "Mała"
+    }
+  ],
+  "tramStops": [
+    {
+      "stopName": "Ostatni Grosz",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Raków - Dworzec Pkp",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Dworzec Główny Pkp",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jasnogórska",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Rondo Mickiewicza",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Iwaszkiewicza",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "II Aleja Najświętszej Maryi Panny",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Fieldorfa-Nila",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "+ Zajezdnia Mpk",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Powstańców Śląskich",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Baczyńskiego",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Hala Polonia",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Aleja Jana Pawła II - Uniwersytet",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Estakada",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Równoległa",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Plac Orląt Lwowskich",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Aleja Pokoju",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Politechnika",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Promenada Niemena",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Polskiego Czerwonego Krzyża",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Dworzec Pks",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Wrzosowiak",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Kasztanowa",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Bukowa",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Żarecka",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jesienna - Szkoła",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jesienna",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Pzu",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Orkana - Szkoła",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Sportowa",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Bohaterów Katynia",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Rakowska",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Stadion Raków",
+      "stopLines": [
+        "3"
+      ]
+    }
+  ],
+  "busStops": [
+    {
+      "stopName": "Market Obi",
+      "stopLines": [
+        "10",
+        "15",
+        "25",
+        "28",
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Mała",
+      "stopLines": [
+        "10",
+        "24",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Galeria Jurajska",
+      "stopLines": [
+        "10",
+        "24",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Wrocławska",
+      "stopLines": [
+        "10",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Filharmonia",
+      "stopLines": [
+        "10",
+        "14",
+        "17",
+        "18",
+        "26",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Parkitka - Szpital",
+      "stopLines": [
+        "10",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "stopName": "II Aleja Najświętszej Maryi Panny",
+      "stopLines": [
+        "10",
+        "11",
+        "13",
+        "14",
+        "17",
+        "21",
+        "23",
+        "26",
+        "27",
+        "28",
+        "30",
+        "31",
+        "33",
+        "37",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Parkitka - Osiedle",
+      "stopLines": [
+        "10",
+        "28",
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Krakowska",
+      "stopLines": [
+        "10",
+        "24",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Komenda Miejska Policji",
+      "stopLines": [
+        "10",
+        "12",
+        "15",
+        "19",
+        "26",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Aleja Jana Pawła II - Uniwersytet",
+      "stopLines": [
+        "10",
+        "24",
+        "26",
+        "28",
+        "30",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Łódzka",
+      "stopLines": [
+        "10",
+        "28",
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Okulickiego",
+      "stopLines": [
+        "10",
+        "28",
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ D. H. Centrum",
+      "stopLines": [
+        "10",
+        "11",
+        "13",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Katedralna",
+      "stopLines": [
+        "10",
+        "14",
+        "17",
+        "18",
+        "26",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Stary Rynek",
+      "stopLines": [
+        "10",
+        "11",
+        "13",
+        "14",
+        "17",
+        "18",
+        "24",
+        "26",
+        "28",
+        "30",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Garibaldiego",
+      "stopLines": [
+        "10",
+        "14",
+        "17",
+        "18",
+        "26",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Słonimskiego",
+      "stopLines": [
+        "10",
+        "15",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Kanał Kohna",
+      "stopLines": [
+        "10",
+        "24",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Nowobialska",
+      "stopLines": [
+        "10",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Dąbrowskiego - Sądy",
+      "stopLines": [
+        "10",
+        "13",
+        "19",
+        "22",
+        "25",
+        "26",
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Berger",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Kordeckiego - Park Lisiniec",
+      "stopLines": [
+        "11",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Srebrna - Rondo",
+      "stopLines": [
+        "11",
+        "13",
+        "18",
+        "26",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Wspólna",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Kusięcka - Ksse",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Plac Daszyńskiego",
+      "stopLines": [
+        "11",
+        "13",
+        "24",
+        "28",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Gazownia",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Urząd Celny",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Plac Biegańskiego",
+      "stopLines": [
+        "11",
+        "13",
+        "19",
+        "22",
+        "25",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Skwer Sokołów",
+      "stopLines": [
+        "11",
+        "12",
+        "15",
+        "21",
+        "22",
+        "23",
+        "27",
+        "31",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Żużlowa",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Korczaka",
+      "stopLines": [
+        "11",
+        "12",
+        "15",
+        "19",
+        "21",
+        "22",
+        "23",
+        "25",
+        "27",
+        "31",
+        "32",
+        "33",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Srebrna",
+      "stopLines": [
+        "11",
+        "13",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Drogowców",
+      "stopLines": [
+        "11",
+        "13",
+        "18",
+        "26",
+        "28",
+        "37"
+      ]
+    },
+    {
+      "stopName": "+ Legionów",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "+ Koksownia",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Św. Kazimierza",
+      "stopLines": [
+        "11",
+        "12",
+        "15",
+        "21",
+        "22",
+        "27",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Rondo Trzech Krzyży",
+      "stopLines": [
+        "11",
+        "13",
+        "14",
+        "17",
+        "18",
+        "20",
+        "24",
+        "26",
+        "28",
+        "30",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Strefowa II",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Złota",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "+ Kusięcka - Ksse",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Strefowa III",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Wyszyńskiego",
+      "stopLines": [
+        "11",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Faradaya",
+      "stopLines": [
+        "11",
+        "13",
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Jurajska",
+      "stopLines": [
+        "11",
+        "13",
+        "18",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Św. Kingi",
+      "stopLines": [
+        "11",
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Huculska",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Rynek Narutowicza",
+      "stopLines": [
+        "11",
+        "13",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Nadrzeczna",
+      "stopLines": [
+        "11",
+        "13",
+        "14",
+        "17",
+        "18",
+        "26",
+        "28",
+        "30",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Srebrna I",
+      "stopLines": [
+        "11",
+        "13",
+        "18",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Plac Pamięci Narodowej",
+      "stopLines": [
+        "11",
+        "12",
+        "15",
+        "19",
+        "21",
+        "22",
+        "23",
+        "25",
+        "27",
+        "31",
+        "32",
+        "33",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Św. Barbary - Szpital",
+      "stopLines": [
+        "11",
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Kopernika",
+      "stopLines": [
+        "11",
+        "19",
+        "22",
+        "25",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "stopName": "I Aleja Najświętszej Maryi Panny",
+      "stopLines": [
+        "11",
+        "13",
+        "28",
+        "30",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Hallera",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Jasna Góra",
+      "stopLines": [
+        "11",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Wolna",
+      "stopLines": [
+        "11",
+        "13",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Strefowa I",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Cmentarz Św. Rocha",
+      "stopLines": [
+        "11",
+        "12",
+        "19",
+        "26",
+        "27",
+        "29",
+        "31"
+      ]
+    },
+    {
+      "stopName": "+ Gazownia",
+      "stopLines": [
+        "11",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Ostatni Grosz",
+      "stopLines": [
+        "12",
+        "58",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Raków - Dworzec Pkp",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "40",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Rondo Mickiewicza",
+      "stopLines": [
+        "12",
+        "14",
+        "15",
+        "17",
+        "58",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Białostocka",
+      "stopLines": [
+        "12",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Wichrowa",
+      "stopLines": [
+        "12"
+      ]
+    },
+    {
+      "stopName": "Wręczycka",
+      "stopLines": [
+        "12",
+        "19",
+        "26",
+        "27",
+        "29",
+        "31",
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Zajezdnia Mpk",
+      "stopLines": [
+        "12",
+        "58",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Gnaszyn Dospel",
+      "stopLines": [
+        "12",
+        "21",
+        "22",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Powstańców Śląskich",
+      "stopLines": [
+        "12",
+        "35",
+        "38",
+        "53",
+        "58",
+        "65",
+        "68",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Żarecka",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Kaszubska",
+      "stopLines": [
+        "12",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Dobrzyńska",
+      "stopLines": [
+        "12"
+      ]
+    },
+    {
+      "stopName": "Stary Raków",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Jesienna - Szkoła",
+      "stopLines": [
+        "12",
+        "19",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Estakada",
+      "stopLines": [
+        "12",
+        "35",
+        "38",
+        "53",
+        "58",
+        "65",
+        "68",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Równoległa",
+      "stopLines": [
+        "12",
+        "58",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Jesienna",
+      "stopLines": [
+        "12",
+        "19",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Plac Orląt Lwowskich",
+      "stopLines": [
+        "12"
+      ]
+    },
+    {
+      "stopName": "Energetyków",
+      "stopLines": [
+        "12",
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Wielkoborska - Przychodnia",
+      "stopLines": [
+        "12",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Rynek Wieluński",
+      "stopLines": [
+        "12",
+        "19",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Łęczycka",
+      "stopLines": [
+        "12",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Bohaterów Katynia",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Prusa",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Gnaszyn - Dworzec Pkp",
+      "stopLines": [
+        "12",
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Dworzec Pks",
+      "stopLines": [
+        "12",
+        "14",
+        "15",
+        "17",
+        "21",
+        "23",
+        "27",
+        "31",
+        "37",
+        "58",
+        "69",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Lwowska",
+      "stopLines": [
+        "12"
+      ]
+    },
+    {
+      "stopName": "III Aleja Najświętszej Maryi Panny",
+      "stopLines": [
+        "12",
+        "15",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Stadion Raków",
+      "stopLines": [
+        "12",
+        "19",
+        "32",
+        "35",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Błeszno",
+      "stopLines": [
+        "12",
+        "32",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Teatr im.Adama Mickiewicza",
+      "stopLines": [
+        "13",
+        "22",
+        "25"
+      ]
+    },
+    {
+      "stopName": "+ Bojemskiego",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "+ Huta - Wydział Transportu",
+      "stopLines": [
+        "13",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Tysiąclecie - Szpital",
+      "stopLines": [
+        "13",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Narcyzowa",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "Kucelin - Szpital",
+      "stopLines": [
+        "13",
+        "19",
+        "28",
+        "40"
+      ]
+    },
+    {
+      "stopName": "Szpitalna",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Wierzchowisko - Długa II",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "Kiedrzyn",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "Stadion Miejski",
+      "stopLines": [
+        "13",
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "+ Walcownia",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Broniewskiego",
+      "stopLines": [
+        "13",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Domy Studenckie",
+      "stopLines": [
+        "13",
+        "15",
+        "22",
+        "25",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "stopName": "+ Kucelin - Huta",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Olsztyńska",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Kiedrzyn",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "Stadion Cks Budowlani",
+      "stopLines": [
+        "13",
+        "22",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Kisielewskiego",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Kucelin - Szpital",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Liceum Traugutta",
+      "stopLines": [
+        "13",
+        "22",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Promenada Niemena",
+      "stopLines": [
+        "13",
+        "22",
+        "24",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Ludowa",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Wierzchowisko - Długa I",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Wola Kiedrzyńska",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Guardian",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Łanowa",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Jemiołowa",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "Chłodna",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Korfantego",
+      "stopLines": [
+        "13",
+        "19",
+        "28"
+      ]
+    },
+    {
+      "stopName": "Orlik-Rückemanna",
+      "stopLines": [
+        "13",
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Centrum Handlowe M1",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Wierzchowisko",
+      "stopLines": [
+        "13"
+      ]
+    },
+    {
+      "stopName": "+ Rząsawa - Dworzec Pkp",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Cmentarna",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Sabinowska",
+      "stopLines": [
+        "14",
+        "19",
+        "23",
+        "25",
+        "33",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "D. H. Centrum",
+      "stopLines": [
+        "14",
+        "17",
+        "21",
+        "23",
+        "27",
+        "31",
+        "37",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Aniołowska",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Dworzec Główny Pkp",
+      "stopLines": [
+        "14",
+        "17",
+        "21",
+        "23",
+        "27",
+        "31",
+        "37",
+        "58",
+        "69",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Sabinów",
+      "stopLines": [
+        "14",
+        "23",
+        "25",
+        "33",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Młynarska",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Korkowa",
+      "stopLines": [
+        "14",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Zielna",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Hetmańska",
+      "stopLines": [
+        "14",
+        "23",
+        "25",
+        "33",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Hubermana",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Aleja Bohaterów Monte Cassino",
+      "stopLines": [
+        "14",
+        "15",
+        "17",
+        "19",
+        "23",
+        "25",
+        "32",
+        "33",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Korkowa II",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Lisia",
+      "stopLines": [
+        "14",
+        "25"
+      ]
+    },
+    {
+      "stopName": "I Urząd Skarbowy",
+      "stopLines": [
+        "14",
+        "15",
+        "17"
+      ]
+    },
+    {
+      "stopName": "Ugody",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Szkoła Straży Pożarnej",
+      "stopLines": [
+        "14",
+        "23",
+        "25",
+        "33",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Gronowa",
+      "stopLines": [
+        "14",
+        "25",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Rząsawa",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Karłowicza",
+      "stopLines": [
+        "14",
+        "25"
+      ]
+    },
+    {
+      "stopName": "+ Brzeziny",
+      "stopLines": [
+        "14",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Brzeziny",
+      "stopLines": [
+        "14",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Żyzna",
+      "stopLines": [
+        "14",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Meliorantów",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Wypoczynku",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Wyczerpy Dolne",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "25",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Piastowska",
+      "stopLines": [
+        "14",
+        "17",
+        "19",
+        "23",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Korkowa I",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Rząsawska",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Skrzetuskiego",
+      "stopLines": [
+        "14",
+        "23",
+        "25",
+        "33",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Poselska",
+      "stopLines": [
+        "14",
+        "25",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Kolonia Brzeziny",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Dickensa",
+      "stopLines": [
+        "14",
+        "17",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Dojazdowa",
+      "stopLines": [
+        "15"
+      ]
+    },
+    {
+      "stopName": "Kiedrzyńska",
+      "stopLines": [
+        "15",
+        "22",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Stradom - Dworzec Pkp",
+      "stopLines": [
+        "15",
+        "23",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Fieldorfa-Nila Cmentarz Kule",
+      "stopLines": [
+        "15"
+      ]
+    },
+    {
+      "stopName": "Montex",
+      "stopLines": [
+        "15",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska",
+      "stopLines": [
+        "15",
+        "19",
+        "25",
+        "32",
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Dojazdowa",
+      "stopLines": [
+        "15",
+        "19",
+        "20",
+        "32",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Bacewicz",
+      "stopLines": [
+        "15",
+        "22",
+        "25",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Kusocińskiego",
+      "stopLines": [
+        "15"
+      ]
+    },
+    {
+      "stopName": "Kukuczki",
+      "stopLines": [
+        "15",
+        "24",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Bór - Wypalanki",
+      "stopLines": [
+        "15",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Michałowskiego",
+      "stopLines": [
+        "15",
+        "22",
+        "24",
+        "25",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Fieldorfa-Nila",
+      "stopLines": [
+        "15",
+        "22",
+        "25",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Hala Polonia",
+      "stopLines": [
+        "15",
+        "22",
+        "24",
+        "28",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Starzyńskiego",
+      "stopLines": [
+        "15",
+        "24",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Rolnicza - Cmentarz Kule",
+      "stopLines": [
+        "15"
+      ]
+    },
+    {
+      "stopName": "Wczasowa",
+      "stopLines": [
+        "15",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Gombrowicza",
+      "stopLines": [
+        "15",
+        "22",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Witaminowa",
+      "stopLines": [
+        "15"
+      ]
+    },
+    {
+      "stopName": "Witosa",
+      "stopLines": [
+        "15",
+        "24",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Stradom",
+      "stopLines": [
+        "15",
+        "23",
+        "37",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Kosmowskiej",
+      "stopLines": [
+        "15",
+        "24",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Busolowa I",
+      "stopLines": [
+        "17",
+        "21"
+      ]
+    },
+    {
+      "stopName": "Liszka Dolna",
+      "stopLines": [
+        "17",
+        "21"
+      ]
+    },
+    {
+      "stopName": "Busolowa II",
+      "stopLines": [
+        "17",
+        "21"
+      ]
+    },
+    {
+      "stopName": "Konwaliowa I",
+      "stopLines": [
+        "17"
+      ]
+    },
+    {
+      "stopName": "Kościelna",
+      "stopLines": [
+        "17",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Matejki",
+      "stopLines": [
+        "17",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Kawodrzańska",
+      "stopLines": [
+        "17"
+      ]
+    },
+    {
+      "stopName": "Moniuszki",
+      "stopLines": [
+        "17"
+      ]
+    },
+    {
+      "stopName": "Norwida",
+      "stopLines": [
+        "17",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Konwaliowa III",
+      "stopLines": [
+        "17",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Wyczerpy - Osiedle",
+      "stopLines": [
+        "17",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "stopName": "Konwaliowa II",
+      "stopLines": [
+        "17",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Artyleryjska",
+      "stopLines": [
+        "17"
+      ]
+    },
+    {
+      "stopName": "Kawodrza Górna",
+      "stopLines": [
+        "17",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Mirów",
+      "stopLines": [
+        "18",
+        "26"
+      ]
+    },
+    {
+      "stopName": "Wiejska",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Hektarowa - Górka",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Batalionów Chłopskich",
+      "stopLines": [
+        "18",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Mączna",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Morenowa",
+      "stopLines": [
+        "18",
+        "26"
+      ]
+    },
+    {
+      "stopName": "Piłsudskiego",
+      "stopLines": [
+        "18",
+        "21",
+        "23",
+        "27",
+        "31",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Skarpowa",
+      "stopLines": [
+        "18",
+        "26"
+      ]
+    },
+    {
+      "stopName": "Falista",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Hektarowa",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Komornicka",
+      "stopLines": [
+        "18",
+        "26"
+      ]
+    },
+    {
+      "stopName": "Złota Góra II",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Skalna",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Złota Góra",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Jaskrów - Mirowska",
+      "stopLines": [
+        "18",
+        "30"
+      ]
+    },
+    {
+      "stopName": "Mirowska",
+      "stopLines": [
+        "18",
+        "26"
+      ]
+    },
+    {
+      "stopName": "Złota Góra I",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Komorniki",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Żabiniec",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Guardian",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Makro",
+      "stopLines": [
+        "19",
+        "20",
+        "32",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Słowackiego",
+      "stopLines": [
+        "19",
+        "25",
+        "32",
+        "33",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Dąbie",
+      "stopLines": [
+        "19",
+        "28",
+        "35",
+        "40"
+      ]
+    },
+    {
+      "stopName": "Wrzosowiak",
+      "stopLines": [
+        "19",
+        "20",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Bojemskiego",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Ikara II",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Bukowa",
+      "stopLines": [
+        "19",
+        "20",
+        "32",
+        "38",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Ikara III",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Św. Rocha - Szkoła",
+      "stopLines": [
+        "19",
+        "26",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Hoene - Wrońskiego",
+      "stopLines": [
+        "19",
+        "25",
+        "32",
+        "33",
+        "37"
+      ]
+    },
+    {
+      "stopName": "Orkana - Szkoła",
+      "stopLines": [
+        "19",
+        "20",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Sportowa",
+      "stopLines": [
+        "19",
+        "20",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Walcownia",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Odrodzenia",
+      "stopLines": [
+        "19",
+        "26",
+        "29",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Korfantego",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Ikara I",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Rejtana",
+      "stopLines": [
+        "19",
+        "32",
+        "35",
+        "40"
+      ]
+    },
+    {
+      "stopName": "Zakopiańska",
+      "stopLines": [
+        "19",
+        "26",
+        "29",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Grabówka",
+      "stopLines": [
+        "19",
+        "26",
+        "29"
+      ]
+    },
+    {
+      "stopName": "+ Korkowa",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Wiatrakowa",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Marusarza",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "+ Kolonia Brzeziny",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Kasztanowa",
+      "stopLines": [
+        "20",
+        "32",
+        "38",
+        "80"
+      ]
+    },
+    {
+      "stopName": "+ Korkowa II",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Rutkiewicz",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Poselska I",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Rydza-Śmigłego",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Pzu",
+      "stopLines": [
+        "20",
+        "32",
+        "35",
+        "38",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Giełda Samochodowa",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "+ Estakada",
+      "stopLines": [
+        "20",
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Korkowa I",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Kusocińskiego I",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Letnia",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Zimowa",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Kopalniana I",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Ekonomiczna",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Dźbów - Ksse Skorki",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Kopalniana II",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Przestrzenna",
+      "stopLines": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Lakowa",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Jeżynowa",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Marynarska",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Św. Augustyna",
+      "stopLines": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Grafików",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Św. Jadwigi",
+      "stopLines": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Kawodrza Dolna",
+      "stopLines": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Leśna",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Św. Barbary",
+      "stopLines": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "stopName": "Skorki",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Chłopska",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Schillera",
+      "stopLines": [
+        "22",
+        "24",
+        "29"
+      ]
+    },
+    {
+      "stopName": "Iwaszkiewicza",
+      "stopLines": [
+        "22",
+        "24",
+        "25",
+        "29",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Łojki",
+      "stopLines": [
+        "22"
+      ]
+    },
+    {
+      "stopName": "+ Korczaka",
+      "stopLines": [
+        "22"
+      ]
+    },
+    {
+      "stopName": "Drzewna",
+      "stopLines": [
+        "22"
+      ]
+    },
+    {
+      "stopName": "Kutrzeby",
+      "stopLines": [
+        "22",
+        "24",
+        "29"
+      ]
+    },
+    {
+      "stopName": "+ Gnaszyn - Dworzec Pkp",
+      "stopLines": [
+        "22"
+      ]
+    },
+    {
+      "stopName": "Kurpińskiego",
+      "stopLines": [
+        "22",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Rzeczna",
+      "stopLines": [
+        "23",
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Zbyszka",
+      "stopLines": [
+        "23",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Powstańców Warszawy",
+      "stopLines": [
+        "23",
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Dźbów",
+      "stopLines": [
+        "23",
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Zana",
+      "stopLines": [
+        "23",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Kmicica",
+      "stopLines": [
+        "23",
+        "33"
+      ]
+    },
+    {
+      "stopName": "+ Aleja Jana Pawła II - Uniwersytet",
+      "stopLines": [
+        "24"
+      ]
+    },
+    {
+      "stopName": "Politechnika",
+      "stopLines": [
+        "24",
+        "28",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Obrońców Poczty Gdańskiej",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Kołakowskiego",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Nowe Brzeziny I",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Sobuczyna",
+      "stopLines": [
+        "25",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Głębockiego",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Nowe Brzeziny II",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Baczyńskiego",
+      "stopLines": [
+        "25",
+        "80"
+      ]
+    },
+    {
+      "stopName": "Pileckiego - Rondo",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Malownicza",
+      "stopLines": [
+        "25",
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Wawrzynowicza",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Obrońców Westerplatte",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Makuszyńskiego",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Sobuczyna-Szafirowa",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Żonkilowa",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Dybowskiego",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "+ Jagiellońska",
+      "stopLines": [
+        "25",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Św. Brata Alberta",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Porazińskiej",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Nałkowskiego",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Turystyczna",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Wodociągowa",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Oczyszczalnia Warta",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Bursztynowa I",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Bursztynowa",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Bursztynowa",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Turystyczna",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Cmentarz Mirów",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Siedlec",
+      "stopLines": [
+        "26",
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Przeprośna Górka",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Mirów",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Mirów - Pegaz",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Siedlec - Sklep",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Manganowa",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Bursztynowa I",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "+ Mstowska",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Ołowiana",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Filtrowa",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Koniecpolska",
+      "stopLines": [
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Dworzec Pks",
+      "stopLines": [
+        "27",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Cyrklowa",
+      "stopLines": [
+        "27"
+      ]
+    },
+    {
+      "stopName": "Wichrowa I",
+      "stopLines": [
+        "27"
+      ]
+    },
+    {
+      "stopName": "Tatrzańska",
+      "stopLines": [
+        "27",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Gilowa",
+      "stopLines": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Hutników",
+      "stopLines": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Podwale",
+      "stopLines": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "stopName": "Lednicka",
+      "stopLines": [
+        "29",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Cmentarz Komunalny",
+      "stopLines": [
+        "29",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Ikara",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Św. Krzysztofa",
+      "stopLines": [
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "Pużaka",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Batalionów Chłopskich I",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Wancerzów - Kościół",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Mstów - Plac Mickiewicza",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Jaskrów - Starowiejska",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "Jaskrów - Wille",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Jaskrów - Częstochowska",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Wancerzów - Sadowa",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Mstów - Słowackiego",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "Wyczerpy Górne",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Jaskrów - Pogodna",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Mstów - Ośrodek Zdrowia",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Siedlec - Św. Antoniego",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Jaskrów - Rędzińska",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "Sąsiedzka",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Wancerzów - Brzozowa",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "+ Jaskrów - Wille",
+      "stopLines": [
+        "30"
+      ]
+    },
+    {
+      "stopName": "Oleńki",
+      "stopLines": [
+        "31"
+      ]
+    },
+    {
+      "stopName": "Gminna",
+      "stopLines": [
+        "31"
+      ]
+    },
+    {
+      "stopName": "Brzozowa",
+      "stopLines": [
+        "32",
+        "35",
+        "53",
+        "58",
+        "65",
+        "68",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Archiwum Państwowe",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Wielkoborska",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Wielkoborska",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Stara Gorzelnia",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Cmentarz Raków",
+      "stopLines": [
+        "32",
+        "35",
+        "53",
+        "58",
+        "65",
+        "68",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Żeromskiego",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "+ Stara Gorzelnia I",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Bienia",
+      "stopLines": [
+        "32",
+        "35",
+        "53",
+        "58",
+        "65",
+        "68",
+        "100"
+      ]
+    },
+    {
+      "stopName": "Polontex",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Karpacka",
+      "stopLines": [
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Wąsosz",
+      "stopLines": [
+        "33"
+      ]
+    },
+    {
+      "stopName": "Wąsosz - Skrzyżowanie",
+      "stopLines": [
+        "33"
+      ]
+    },
+    {
+      "stopName": "+ Przyjemna",
+      "stopLines": [
+        "33"
+      ]
+    },
+    {
+      "stopName": "Wygoda",
+      "stopLines": [
+        "33"
+      ]
+    },
+    {
+      "stopName": "Przyjemna",
+      "stopLines": [
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Lotosu",
+      "stopLines": [
+        "33",
+        "38"
+      ]
+    },
+    {
+      "stopName": "Zajezdnia Mpk",
+      "stopLines": [
+        "35",
+        "38",
+        "53",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "+ Aleja Bohaterów Monte Cassino",
+      "stopLines": [
+        "37"
+      ]
+    },
+    {
+      "stopName": "Łubinowa",
+      "stopLines": [
+        "37"
+      ]
+    },
+    {
+      "stopName": "Cmentarz Zacisze",
+      "stopLines": [
+        "37"
+      ]
+    },
+    {
+      "stopName": "Sztormowa",
+      "stopLines": [
+        "37"
+      ]
+    },
+    {
+      "stopName": "Tesco",
+      "stopLines": [
+        "37"
+      ]
+    },
+    {
+      "stopName": "Malownicza III",
+      "stopLines": [
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Zegarowa",
+      "stopLines": [
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Malownicza II",
+      "stopLines": [
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Zdrowa",
+      "stopLines": [
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Malownicza I",
+      "stopLines": [
+        "38",
+        "69"
+      ]
+    },
+    {
+      "stopName": "Huta Stara \"\"B\"\" - Osiedle",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa - Długa",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "Kolejowa",
+      "stopLines": [
+        "53",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa",
+      "stopLines": [
+        "53",
+        "68"
+      ]
+    },
+    {
+      "stopName": "C. H. Jagiellończycy",
+      "stopLines": [
+        "53",
+        "58",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Fabryczna",
+      "stopLines": [
+        "53",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Bugajska",
+      "stopLines": [
+        "53",
+        "58",
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa - Sabinowska I",
+      "stopLines": [
+        "53"
+      ]
+    },
+    {
+      "stopName": "+ Olsztyn - Mstowska",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Olsztyn - Rynek",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Góry Towarne",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta Przejazd Kolejowy",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Os. Pod Wilczą Górą",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta Sklep",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta Szkoła",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Odrzykoń",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Olsztyn - Żwirki I Wigury",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Olsztyn - Rynek",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Kręciwilk",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta \"Krótkie\"",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Weyssenhoff",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta Las",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "+ Kusięta Zielona Góra",
+      "stopLines": [
+        "58"
+      ]
+    },
+    {
+      "stopName": "Słowik - Spacerowa",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Słowik - Równoległa",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Słowik - Przejazd",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa - Kładka",
+      "stopLines": [
+        "65",
+        "68"
+      ]
+    },
+    {
+      "stopName": "Korwinów - Pałac",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Słowik - Źródlana",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa - Ogrodowa",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Korwinów - Stacyjna",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Słowik - Szkoła",
+      "stopLines": [
+        "65"
+      ]
+    },
+    {
+      "stopName": "Poczesna - Kościół",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Nowa Wieś - Skrzyżowanie",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Poczesna - Bociania Górka",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Nowa Wieś II",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Wrzosowa - Szkoła",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "Nowa Wieś - Auchan",
+      "stopLines": [
+        "68"
+      ]
+    },
+    {
+      "stopName": "+ Nierada - Targowa II",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "Mazury",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "Nierada - Szkoła",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Nierada",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "Młynek",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "Mazury I",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Nierada - Skrzyżowanie",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Nierada - Szkoła",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Malownicza",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Nierada - Kościół",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "+ Nierada - Targowa I",
+      "stopLines": [
+        "69"
+      ]
+    },
+    {
+      "stopName": "Jasnogórska",
+      "stopLines": [
+        "80"
+      ]
+    },
+    {
+      "stopName": "Polskiego Czerwonego Krzyża",
+      "stopLines": [
+        "80"
+      ]
+    },
+    {
+      "stopName": "Bardowskiego",
+      "stopLines": [
+        "100"
+      ]
     }
   ]
 }

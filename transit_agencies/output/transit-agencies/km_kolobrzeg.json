@@ -1,1 +1,1128 @@
-{"transitAgency": "KM Kołobrzeg", "lastUpdateTimestampInMillis": 1633378303, "lastUpdateFormatted": "04-10-2021", "dataVersion": 1, "trams": [], "buses": [{"number": "1", "destination": "Rościęcino"}, {"number": "1", "destination": "Jagiellońska"}, {"number": "2", "destination": "Arka"}, {"number": "2", "destination": "Grzybowska"}, {"number": "3", "destination": "Arka"}, {"number": "3", "destination": "Starynowska"}, {"number": "4", "destination": "Korzystno"}, {"number": "4", "destination": "Arka"}, {"number": "5", "destination": "Grzybowska"}, {"number": "5", "destination": "Podczele"}, {"number": "6", "destination": "Jagiellońska"}, {"number": "6", "destination": "Grzybowo"}, {"number": "7", "destination": "Janiska"}, {"number": "7", "destination": "Źródlana"}, {"number": "8A", "destination": "Źródlana"}, {"number": "8A", "destination": "Unii Lubelskiej"}, {"number": "8B", "destination": "Źródlana"}, {"number": "8B", "destination": "Mickiewicza"}, {"number": "9", "destination": "Kołobrzeg"}, {"number": "9", "destination": "Bogucino"}, {"number": "10", "destination": "Jagiellońska"}, {"number": "10", "destination": "Zieleniewo"}, {"number": "11", "destination": "Starynowska"}, {"number": "11", "destination": "Źródlana"}]}
+{
+  "transitAgency": "KM Kołobrzeg",
+  "lastUpdateTimestampInMillis": 1633691779,
+  "lastUpdateFormatted": "08-10-2021",
+  "dataVersion": 1,
+  "tramLines": [],
+  "busLines": [
+    {
+      "number": "1",
+      "destination": "Rościęcino"
+    },
+    {
+      "number": "1",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "2",
+      "destination": "Arka"
+    },
+    {
+      "number": "2",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "3",
+      "destination": "Arka"
+    },
+    {
+      "number": "3",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "4",
+      "destination": "Korzystno"
+    },
+    {
+      "number": "4",
+      "destination": "Arka"
+    },
+    {
+      "number": "5",
+      "destination": "Grzybowska"
+    },
+    {
+      "number": "5",
+      "destination": "Podczele"
+    },
+    {
+      "number": "6",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "6",
+      "destination": "Grzybowo"
+    },
+    {
+      "number": "7",
+      "destination": "Janiska"
+    },
+    {
+      "number": "7",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8A",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8A",
+      "destination": "Unii Lubelskiej"
+    },
+    {
+      "number": "8B",
+      "destination": "Źródlana"
+    },
+    {
+      "number": "8B",
+      "destination": "Mickiewicza"
+    },
+    {
+      "number": "9",
+      "destination": "Kołobrzeg"
+    },
+    {
+      "number": "9",
+      "destination": "Bogucino"
+    },
+    {
+      "number": "10",
+      "destination": "Jagiellońska"
+    },
+    {
+      "number": "10",
+      "destination": "Zieleniewo"
+    },
+    {
+      "number": "11",
+      "destination": "Starynowska"
+    },
+    {
+      "number": "11",
+      "destination": "Źródlana"
+    }
+  ],
+  "tramStops": [],
+  "busStops": [
+    {
+      "stopName": "Trzebiatowska - rynek",
+      "stopLines": [
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska - Dworzec PKP",
+      "stopLines": [
+        "1",
+        "5"
+      ]
+    },
+    {
+      "stopName": "Kamienna",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "6. Dywizji Piechoty - os. Sienkiewicza",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Unii Lubelskiej - przy Granicznej",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Unii Lubelskiej - kładka",
+      "stopLines": [
+        "1",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Zieleniewo - pętla",
+      "stopLines": [
+        "1",
+        "10"
+      ]
+    },
+    {
+      "stopName": "6. Dywizji Piechoty - cmentarz",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Rościęcino",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Trzebiatowska | Artyleryjska",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Szczecińska",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "6. Dywizji Piechoty -  oś. Europejskie",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Kupiecka",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Młyńska",
+      "stopLines": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "stopName": "Grochowska",
+      "stopLines": [
+        "2",
+        "4",
+        "5",
+        "7",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Grzybowska - osiedle",
+      "stopLines": [
+        "2",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Jedn. Narodowej - kościół",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Kossaka",
+      "stopLines": [
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Jedn. Narodowej - Wylotowa",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Arka",
+      "stopLines": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "stopName": "Solna",
+      "stopLines": [
+        "2",
+        "8B",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Starynowska przy Grudziądzkiej",
+      "stopLines": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "stopName": "Trzebiatowska przy Artyleryjskiej",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Jedn. Narodowej przy Wolności",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Św. Wojciecha | Michałowskiego",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza - osiedle",
+      "stopLines": [
+        "2",
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Grzybowska przy Bydgoskiej",
+      "stopLines": [
+        "2",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Grzybowska - pętla",
+      "stopLines": [
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "stopName": "Bałtycka - przy Wylotowej",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II | Giełdowej",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza - przy Bema",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska - dworzec PKP",
+      "stopLines": [
+        "2",
+        "7",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "6 Dyw. Piechoty - os. Europejskie",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Wschodnia - plaża",
+      "stopLines": [
+        "2",
+        "4",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza - przy Wschodniej",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II - Policja",
+      "stopLines": [
+        "2",
+        "7"
+      ]
+    },
+    {
+      "stopName": "Jedn. Narodowej przy Żurawia",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Bałtycka - Zarząd Portu",
+      "stopLines": [
+        "2",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Wschodnia - WDW",
+      "stopLines": [
+        "2",
+        "3",
+        "4",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Św. Wojciecha - cmentarz",
+      "stopLines": [
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Starynowska - piekarnia",
+      "stopLines": [
+        "2",
+        "3",
+        "4",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Sobieskiego",
+      "stopLines": [
+        "2",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Grzybowska - Osiedle",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jedności Narodowej p. Żurawiej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Przesmyk",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Grzybowska przy Warszawskiej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jedności Narodowej - Kościół",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Jedności Narodowej p. Wylotowej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Wylotowa przy Wczasowej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Fredry",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Armii Krajowej - Poczta",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Zdrojowa - Chalkozyn",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza - Bema",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Zdrojowa - Medyk",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Zachodnia",
+      "stopLines": [
+        "3",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Wylotowa przy Zachodniej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Chodkiewicza - Wschodnia",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Frankowskiego",
+      "stopLines": [
+        "3",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Starynowska - pętla",
+      "stopLines": [
+        "3",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Wojska Polskiego",
+      "stopLines": [
+        "3",
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Zdrojowa - Przyrodoleczniczy",
+      "stopLines": [
+        "3",
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Jagiellońska - dworzec",
+      "stopLines": [
+        "3",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Starynowska przy Różyckiego",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Wschodnia - Plaża",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Wylotowa przy Plażowej",
+      "stopLines": [
+        "3"
+      ]
+    },
+    {
+      "stopName": "Kasprowicza - Krakusa i Wandy",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Łopuskiego - szpital",
+      "stopLines": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Mickiewicza",
+      "stopLines": [
+        "3",
+        "8A",
+        "8B",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Kasprowicza - Amfiteatr",
+      "stopLines": [
+        "3",
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Starynowska przy Kossaka",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II | Policja",
+      "stopLines": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "stopName": "Armii Krajowej - poczta",
+      "stopLines": [
+        "4",
+        "5",
+        "6",
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Szpitalna",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Korzystno",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Mazowiecka I",
+      "stopLines": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Mazowiecka przy Słonecznej",
+      "stopLines": [
+        "4",
+        "6"
+      ]
+    },
+    {
+      "stopName": "Starynowska | Grudziądzka",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Koszalińska kościół",
+      "stopLines": [
+        "4",
+        "5",
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Mazowiecka ZAZ",
+      "stopLines": [
+        "4",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Wschodnia - osiedle",
+      "stopLines": [
+        "4",
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II | Giełdowa",
+      "stopLines": [
+        "4",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "stopName": "Wschodnia | Koszalińska",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Sienkiewicza I",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej przy Wylotowej",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Podczele - Ośrodek",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Sienkiewicza II",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Podczele - Kresowa",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Podczele - Tarnopolska",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Kądzielno",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej - Kościół",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej przy Żurawiej",
+      "stopLines": [
+        "5",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Bałtycka przy Wylotowej",
+      "stopLines": [
+        "5",
+        "10"
+      ]
+    },
+    {
+      "stopName": "Koszalińska przy Wschodniej",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Koszalińska - Borowina",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Grzybowska | Warszawska",
+      "stopLines": [
+        "5"
+      ]
+    },
+    {
+      "stopName": "Nadmorska przy Sztormowej",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Jedności Narodowej | Wolności",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Grzybowo przy Szkolnej",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Mazowiecka - ZAZ",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Nadmorska przy Zielonej",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Nadmorska przy Wiejskiej",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Jagielońska - dworzec",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Grzybowo - Borkowska",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Grzybowo - klin",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Nadmorska I",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Grzybowo - pętla",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Janiska - brama IV",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Janiska - brama III",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Budzistowo - osiedle",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Janiska - osiedle",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Bolesława Chrobrego",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Janiska - brama I",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Krzywoustego przy Janiska",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Krzywoustego II",
+      "stopLines": [
+        "7",
+        "9"
+      ]
+    },
+    {
+      "stopName": "Janiska - brama V",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Janiska - pętla",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Krzywoustego przy Gryfitów",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Budzistowo - pętla",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Krzywoustego - górka",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Janiska - brama II",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Wschodnia - Koszalińska",
+      "stopLines": [
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Unii Lubelskiej - Graniczna",
+      "stopLines": [
+        "8A"
+      ]
+    },
+    {
+      "stopName": "Źródlana - dworzec PKP",
+      "stopLines": [
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "ARKA",
+      "stopLines": [
+        "8A",
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Koszalińska | Wschodnia",
+      "stopLines": [
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Kasprowicza przy Kołłątaja",
+      "stopLines": [
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Unii Lubelskiej | Graniczna",
+      "stopLines": [
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Koszalińska - kościół",
+      "stopLines": [
+        "8B"
+      ]
+    },
+    {
+      "stopName": "Bogucino 1",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II - policja",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Obroty Kolonia",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Bogucino - pętla",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Al. Św. Jana Pawła II - Giełdowa",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Obroty 2",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Źródlana - Dworzec PKP",
+      "stopLines": [
+        "9",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Koszalińska - Grochowska",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Niekanin 2",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Obroty 3",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Krzywoustego - Gryfitów",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Obroty 24",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Niekanin 1",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej przy Wolności",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Zieleniewo - osiedle",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "6 Dyw. Piechoty - cmentarz",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Trzebiatowska - Artyleryjska",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Europejska",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej - kościół",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Starynowska - Grudziącka",
+      "stopLines": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "stopName": "Św. Wojciecha - kościół",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "6 Dyw. Piechoty - os. Sienkiewicza",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Jed. Narodowej - Wylotowa",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "J. Narodowej - Żurawia",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "J. Narodowej - Wolności Wolności",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Mazowiecka - Słoneczna",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Starynowska - Kossaka",
+      "stopLines": [
+        "11"
+      ]
+    }
+  ]
+}

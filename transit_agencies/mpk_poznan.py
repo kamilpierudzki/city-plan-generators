@@ -106,9 +106,6 @@ class MpkPoznan(TransitAgency):
         stops_list = list(stops_set)
         return stops_list
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "mpk_poznan_stops.json"
-
 
 if __name__ == '__main__':
     mpk_poznan = MpkPoznan()

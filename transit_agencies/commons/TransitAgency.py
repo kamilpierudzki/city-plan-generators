@@ -205,9 +205,6 @@ class TransitAgency:
     def _get_line_direction_json_file_name(self) -> str:
         raise Exception("_get_json_file_name not implemented")
 
-    def _get_stops_data_json_file_name(self) -> str:
-        raise Exception("_get_stops_data_json_file_name not implemented")
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         raise Exception("_get_tram_links_dictionary not implemented")
 

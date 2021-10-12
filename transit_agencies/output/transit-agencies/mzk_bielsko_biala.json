@@ -1,0 +1,1979 @@
+{
+  "transitAgency": "MZK Bielsko-Biała",
+  "lastUpdateTimestampInMillis": 1634071322,
+  "lastUpdateFormatted": "12-10-2021",
+  "dataVersion": 1,
+  "tramLines": [],
+  "busLines": [
+    {
+      "number": "1",
+      "destination": "Osiedle Beskidzkie"
+    },
+    {
+      "number": "1",
+      "destination": "Cygański Las"
+    },
+    {
+      "number": "2",
+      "destination": "Osiedle Kopernika"
+    },
+    {
+      "number": "2",
+      "destination": "Mikuszowice Stalownik (Wilkowice Górne)"
+    },
+    {
+      "number": "3o",
+      "destination": "Osiedle Karpackie (Szpital Wojewódzki)"
+    },
+    {
+      "number": "3o",
+      "destination": "Komorowice Sosna"
+    },
+    {
+      "number": "4",
+      "destination": "Osiedle Polskich Skrzydeł"
+    },
+    {
+      "number": "4",
+      "destination": "Langiewicza Basen"
+    },
+    {
+      "number": "6",
+      "destination": "Osiedle Karpackie"
+    },
+    {
+      "number": "6",
+      "destination": "Lipnik Granica"
+    },
+    {
+      "number": "7",
+      "destination": "Szyndzielnia"
+    },
+    {
+      "number": "7",
+      "destination": "Wapienica Dzwonkowa"
+    },
+    {
+      "number": "8",
+      "destination": "Szyndzielnia"
+    },
+    {
+      "number": "8",
+      "destination": "Warszawska Dworzec (Warszawska Fiat)"
+    },
+    {
+      "number": "9",
+      "destination": "Lotnisko"
+    },
+    {
+      "number": "9",
+      "destination": "Mikuszowice Dom Ludowy"
+    },
+    {
+      "number": "10",
+      "destination": "Mikuszowice Błonia ATH"
+    },
+    {
+      "number": "10",
+      "destination": "Wapienica Park Przemysłowy ABB (Wapienica Giełda, Beskidzki Inkubator Technologiczny, Wapienica Park Przemysłowy, Wapienica Strażacka)"
+    },
+    {
+      "number": "11",
+      "destination": "Straconka Leśniczówka"
+    },
+    {
+      "number": "11",
+      "destination": "(Straconka Zakręt)"
+    },
+    {
+      "number": "11",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "11",
+      "destination": "(Warszawska Fiat)"
+    },
+    {
+      "number": "12o",
+      "destination": "Mikuszowice Błonia ATH"
+    },
+    {
+      "number": "12o",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "12o",
+      "destination": "Nowy rozkład jazdy od 11 października 2021 r."
+    },
+    {
+      "number": "12o",
+      "destination": "Mikuszowice Błonia ATH"
+    },
+    {
+      "number": "12o",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "13",
+      "destination": "Lipnik Dolny"
+    },
+    {
+      "number": "13",
+      "destination": "Hałcnów Kościół (Krzemionki Witosa)"
+    },
+    {
+      "number": "13w",
+      "destination": "Lipnik Dolny"
+    },
+    {
+      "number": "13w",
+      "destination": "Krzemionki Witosa"
+    },
+    {
+      "number": "15",
+      "destination": "Osiedle Polskich Skrzydeł"
+    },
+    {
+      "number": "15",
+      "destination": "Osiedle Langiewicza"
+    },
+    {
+      "number": "16",
+      "destination": "Wapienica Zapora"
+    },
+    {
+      "number": "16",
+      "destination": "Warszawska Dworzec (Warszawska Fiat)"
+    },
+    {
+      "number": "17",
+      "destination": "Krzemionki Witosa (Hałcnów Kościół)"
+    },
+    {
+      "number": "17",
+      "destination": "Podwale Dworzec"
+    },
+    {
+      "number": "18",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "18",
+      "destination": "Stare Bielsko Kościół"
+    },
+    {
+      "number": "19",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "19",
+      "destination": "Grażyńskiego Fiat (Czechowice-Dziedzice Proseat)"
+    },
+    {
+      "number": "19",
+      "destination": "Nowy rozkład jazdy od 11 października 2021 r."
+    },
+    {
+      "number": "19",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "19",
+      "destination": "Grażyńskiego FIAT II (Czechowice-Dziedzice Proseat)"
+    },
+    {
+      "number": "20",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "20",
+      "destination": "Wapienica Strażacka (Wapienica Park Przemysłowy ABB)"
+    },
+    {
+      "number": "21",
+      "destination": "Osiedle Polskich Skrzydeł"
+    },
+    {
+      "number": "21",
+      "destination": "Osiedle Langiewicza"
+    },
+    {
+      "number": "22",
+      "destination": "Osiedle Sarni Stok"
+    },
+    {
+      "number": "22",
+      "destination": "Osiedle Langiewicza"
+    },
+    {
+      "number": "23",
+      "destination": "Szpital Wojewódzki"
+    },
+    {
+      "number": "23",
+      "destination": "Osiedle Langiewicza"
+    },
+    {
+      "number": "24",
+      "destination": "Wapienica Strażacka (Wapienica Park Przemysłowy ABB)"
+    },
+    {
+      "number": "24",
+      "destination": "Mikuszowice Śląskie"
+    },
+    {
+      "number": "25",
+      "destination": "Osiedle Sarni Stok (Warszawska Dworzec"
+    },
+    {
+      "number": "25",
+      "destination": "Mazańcowice Spółdzielnia"
+    },
+    {
+      "number": "26",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "26",
+      "destination": "Wapienna Osiedle"
+    },
+    {
+      "number": "27",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "27",
+      "destination": "Lipnik Dolny"
+    },
+    {
+      "number": "28",
+      "destination": "Osiedle Karpackie"
+    },
+    {
+      "number": "28",
+      "destination": "Osiedle Wojska Polskiego"
+    },
+    {
+      "number": "29",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "29",
+      "destination": "Komorowice Sosna"
+    },
+    {
+      "number": "31",
+      "destination": "Podwale Dworzec"
+    },
+    {
+      "number": "31",
+      "destination": "Hałcnów Granica"
+    },
+    {
+      "number": "32",
+      "destination": "Osiedle Karpackie"
+    },
+    {
+      "number": "32",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "32",
+      "destination": "Nowy rozkład jazdy od 11 października 2021 r."
+    },
+    {
+      "number": "32",
+      "destination": "Osiedle Karpackie"
+    },
+    {
+      "number": "32",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "33",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "33",
+      "destination": "Mazańcowice Osiedle"
+    },
+    {
+      "number": "34",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "34",
+      "destination": "Osiedle Polskich Skrzydeł"
+    },
+    {
+      "number": "35",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "35",
+      "destination": "Lipnik Wielkopolska"
+    },
+    {
+      "number": "35L",
+      "destination": "Warszawska Dworzec przez Lipnik, Straconkę"
+    },
+    {
+      "number": "35S",
+      "destination": "Warszawska Dworzec przez Straconkę, Lipnik"
+    },
+    {
+      "number": "50",
+      "destination": "Osiedle Karpackie"
+    },
+    {
+      "number": "50",
+      "destination": "Czechowice-Dziedzice Silesia"
+    },
+    {
+      "number": "56",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "56",
+      "destination": "Janowice Niklówka"
+    },
+    {
+      "number": "57",
+      "destination": "Filarowa Med-Work (Warszawska Dworzec)"
+    },
+    {
+      "number": "57",
+      "destination": "Bystra Leśniczówka"
+    },
+    {
+      "number": "D",
+      "destination": "Krzemionki Witosa"
+    },
+    {
+      "number": "D",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "N1",
+      "destination": "Zajezdnia MZK"
+    },
+    {
+      "number": "N1",
+      "destination": "Wapienica Centrum"
+    },
+    {
+      "number": "N2",
+      "destination": "Zajezdnia MZK"
+    },
+    {
+      "number": "N2",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "N2",
+      "destination": "Nowy rozkład jazdy od 11 października 2021 r."
+    },
+    {
+      "number": "N2",
+      "destination": "Zajezdnia MZK"
+    },
+    {
+      "number": "N2",
+      "destination": "Hałcnów Kościół"
+    },
+    {
+      "number": "P1",
+      "destination": "Wapienica Strażacka"
+    },
+    {
+      "number": "P1",
+      "destination": "Szklana Proseat"
+    },
+    {
+      "number": "P2",
+      "destination": "Osiedle Złote Łany"
+    },
+    {
+      "number": "P2",
+      "destination": "Szklana Proseat"
+    },
+    {
+      "number": "P3",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "P3",
+      "destination": "Czechowice-Dziedzice Orzeszkowej"
+    },
+    {
+      "number": "P3",
+      "destination": "Nowy rozkład jazdy od 11 października 2021 r."
+    },
+    {
+      "number": "P3",
+      "destination": "Warszawska Dworzec"
+    },
+    {
+      "number": "P3",
+      "destination": "Czechowice-Dziedzice Orzeszkowej"
+    }
+  ],
+  "tramStops": [],
+  "busStops": [
+    {
+      "stopName": "Cieszyńska",
+      "stopLines": [
+        "1",
+        "2",
+        "6",
+        "7",
+        "9",
+        "10",
+        "15",
+        "16",
+        "20",
+        "21",
+        "23",
+        "28",
+        "34",
+        "N1",
+        "P1"
+      ]
+    },
+    {
+      "stopName": "Al. Gen. Władysława Andersa",
+      "stopLines": [
+        "1",
+        "6",
+        "8",
+        "18",
+        "21",
+        "23",
+        "25",
+        "28",
+        "32",
+        "34",
+        "50",
+        "N1",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Szarotki",
+      "stopLines": [
+        "1",
+        "6",
+        "20",
+        "21",
+        "23",
+        "34"
+      ]
+    },
+    {
+      "stopName": "Os. Beskidzkie",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Partyzantów",
+      "stopLines": [
+        "1",
+        "4",
+        "7",
+        "8",
+        "10",
+        "18",
+        "21",
+        "24",
+        "28",
+        "35L",
+        "35S",
+        "50",
+        "57",
+        "N1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Zamkowa",
+      "stopLines": [
+        "1",
+        "4",
+        "7",
+        "8",
+        "10",
+        "18",
+        "24",
+        "28",
+        "35",
+        "35L",
+        "35S",
+        "50",
+        "57",
+        "N1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Piastowska",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "7",
+        "9",
+        "10",
+        "15",
+        "16",
+        "18",
+        "23",
+        "24",
+        "25",
+        "28",
+        "29",
+        "32",
+        "N1",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "3 Maja",
+      "stopLines": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "13",
+        "13w",
+        "15",
+        "18",
+        "22",
+        "23",
+        "24",
+        "26",
+        "27",
+        "28",
+        "29",
+        "33",
+        "35",
+        "35L",
+        "35S",
+        "50",
+        "57",
+        "N1",
+        "P2",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Św. Andrzeja Boboli",
+      "stopLines": [
+        "1",
+        "21",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Cygański Las",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Olszówka",
+      "stopLines": [
+        "1"
+      ]
+    },
+    {
+      "stopName": "Babiogórska",
+      "stopLines": [
+        "1",
+        "6",
+        "20",
+        "23",
+        "34",
+        "50",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Długa",
+      "stopLines": [
+        "1",
+        "21",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Al. Armii Krajowej",
+      "stopLines": [
+        "1",
+        "7",
+        "8",
+        "18",
+        "21",
+        "23",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Mikuszowice Stalownik",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Wzgórze",
+      "stopLines": [
+        "2",
+        "22",
+        "26",
+        "27",
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Jesionowa",
+      "stopLines": [
+        "2",
+        "4",
+        "15",
+        "21",
+        "34",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Żywiecka",
+      "stopLines": [
+        "2",
+        "4",
+        "9",
+        "11",
+        "13",
+        "13w",
+        "15",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "26",
+        "27",
+        "34",
+        "35L",
+        "35S",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Stefanii Sempołowskiej",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Wyzwolenia",
+      "stopLines": [
+        "2",
+        "13",
+        "13w",
+        "17",
+        "31",
+        "32",
+        "33",
+        "56",
+        "D"
+      ]
+    },
+    {
+      "stopName": "Romana Dmowskiego",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Os. Kopernika",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Wilkowice Górne",
+      "stopLines": [
+        "2"
+      ]
+    },
+    {
+      "stopName": "Pl. Franciszka Smolki",
+      "stopLines": [
+        "2",
+        "22",
+        "26",
+        "27",
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Ks. Stanisława Stojałowskiego",
+      "stopLines": [
+        "2",
+        "22",
+        "26",
+        "27",
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "PCK",
+      "stopLines": [
+        "2",
+        "4",
+        "20",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "1 Maja",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Spółdzielców",
+      "stopLines": [
+        "4",
+        "15",
+        "21",
+        "28",
+        "34",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Mariana Langiewicza",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Czesława Tańskiego",
+      "stopLines": [
+        "4",
+        "15",
+        "21",
+        "34",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Os. Polskich Skrzydeł",
+      "stopLines": [
+        "4",
+        "15",
+        "21",
+        "34"
+      ]
+    },
+    {
+      "stopName": "Langiewicza Basen",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Łagodna",
+      "stopLines": [
+        "4",
+        "15",
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Jutrzenki",
+      "stopLines": [
+        "4",
+        "15",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "34",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Teofila Aleksandra Lenartowicza",
+      "stopLines": [
+        "4",
+        "15",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "34"
+      ]
+    },
+    {
+      "stopName": "Krakowska",
+      "stopLines": [
+        "6",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Lipnik Granica",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Józefa Piłsudskiego",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Wałowa",
+      "stopLines": [
+        "6",
+        "9",
+        "11",
+        "13",
+        "13w",
+        "15",
+        "17",
+        "23",
+        "29",
+        "31",
+        "33",
+        "56",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Os. Karpackie",
+      "stopLines": [
+        "6",
+        "28",
+        "32",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Mostowa",
+      "stopLines": [
+        "6",
+        "9",
+        "11",
+        "13",
+        "13w",
+        "15",
+        "17",
+        "23",
+        "31",
+        "33",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Gen. Kazimierza  Sosnkowskiego",
+      "stopLines": [
+        "6"
+      ]
+    },
+    {
+      "stopName": "Lwowska",
+      "stopLines": [
+        "6",
+        "9",
+        "13",
+        "13w",
+        "19",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Stanisława Wyspiańskiego",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Wapienica Dzwonkowa",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Karbowa",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Dzwonkowa",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Browarna",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Karpacka",
+      "stopLines": [
+        "7",
+        "18"
+      ]
+    },
+    {
+      "stopName": "Jana III Sobieskiego",
+      "stopLines": [
+        "7",
+        "18",
+        "24",
+        "25",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Szyndzielnia",
+      "stopLines": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "stopName": "Warszawska FIAT",
+      "stopLines": [
+        "8",
+        "11",
+        "16"
+      ]
+    },
+    {
+      "stopName": "Lipowa",
+      "stopLines": [
+        "8",
+        "11",
+        "16",
+        "26",
+        "35L"
+      ]
+    },
+    {
+      "stopName": "Warszawska",
+      "stopLines": [
+        "8",
+        "11",
+        "13",
+        "13w",
+        "16",
+        "22",
+        "25",
+        "26",
+        "27",
+        "32",
+        "33",
+        "35",
+        "35L",
+        "35S",
+        "50",
+        "57"
+      ]
+    },
+    {
+      "stopName": "Warszawska Dworzec",
+      "stopLines": [
+        "8",
+        "11",
+        "16",
+        "25",
+        "26",
+        "33",
+        "35",
+        "35L",
+        "35S",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Komorowicka",
+      "stopLines": [
+        "9",
+        "17",
+        "19",
+        "29",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Piekarska",
+      "stopLines": [
+        "9",
+        "17",
+        "19",
+        "31",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Piłsudskiego",
+      "stopLines": [
+        "9",
+        "11",
+        "13",
+        "13w",
+        "15",
+        "17",
+        "23",
+        "31",
+        "33",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Mikuszowice Dom Ludowy",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Cieszyńska Lotnisko",
+      "stopLines": [
+        "9"
+      ]
+    },
+    {
+      "stopName": "Rudawka",
+      "stopLines": [
+        "10",
+        "20",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Beskidzki Inkubator Technologiczny",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Zagajnik /",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "<Regera",
+      "stopLines": [
+        "10",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Wapienica Strażacka",
+      "stopLines": [
+        "10",
+        "20",
+        "24",
+        "P1"
+      ]
+    },
+    {
+      "stopName": "Międzyrzecka",
+      "stopLines": [
+        "10",
+        "20",
+        "24",
+        "P1"
+      ]
+    },
+    {
+      "stopName": "1 Dywizji Pancernej",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Wapienica Park Przemysłowy",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Wapienica Giełda",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Przy Torach",
+      "stopLines": [
+        "10",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Bystrzańska",
+      "stopLines": [
+        "10",
+        "21",
+        "24",
+        "57"
+      ]
+    },
+    {
+      "stopName": "Wapienica Park Przemysłowy ABB",
+      "stopLines": [
+        "10",
+        "20",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Relaksowa",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Mikuszowice Śląskie",
+      "stopLines": [
+        "10"
+      ]
+    },
+    {
+      "stopName": "Strażacka",
+      "stopLines": [
+        "10",
+        "20",
+        "24"
+      ]
+    },
+    {
+      "stopName": "<Dworcowa",
+      "stopLines": [
+        "10",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Górska",
+      "stopLines": [
+        "11",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Straconka Leśniczówka",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Straconka Zakręt",
+      "stopLines": [
+        "11"
+      ]
+    },
+    {
+      "stopName": "Lipnicka",
+      "stopLines": [
+        "13",
+        "13w",
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Krzemionki",
+      "stopLines": [
+        "13",
+        "17",
+        "D"
+      ]
+    },
+    {
+      "stopName": "Hałcnów Kościół",
+      "stopLines": [
+        "13",
+        "17",
+        "32",
+        "D",
+        "N2"
+      ]
+    },
+    {
+      "stopName": "Niepodległości",
+      "stopLines": [
+        "13",
+        "13w",
+        "33",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Czerwona",
+      "stopLines": [
+        "13",
+        "13w",
+        "33"
+      ]
+    },
+    {
+      "stopName": "Krzemionki Witosa",
+      "stopLines": [
+        "13",
+        "13w",
+        "17"
+      ]
+    },
+    {
+      "stopName": "Siostry Małgorzaty Szewczyk",
+      "stopLines": [
+        "13",
+        "17",
+        "32",
+        "D"
+      ]
+    },
+    {
+      "stopName": "Wincentego Witosa",
+      "stopLines": [
+        "13",
+        "13w",
+        "17",
+        "D"
+      ]
+    },
+    {
+      "stopName": "Lipnik Dolny",
+      "stopLines": [
+        "13",
+        "13w",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Michała Grażyńskiego",
+      "stopLines": [
+        "13",
+        "13w",
+        "19",
+        "29",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Katowicka",
+      "stopLines": [
+        "13",
+        "13w",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Mazańcowicka",
+      "stopLines": [
+        "13",
+        "13w",
+        "29",
+        "32",
+        "33",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Węglowa",
+      "stopLines": [
+        "13",
+        "13w",
+        "50"
+      ]
+    },
+    {
+      "stopName": ">Listopadowa / <Wyspiańskiego",
+      "stopLines": [
+        "15",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Urodzajna",
+      "stopLines": [
+        "15",
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Juliana Tuwima",
+      "stopLines": [
+        "15",
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Grunwaldzka",
+      "stopLines": [
+        "15",
+        "23"
+      ]
+    },
+    {
+      "stopName": "3 Pułku Strzelców Podhalańskich",
+      "stopLines": [
+        "15",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Os. Langiewicza",
+      "stopLines": [
+        "15",
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Marii Konopnickiej",
+      "stopLines": [
+        "15",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Wapienica Zapora",
+      "stopLines": [
+        "16"
+      ]
+    },
+    {
+      "stopName": "Jaworzańska",
+      "stopLines": [
+        "16"
+      ]
+    },
+    {
+      "stopName": "Zapora",
+      "stopLines": [
+        "16"
+      ]
+    },
+    {
+      "stopName": "Podwale Dworzec",
+      "stopLines": [
+        "17",
+        "31",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Okrzei",
+      "stopLines": [
+        "17",
+        "31",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Podwale",
+      "stopLines": [
+        "17",
+        "31",
+        "56"
+      ]
+    },
+    {
+      "stopName": "Gazownicza",
+      "stopLines": [
+        "17",
+        "31",
+        "56",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Listopadowa",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Gen. Tadeusza Bora-Komorowskiego",
+      "stopLines": [
+        "18",
+        "21",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Stare Bielsko Kościół",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Gościnna",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Nad Potokiem",
+      "stopLines": [
+        "18",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Os. Złote Łany",
+      "stopLines": [
+        "18",
+        "19",
+        "20",
+        "34"
+      ]
+    },
+    {
+      "stopName": "Grażyńskiego FIAT Michała Grażyńskiego",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "|GRANICA MIASTA|",
+      "stopLines": [
+        "19",
+        "25",
+        "33",
+        "50",
+        "57"
+      ]
+    },
+    {
+      "stopName": "Eugeniusza Kwiatkowskiego",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Czechowice-Dziedzice Orzeszkowej",
+      "stopLines": [
+        "19",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Konwojowa",
+      "stopLines": [
+        "19",
+        "P3"
+      ]
+    },
+    {
+      "stopName": "Elizy Orzeszkowej",
+      "stopLines": [
+        "19"
+      ]
+    },
+    {
+      "stopName": "Prof. Mieczysława Michałowicza",
+      "stopLines": [
+        "20",
+        "28",
+        "50",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Zagajnik  /",
+      "stopLines": [
+        "20"
+      ]
+    },
+    {
+      "stopName": "Szeroka",
+      "stopLines": [
+        "21",
+        "24"
+      ]
+    },
+    {
+      "stopName": "Szpital Wojewódzki",
+      "stopLines": [
+        "21",
+        "23"
+      ]
+    },
+    {
+      "stopName": "Babiogóska",
+      "stopLines": [
+        "21"
+      ]
+    },
+    {
+      "stopName": "Mikuszowice Błonia ATH",
+      "stopLines": [
+        "21",
+        "24"
+      ]
+    },
+    {
+      "stopName": "",
+      "stopLines": [
+        "22",
+        "25",
+        "32",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Okrężna",
+      "stopLines": [
+        "22"
+      ]
+    },
+    {
+      "stopName": "Sarni Potok",
+      "stopLines": [
+        "22",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Os. Sarni Stok",
+      "stopLines": [
+        "22",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Warszawska Fiat",
+      "stopLines": [
+        "22",
+        "32",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Sarni Stok",
+      "stopLines": [
+        "22",
+        "27"
+      ]
+    },
+    {
+      "stopName": "Lenartowicza",
+      "stopLines": [
+        "23",
+        "P2"
+      ]
+    },
+    {
+      "stopName": ">Św. Stanisława",
+      "stopLines": [
+        "24"
+      ]
+    },
+    {
+      "stopName": "Wapienica Leroy Merlin",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Ligocka",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Mazańcowice Ośrodek Zdrowia",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Francuska",
+      "stopLines": [
+        "25",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Mazańcowice Spółdzielnia",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Starobielska",
+      "stopLines": [
+        "25"
+      ]
+    },
+    {
+      "stopName": "Wapienna Osiedle",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Wapienna / <Norwida <Dygasińskiego",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Polna",
+      "stopLines": [
+        "27"
+      ]
+    },
+    {
+      "stopName": "Podgórna",
+      "stopLines": [
+        "27"
+      ]
+    },
+    {
+      "stopName": "Ks. Stanisława Brzóski",
+      "stopLines": [
+        "27",
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Os. Wojska Polskiego",
+      "stopLines": [
+        "28"
+      ]
+    },
+    {
+      "stopName": "Stawowa",
+      "stopLines": [
+        "28"
+      ]
+    },
+    {
+      "stopName": "Bestwińska",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "(powrót Kilińskiego, Podwale, Okrzei, Gazownicza)",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Piastowska Dworzec",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Olimpijska",
+      "stopLines": [
+        "29",
+        "32"
+      ]
+    },
+    {
+      "stopName": "(powrót Warszawska)",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Ignacego Daszyńskiego",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Komorowice Sosna",
+      "stopLines": [
+        "29"
+      ]
+    },
+    {
+      "stopName": "Hałcnów Granica",
+      "stopLines": [
+        "31"
+      ]
+    },
+    {
+      "stopName": "Warszawska Tesco",
+      "stopLines": [
+        "32",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Gen. Kazimierza Sosnkowskiego",
+      "stopLines": [
+        "32",
+        "50"
+      ]
+    },
+    {
+      "stopName": "Daszyńskiego",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Hałcnowska",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Mazańcowice Osiedle",
+      "stopLines": [
+        "33"
+      ]
+    },
+    {
+      "stopName": "Gen. Tadeusza Bora-Komorowiskiego",
+      "stopLines": [
+        "34"
+      ]
+    },
+    {
+      "stopName": "Lipnik Wielkopolska",
+      "stopLines": [
+        "35",
+        "35L",
+        "35S"
+      ]
+    },
+    {
+      "stopName": "Os. Beskidzkie pętla",
+      "stopLines": [
+        "50",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Szkolna",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Towarowa",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Czechowice-Dziedzice Silesia",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Czechowice-Dziedzice Dworzec",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Wyspiańskiego",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Romualda Traugutta",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Górnicza",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Legionów",
+      "stopLines": [
+        "50"
+      ]
+    },
+    {
+      "stopName": "Janowicka",
+      "stopLines": [
+        "56",
+        "D"
+      ]
+    },
+    {
+      "stopName": "Janowicka -|GRANICA MIASTA|",
+      "stopLines": [
+        "56"
+      ]
+    },
+    {
+      "stopName": "Bestwina Centrum",
+      "stopLines": [
+        "56"
+      ]
+    },
+    {
+      "stopName": "Janowice Niklówka",
+      "stopLines": [
+        "56"
+      ]
+    },
+    {
+      "stopName": "Czechowicka",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Filarowa Med-Work",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Warszawska Warszawska Dworzec",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Filarowa",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Szczyrkowska",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Bystra Leśniczówka",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Fałata",
+      "stopLines": [
+        "57"
+      ]
+    },
+    {
+      "stopName": "Krzemionki Witosa Janowice Niklówka",
+      "stopLines": [
+        "D"
+      ]
+    },
+    {
+      "stopName": "Hałcnów Kościół Krzemionki Witosa",
+      "stopLines": [
+        "D"
+      ]
+    },
+    {
+      "stopName": "Zajezdnia MZK",
+      "stopLines": [
+        "N1",
+        "N2"
+      ]
+    },
+    {
+      "stopName": "Wapienica Centrum",
+      "stopLines": [
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Długa, Bystrzańska, Partyzantów, Gen. Tadeusza Bora-Komorowskiego, Łagodna, Jutrzenki, Teofila Aleksandra Lenartowicza, Żywiecka, Lwowska, Józefa Piłsudskiego, Mostowa, Wałowa, 3 Maja, Warszawska, Węglowa, Katowicka, Mazańcowicka, Komorowicka, Olimpijska, Ignacego Daszyńskiego, Hałcnowska, Wyzwolenia",
+      "stopLines": [
+        "N2"
+      ]
+    },
+    {
+      "stopName": "Regera",
+      "stopLines": [
+        "P1"
+      ]
+    },
+    {
+      "stopName": "Dworcowa",
+      "stopLines": [
+        "P1"
+      ]
+    },
+    {
+      "stopName": "Szklana Proseat",
+      "stopLines": [
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "stopName": "Osiedle Złote Łany",
+      "stopLines": [
+        "P2"
+      ]
+    },
+    {
+      "stopName": "(Podwale)",
+      "stopLines": [
+        "P3"
+      ]
+    }
+  ]
+}

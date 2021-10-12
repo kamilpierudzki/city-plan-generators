@@ -81,13 +81,10 @@ class GzmZtm(TransitAgency):
         return create_links_dictionary(bus_timetable_links_flatten, self._MAIN_PAGE_LINK)
 
     def get_transit_agency_name(self) -> str:
-        return "Górnośląsko-Zagłębowska Metropolia"
+        return "Górnośląsko-Zagłębowska Metropolia ZTM"
 
     def _get_line_direction_json_file_name(self) -> str:
-        return "gzm.json"
-
-    def _get_stops_data_json_file_name(self) -> str:
-        return "gzm_stops.json"
+        return "gzm_ztm.json"
 
     def _get_all_stops_for_link(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

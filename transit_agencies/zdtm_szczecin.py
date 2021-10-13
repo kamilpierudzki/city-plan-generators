@@ -44,9 +44,6 @@ class ZdtmSzczecin(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "zditm_szczecin.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "zditm_szczecin_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         tram_h2_tag = find_first_attribute_matching_or_error(
             elements=self._all_h2_tags,

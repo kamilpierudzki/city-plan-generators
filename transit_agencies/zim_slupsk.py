@@ -22,9 +22,6 @@ class ZimSlupsk(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "zim_slupsk.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "zim_slupsk_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}
 

@@ -23,9 +23,6 @@ class MpkLodz(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "mpk_lodz.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "mpk_lodz_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         first_link_tag = find_first_attribute_matching_or_error(
             elements=self._all_link_tags,

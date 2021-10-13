@@ -22,9 +22,6 @@ class KmKolobrzeg(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "km_kolobrzeg.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "km_kolobrzeg_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}
 

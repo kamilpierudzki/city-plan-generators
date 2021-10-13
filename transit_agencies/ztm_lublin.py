@@ -87,9 +87,6 @@ class ZtmLublin(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "ztm_lublin.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "ztm_lublin_stops.json"
-
     def _get_all_stops_for_link(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)
         all_article_tags = sub_page_content.find_all('article')

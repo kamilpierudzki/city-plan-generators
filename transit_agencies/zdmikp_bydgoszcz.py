@@ -90,9 +90,6 @@ class ZdmikpBydgoszcz(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "zdmikp_bydgoszcz.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "zdmikp_bydgoszcz_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return create_links_dictionary(self._tram_link_tags, self._SUB_PAGE_LINK)
 

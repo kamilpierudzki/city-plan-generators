@@ -83,9 +83,6 @@ class MpkKrakow(TransitAgency):
     def _get_line_direction_json_file_name(self) -> str:
         return "mpk_krakow.json"
 
-    def _get_stops_data_json_file_name(self) -> str:
-        return "mpk_krakow_stops.json"
-
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         tram_td_tags = _filtered_vehicle_type_td_tags(self._TRAM_SEARCH_KEY, self._vehicle_type_td_tags_pairs)
         link_tags = _get_link_tags_from_td_tags(tram_td_tags)

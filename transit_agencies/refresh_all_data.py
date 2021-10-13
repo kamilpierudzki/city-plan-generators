@@ -10,6 +10,7 @@ from transit_agencies.mpk_poznan import MpkPoznan
 from transit_agencies.mpk_swidnica import MpkSwidnica
 from transit_agencies.mpk_wroclaw import MpkWroclaw
 from transit_agencies.mzk_bielsko_biala import MzkBielskoBiala
+from transit_agencies.mzk_gorzow_wielkopolski import MzkGorzowWielkopolski
 from transit_agencies.wtp_warszawa import WtpWarszawa
 from transit_agencies.zdmikp_bydgoszcz import ZdmikpBydgoszcz
 from transit_agencies.zdtm_szczecin import ZdtmSzczecin
@@ -37,6 +38,7 @@ if __name__ == '__main__':
         ZimSlupsk(),
         ZtmGdansk(),
         ZtmLublin(),
+        MzkGorzowWielkopolski()
     ]
     for transit_agency in transit_agencies:
         transit_agency.generate_data()

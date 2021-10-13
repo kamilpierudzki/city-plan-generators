@@ -14,9 +14,11 @@ def create_links_dictionary(vehicle_link_tags: list[bs4.element.Tag], sub_link_t
     return dictionary
 
 
-def get_page_content(url: str, session: requests.Session = None, verify=True) -> BeautifulSoup:
+def get_page_content(url: str, session: requests.Session = None, verify=True, headers=None) -> BeautifulSoup:
+    if headers is None:
+        headers = {}
     if session is None:
-        r = requests.get(url, verify=verify)
+        r = requests.get(url, verify=verify, headers=headers)
         raw_content = r.content
     else:
         r = session.get(url)

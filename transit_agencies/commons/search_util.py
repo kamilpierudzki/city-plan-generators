@@ -109,3 +109,11 @@ def is_any_element_matching_to_value(elements: [], value_to_match) -> bool:
         if element == value_to_match:
             return True
     return False
+
+
+def filtered_tags(elements) -> list[bs4.element.Tag]:
+    _filtered_tags: list[bs4.element.Tag] = []
+    for tag in elements:
+        if type(tag) == bs4.element.Tag:
+            _filtered_tags.append(tag)
+    return _filtered_tags

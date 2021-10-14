@@ -85,7 +85,7 @@ class ZdmikpBydgoszcz(TransitAgency):
         self._bus_link_tags = tram_bus_link_tags_pair[1]
 
     def get_transit_agency_name(self) -> str:
-        return "Zarząd Dróg Miejskich i Komunikacji Publicznej w Bydgoszczy"
+        return "ZDMiKP Bydgoszczy"
 
     def _get_line_direction_json_file_name(self) -> str:
         return "zdmikp_bydgoszcz.json"

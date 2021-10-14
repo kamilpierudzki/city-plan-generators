@@ -1,5 +1,5 @@
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str
+from transit_agencies.commons.generation_util import print_generation_results
 from transit_agencies.gzm_ztm import GzmZtm
 from transit_agencies.km_kolobrzeg import KmKolobrzeg
 from transit_agencies.m_czestochowa import MCzestochowa
@@ -45,4 +45,4 @@ if __name__ == '__main__':
 
     print("---")
     for transit_agency in transit_agencies:
-        print_list_str(transit_agency.get_transit_agency_name(), transit_agency.errors)
+        print_generation_results(transit_agency.get_transit_agency_name(), transit_agency.errors)

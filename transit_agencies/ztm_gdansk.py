@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error, \
     find_all_containing_value_or_error
 
@@ -101,4 +101,4 @@ class ZtmGdansk(TransitAgency):
 if __name__ == '__main__':
     ztm_gdansk = ZtmGdansk()
     ztm_gdansk.generate_data()
-    print_list_str(ztm_gdansk.get_transit_agency_name(), ztm_gdansk.errors)
+    print_generation_results(ztm_gdansk.get_transit_agency_name(), ztm_gdansk.errors)

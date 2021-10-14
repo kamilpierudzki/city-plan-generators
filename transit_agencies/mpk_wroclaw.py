@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error, \
     find_all_containing_value_or_error
 
@@ -107,4 +107,4 @@ class MpkWroclaw(TransitAgency):
 if __name__ == '__main__':
     mpk_wroclaw = MpkWroclaw()
     mpk_wroclaw.generate_data()
-    print_list_str(mpk_wroclaw.get_transit_agency_name(), mpk_wroclaw.errors)
+    print_generation_results(mpk_wroclaw.get_transit_agency_name(), mpk_wroclaw.errors)

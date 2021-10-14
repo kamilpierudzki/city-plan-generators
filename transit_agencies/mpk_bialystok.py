@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error, \
     find_all_containing_values_or_error
 
@@ -72,4 +72,4 @@ class MpkBialystok(TransitAgency):
 if __name__ == '__main__':
     mpk_bialystok = MpkBialystok()
     mpk_bialystok.generate_data()
-    print_list_str(mpk_bialystok.get_transit_agency_name(), mpk_bialystok.errors)
+    print_generation_results(mpk_bialystok.get_transit_agency_name(), mpk_bialystok.errors)

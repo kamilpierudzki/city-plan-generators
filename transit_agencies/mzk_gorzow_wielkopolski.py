@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error
 
 
@@ -90,4 +90,4 @@ class MzkGorzowWielkopolski(TransitAgency):
 if __name__ == '__main__':
     mzk_gorzow_wielkopolski = MzkGorzowWielkopolski()
     mzk_gorzow_wielkopolski.generate_data()
-    print_list_str(mzk_gorzow_wielkopolski.get_transit_agency_name(), mzk_gorzow_wielkopolski.errors)
+    print_generation_results(mzk_gorzow_wielkopolski.get_transit_agency_name(), mzk_gorzow_wielkopolski.errors)

@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import get_page_content, print_list_str, create_links_dictionary
+from transit_agencies.commons.generation_util import get_page_content, print_generation_results, create_links_dictionary
 from transit_agencies.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_attribute_matching_or_error, find_all_containing_values_or_error
 
@@ -88,4 +88,4 @@ class MpkLodz(TransitAgency):
 if __name__ == '__main__':
     mpk_lodz = MpkLodz()
     mpk_lodz.generate_data()
-    print_list_str(mpk_lodz.get_transit_agency_name(), mpk_lodz.errors)
+    print_generation_results(mpk_lodz.get_transit_agency_name(), mpk_lodz.errors)

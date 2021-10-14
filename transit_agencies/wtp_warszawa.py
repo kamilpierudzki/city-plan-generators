@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_list_str
+from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_generation_results
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error, \
     find_all_containing_value_or_error, \
     find_first_attribute_matching_or_error
@@ -106,4 +106,4 @@ class WtpWarszawa(TransitAgency):
 if __name__ == '__main__':
     wtp_warszawa = WtpWarszawa()
     wtp_warszawa.generate_data()
-    print_list_str(wtp_warszawa.get_transit_agency_name(), wtp_warszawa.errors)
+    print_generation_results(wtp_warszawa.get_transit_agency_name(), wtp_warszawa.errors)

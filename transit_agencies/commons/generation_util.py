@@ -28,7 +28,7 @@ def get_page_content(url: str, session: requests.Session = None, verify=True, he
     return content
 
 
-def print_list_str(transit_agency: str, elements: list[str]):
+def print_generation_results(transit_agency: str, elements: list[str]):
     print(transit_agency)
     for e in elements:
         print(e)

@@ -1,7 +1,7 @@
 import bs4.element
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import get_page_content, print_list_str
+from transit_agencies.commons.generation_util import get_page_content, print_generation_results
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error
 
 
@@ -101,4 +101,4 @@ class MzkBielskoBiala(TransitAgency):
 if __name__ == '__main__':
     mzk_bielsko_biala = MzkBielskoBiala()
     mzk_bielsko_biala.generate_data()
-    print_list_str(mzk_bielsko_biala.get_transit_agency_name(), mzk_bielsko_biala.errors)
+    print_generation_results(mzk_bielsko_biala.get_transit_agency_name(), mzk_bielsko_biala.errors)

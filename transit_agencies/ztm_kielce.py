@@ -1,7 +1,7 @@
 import bs4.element
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_attribute_matching_or_error, filtered_tags
 
@@ -106,4 +106,4 @@ class ZtmKielce(TransitAgency):
 if __name__ == '__main__':
     ztm_kielce = ZtmKielce()
     ztm_kielce.generate_data()
-    print_list_str(ztm_kielce.get_transit_agency_name(), ztm_kielce.errors)
+    print_generation_results(ztm_kielce.get_transit_agency_name(), ztm_kielce.errors)

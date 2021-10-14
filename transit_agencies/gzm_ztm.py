@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_list_str
+from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_generation_results
 from transit_agencies.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_containing_any_of_values_or_error, find_all_attribute_matching_or_error
 
@@ -116,4 +116,4 @@ class GzmZtm(TransitAgency):
 if __name__ == '__main__':
     gzm_ztm = GzmZtm()
     gzm_ztm.generate_data()
-    print_list_str(gzm_ztm.get_transit_agency_name(), gzm_ztm.errors)
+    print_generation_results(gzm_ztm.get_transit_agency_name(), gzm_ztm.errors)

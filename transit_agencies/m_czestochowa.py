@@ -1,7 +1,7 @@
 import bs4.element
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_list_str
+from transit_agencies.commons.generation_util import get_page_content, create_links_dictionary, print_generation_results
 from transit_agencies.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_attribute_matching_or_error
 
@@ -100,4 +100,4 @@ class MCzestochowa(TransitAgency):
 if __name__ == '__main__':
     m_czestochowa = MCzestochowa()
     m_czestochowa.generate_data()
-    print_list_str(m_czestochowa.get_transit_agency_name(), m_czestochowa.errors)
+    print_generation_results(m_czestochowa.get_transit_agency_name(), m_czestochowa.errors)

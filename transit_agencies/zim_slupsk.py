@@ -1,7 +1,7 @@
 import bs4.element
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_all_attribute_matching_or_error, \
     find_first_attribute_matching_or_error
 
@@ -78,4 +78,4 @@ class ZimSlupsk(TransitAgency):
 if __name__ == '__main__':
     zim_slupsk = ZimSlupsk()
     zim_slupsk.generate_data()
-    print_list_str(zim_slupsk.get_transit_agency_name(), zim_slupsk.errors)
+    print_generation_results(zim_slupsk.get_transit_agency_name(), zim_slupsk.errors)

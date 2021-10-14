@@ -1,5 +1,5 @@
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import print_list_str, get_page_content, create_links_dictionary
+from transit_agencies.commons.generation_util import print_generation_results, get_page_content, create_links_dictionary
 from transit_agencies.commons.search_util import find_all_containing_any_of_values_or_error, \
     find_all_attribute_matching_or_error
 
@@ -69,4 +69,4 @@ class ZdzitOlsztyn(TransitAgency):
 if __name__ == '__main__':
     zdzit_olsztyn = ZdzitOlsztyn()
     zdzit_olsztyn.generate_data()
-    print_list_str(zdzit_olsztyn.get_transit_agency_name(), zdzit_olsztyn.errors)
+    print_generation_results(zdzit_olsztyn.get_transit_agency_name(), zdzit_olsztyn.errors)

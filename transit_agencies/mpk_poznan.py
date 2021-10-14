@@ -1,7 +1,7 @@
 import bs4
 
 from transit_agencies.commons.TransitAgency import TransitAgency
-from transit_agencies.commons.generation_util import create_links_dictionary, get_page_content, print_list_str
+from transit_agencies.commons.generation_util import create_links_dictionary, get_page_content, print_generation_results
 from transit_agencies.commons.search_util import find_first_attribute_matching_or_error, \
     find_all_attribute_matching_or_error
 
@@ -110,4 +110,4 @@ class MpkPoznan(TransitAgency):
 if __name__ == '__main__':
     mpk_poznan = MpkPoznan()
     mpk_poznan.generate_data()
-    print_list_str(mpk_poznan.get_transit_agency_name(), mpk_poznan.errors)
+    print_generation_results(mpk_poznan.get_transit_agency_name(), mpk_poznan.errors)

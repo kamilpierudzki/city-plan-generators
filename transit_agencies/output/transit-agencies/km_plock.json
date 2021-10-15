@@ -1,0 +1,532 @@
+{
+  "transitAgency": "KM Płock",
+  "lastUpdateTimestampInMillis": 1634322475,
+  "lastUpdateFormatted": "15-10-2021",
+  "dataVersion": 1,
+  "tramLines": [],
+  "busLines": [
+    {
+      "number": "0",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "2",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "2",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "3",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "3",
+      "destination": "Borowiczki"
+    },
+    {
+      "number": "4",
+      "destination": "Św. Huberta"
+    },
+    {
+      "number": "4",
+      "destination": "Cm. Komunalny 04"
+    },
+    {
+      "number": "7",
+      "destination": "Ciechomice"
+    },
+    {
+      "number": "7",
+      "destination": "Kostrogaj, zajezdnia 04"
+    },
+    {
+      "number": "10",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "14",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "14",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "15",
+      "destination": "Fabryka maszyn"
+    },
+    {
+      "number": "15",
+      "destination": "Boryszewska"
+    },
+    {
+      "number": "18",
+      "destination": "Dworzec kolejowy 01"
+    },
+    {
+      "number": "18",
+      "destination": "Żyzna"
+    },
+    {
+      "number": "19",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "19",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "20",
+      "destination": "Podolszyce"
+    },
+    {
+      "number": "20",
+      "destination": "Kostrogaj, zajezdnia 04"
+    },
+    {
+      "number": "22",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "22",
+      "destination": "Podolszyce"
+    },
+    {
+      "number": "24",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "24",
+      "destination": "Cm. Komunalny 04"
+    },
+    {
+      "number": "26",
+      "destination": "Winiary, szpital 04"
+    },
+    {
+      "number": "26",
+      "destination": "Podolszyce"
+    },
+    {
+      "number": "31",
+      "destination": "Skarpa"
+    },
+    {
+      "number": "31",
+      "destination": "Orlen, brama XI"
+    },
+    {
+      "number": "32",
+      "destination": "Otolińska, WORD"
+    },
+    {
+      "number": "32",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "33",
+      "destination": "Podolszyce"
+    },
+    {
+      "number": "33",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "35",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "35",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "37",
+      "destination": "Borowiczki"
+    },
+    {
+      "number": "37",
+      "destination": "Kostrogaj, zajezdnia 03"
+    },
+    {
+      "number": "60",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "60",
+      "destination": "Przemysłowa"
+    },
+    {
+      "number": "61",
+      "destination": "Winiary, szpital"
+    },
+    {
+      "number": "62",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "62",
+      "destination": "Kostrogaj, zajezdnia 04"
+    },
+    {
+      "number": "100",
+      "destination": "Dziarnowo"
+    },
+    {
+      "number": "100",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "101",
+      "destination": "Stare Proboszczewice"
+    },
+    {
+      "number": "101",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "102",
+      "destination": "Kobierniki, Wierzbica"
+    },
+    {
+      "number": "102",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "103",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "103",
+      "destination": "Srebrna, bloki"
+    },
+    {
+      "number": "104",
+      "destination": "Wyszyna"
+    },
+    {
+      "number": "104",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "105",
+      "destination": "Brwilno, Antoniówka"
+    },
+    {
+      "number": "105",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "110",
+      "destination": "Lelice"
+    },
+    {
+      "number": "110",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "111",
+      "destination": "Stare Proboszczewice"
+    },
+    {
+      "number": "111",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "112",
+      "destination": "Bielsk"
+    },
+    {
+      "number": "112",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "120",
+      "destination": "Jachowicza (teatr)"
+    },
+    {
+      "number": "120",
+      "destination": "Woźniki-Paklewy"
+    },
+    {
+      "number": "130",
+      "destination": "Armii Krajowej"
+    },
+    {
+      "number": "130",
+      "destination": "Szeligi"
+    },
+    {
+      "number": "140",
+      "destination": "Gąbin, dworzec"
+    },
+    {
+      "number": "140",
+      "destination": "Dworzec kolejowy"
+    },
+    {
+      "number": "A",
+      "destination": "Podolszyce 01"
+    },
+    {
+      "number": "A",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "B",
+      "destination": "Podolszyce"
+    },
+    {
+      "number": "B",
+      "destination": "Orlen, brama I"
+    },
+    {
+      "number": "N1",
+      "destination": "Borowiczki"
+    },
+    {
+      "number": "N1",
+      "destination": "Kostrogaj, zajezdnia 04"
+    }
+  ],
+  "tramStops": [],
+  "busStops": [
+    {
+      "stopName": "Winiary, szpital 06",
+      "stopLines": [
+        "0",
+        "2",
+        "3",
+        "10",
+        "14",
+        "19",
+        "22",
+        "31"
+      ]
+    },
+    {
+      "stopName": "Podolszyce 02",
+      "stopLines": [
+        "2",
+        "19",
+        "24",
+        "A"
+      ]
+    },
+    {
+      "stopName": "Borowiczki",
+      "stopLines": [
+        "3",
+        "35",
+        "37",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Św. Huberta",
+      "stopLines": [
+        "4"
+      ]
+    },
+    {
+      "stopName": "Cm. Komunalny 04",
+      "stopLines": [
+        "4",
+        "15"
+      ]
+    },
+    {
+      "stopName": "Kostrogaj",
+      "stopLines": [
+        "7",
+        "20"
+      ]
+    },
+    {
+      "stopName": "Górki",
+      "stopLines": [
+        "7"
+      ]
+    },
+    {
+      "stopName": "Gościniec",
+      "stopLines": [
+        "14"
+      ]
+    },
+    {
+      "stopName": "Żyzna",
+      "stopLines": [
+        "15",
+        "18"
+      ]
+    },
+    {
+      "stopName": "Dworzec kolejowy 01",
+      "stopLines": [
+        "18"
+      ]
+    },
+    {
+      "stopName": "Podolszyce 01",
+      "stopLines": [
+        "20",
+        "22",
+        "26",
+        "33",
+        "B"
+      ]
+    },
+    {
+      "stopName": "Brochocin",
+      "stopLines": [
+        "24"
+      ]
+    },
+    {
+      "stopName": "Maszewska",
+      "stopLines": [
+        "26"
+      ]
+    },
+    {
+      "stopName": "Orlen, brama XI",
+      "stopLines": [
+        "31"
+      ]
+    },
+    {
+      "stopName": "Orlen, brama I",
+      "stopLines": [
+        "32",
+        "33",
+        "61",
+        "62",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "stopName": "Targowa",
+      "stopLines": [
+        "32"
+      ]
+    },
+    {
+      "stopName": "Naftobudowa",
+      "stopLines": [
+        "35"
+      ]
+    },
+    {
+      "stopName": "Kostrogaj, zajezdnia 03",
+      "stopLines": [
+        "37",
+        "60",
+        "62",
+        "N1"
+      ]
+    },
+    {
+      "stopName": "Podolszyce",
+      "stopLines": [
+        "60"
+      ]
+    },
+    {
+      "stopName": "Dziarnowo",
+      "stopLines": [
+        "100"
+      ]
+    },
+    {
+      "stopName": "Dworzec kolejowy",
+      "stopLines": [
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "110",
+        "111",
+        "112",
+        "140"
+      ]
+    },
+    {
+      "stopName": "Stare Proboszczewice",
+      "stopLines": [
+        "101"
+      ]
+    },
+    {
+      "stopName": "Kobierniki, Wierzbica",
+      "stopLines": [
+        "102"
+      ]
+    },
+    {
+      "stopName": "Srebrna, bloki",
+      "stopLines": [
+        "103"
+      ]
+    },
+    {
+      "stopName": "Wyszyna",
+      "stopLines": [
+        "104"
+      ]
+    },
+    {
+      "stopName": "Brwilno, Antoniówka",
+      "stopLines": [
+        "105"
+      ]
+    },
+    {
+      "stopName": "Lelice",
+      "stopLines": [
+        "110"
+      ]
+    },
+    {
+      "stopName": "Rempin",
+      "stopLines": [
+        "111"
+      ]
+    },
+    {
+      "stopName": "Bielsk",
+      "stopLines": [
+        "112"
+      ]
+    },
+    {
+      "stopName": "Jachowicza (teatr)",
+      "stopLines": [
+        "120",
+        "130"
+      ]
+    },
+    {
+      "stopName": "Woźniki-Paklewy",
+      "stopLines": [
+        "120"
+      ]
+    },
+    {
+      "stopName": "Szeligi",
+      "stopLines": [
+        "130"
+      ]
+    },
+    {
+      "stopName": "Gąbin, dworzec",
+      "stopLines": [
+        "140"
+      ]
+    }
+  ]
+}

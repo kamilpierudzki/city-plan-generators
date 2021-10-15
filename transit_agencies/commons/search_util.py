@@ -82,6 +82,22 @@ def is_element_contains_all_to_values(element: str, values_to_match: list[str]) 
     return True
 
 
+def find_first_containing_values_or_error(
+        elements: list[bs4.element.Tag],
+        attribute: str,
+        values_to_match: list[str]
+) -> bs4.element.Tag:
+    for element in elements:
+        try:
+            attr = element.attrs[attribute]
+            is_element_containing_all_values = is_element_contains_all_to_values(attr, values_to_match)
+            if is_element_containing_all_values:
+                return element
+        except KeyError:
+            continue
+    raise Exception("Error, elements do not match")
+
+
 def find_all_containing_any_of_values_or_error(
         elements: list[bs4.element.Tag],
         attribute: str,

@@ -2,6 +2,7 @@ from transit_agencies.commons.TransitAgency import TransitAgency
 from transit_agencies.commons.generation_util import print_generation_results
 from transit_agencies.gzm_ztm import GzmZtm
 from transit_agencies.km_kolobrzeg import KmKolobrzeg
+from transit_agencies.km_plock import KmPlock
 from transit_agencies.m_czestochowa import MCzestochowa
 from transit_agencies.mpk_bialystok import MpkBialystok
 from transit_agencies.mpk_krakow import MpkKrakow
@@ -41,6 +42,7 @@ if __name__ == '__main__':
         ZtmLublin(),
         MzkGorzowWielkopolski(),
         ZtmKielce(),
+        KmPlock(),
     ]
     for transit_agency in transit_agencies:
         transit_agency.generate_data()

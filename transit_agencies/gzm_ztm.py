@@ -83,8 +83,8 @@ class GzmZtm(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "Górnośląsko-Zagłębowska Metropolia ZTM"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "gzm_ztm.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "gzm_ztm"
 
     def _get_all_stops_for_link(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

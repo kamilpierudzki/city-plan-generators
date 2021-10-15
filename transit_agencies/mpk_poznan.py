@@ -80,8 +80,8 @@ class MpkPoznan(TransitAgency):
     def get_transit_agency_name(self):
         return "MPK Poznań"
 
-    def _get_line_direction_json_file_name(self):
-        return "mpk_poznan.json"
+    def _get_data_file_name_without_extension(self):
+        return "mpk_poznan"
 
     def _get_tram_and_bus_timetable_links(self) -> (list[bs4.element.Tag], list[bs4.element.Tag]):
         all_divs_in_content_div = self._content_div.find_all('div')

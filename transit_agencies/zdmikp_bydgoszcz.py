@@ -87,8 +87,8 @@ class ZdmikpBydgoszcz(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "ZDMiKP Bydgoszczy"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "zdmikp_bydgoszcz.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "zdmikp_bydgoszcz"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return create_links_dictionary(self._tram_link_tags, self._SUB_PAGE_LINK)

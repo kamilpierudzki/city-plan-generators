@@ -1,3 +1,5 @@
+import base64
+
 import bs4.element
 import requests
 from bs4 import BeautifulSoup
@@ -32,3 +34,14 @@ def print_generation_results(transit_agency: str, elements: list[str]):
     print(transit_agency)
     for e in elements:
         print(e)
+
+
+def encrypt_json(raw_json: str) -> str:
+    encoded_json = raw_json.encode("utf-8")
+    encoded_base64_bytes_before_shift = base64.b64encode(encoded_json)
+    encoded_base64_bytes_shifted: list[int] = []
+    for byte in encoded_base64_bytes_before_shift:
+        encoded_base64_bytes_shifted.append(byte + 1)
+    encoded_base64_bytes_after_shift = bytes(encoded_base64_bytes_shifted)
+    encrypted_json = encoded_base64_bytes_after_shift.decode("utf-8")
+    return encrypted_json

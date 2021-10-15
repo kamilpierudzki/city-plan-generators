@@ -25,8 +25,8 @@ class MpkBialystok(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "MPK Białystok"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "mpk_bialystok.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "mpk_bialystok"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}

@@ -12,8 +12,8 @@ class KmPlock(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "KM Płock"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "km_plock.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "km_plock"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}

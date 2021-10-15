@@ -51,8 +51,8 @@ class MzkBielskoBiala(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "MZK Bielsko-Biała"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "mzk_bielsko_biala.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "mzk_bielsko_biala"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}

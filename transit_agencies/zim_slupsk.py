@@ -19,8 +19,8 @@ class ZimSlupsk(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "ZIM Słupsk"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "zim_slupsk.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "zim_slupsk"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return {}

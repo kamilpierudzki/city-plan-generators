@@ -60,8 +60,8 @@ class MCzestochowa(TransitAgency):
     def get_transit_agency_name(self) -> str:
         return "Częstochowa"
 
-    def _get_line_direction_json_file_name(self) -> str:
-        return "czestochowa.json"
+    def _get_data_file_name_without_extension(self) -> str:
+        return "czestochowa"
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return create_links_dictionary(self._tram_link_tags, self._SUB_PAGE_LINK)

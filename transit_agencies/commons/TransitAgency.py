@@ -2,6 +2,7 @@ import datetime
 import json
 import os
 
+from transit_agencies.commons.generation_util import encrypt_json
 from transit_agencies.commons.verification import verify_links_dictionary, verify_lines_list, \
     verify_stops_dictionary
 
@@ -28,6 +29,7 @@ class TransitAgency:
     _STOP_NAME_ATTR = "stopName"
     _STOP_LINES_ATTR = "stopLines"
     _OUTPUT_DIR = os.path.join("output", "transit-agencies")
+    _OUTPUT_DIR_ENCRYPTED = os.path.join("output", "transit-agencies-encrypted")
 
     errors: list[str] = []
 
@@ -176,7 +178,14 @@ class TransitAgency:
         }
 
         raw_json = json.dumps(json_dict, ensure_ascii=False)
-        _create_json_file(raw_json, self._OUTPUT_DIR, self._get_line_direction_json_file_name())
+        file_name_without_extension = self._get_data_file_name_without_extension()
+        _create_json_file(raw_json, self._OUTPUT_DIR, file_name_without_extension + ".json")
+        raw_json_encrypted = encrypt_json(raw_json)
+        _create_json_file(
+            raw_json_encrypted,
+            self._OUTPUT_DIR_ENCRYPTED,
+            file_name_without_extension + ".txt"
+        )
 
     def _get_vehicle_lines(self, vehicle_links_dictionary: dict[str, str]) -> list[dict[str:str]]:
         vehicle_data: list[dict] = []
@@ -202,7 +211,7 @@ class TransitAgency:
     def get_transit_agency_name(self) -> str:
         raise Exception("_get_transit_agency_name not implemented")
 
-    def _get_line_direction_json_file_name(self) -> str:
+    def _get_data_file_name_without_extension(self) -> str:
         raise Exception("_get_json_file_name not implemented")
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:

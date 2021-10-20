@@ -28,6 +28,9 @@ class TransitAgency:
     _BUS_STOPS_ATTR = "busStops"
     _STOP_NAME_ATTR = "stopName"
     _STOP_LINES_ATTR = "stopLines"
+
+    _DATA_VERSION_VALUE = 1
+
     _OUTPUT_DIR = os.path.join("output", "transit-agencies")
     _OUTPUT_DIR_ENCRYPTED = os.path.join("output", "transit-agencies-encrypted")
 
@@ -56,7 +59,11 @@ class TransitAgency:
             self.errors.append(error_message)
             return
 
-        self._generate_json(tram_links_dictionary, bus_links_dictionary)
+        current_time = datetime.datetime.now()
+        timestamp = int(current_time.timestamp())
+        formatted_date = current_time.strftime("%d-%m-%Y")
+
+        self._generate_json_full(timestamp, formatted_date, tram_links_dictionary, bus_links_dictionary)
 
     def _create_vehicle_json_stops_dictionary(
             self,
@@ -115,8 +122,10 @@ class TransitAgency:
             raise Exception(error_message)
         return _stops_dictionary
 
-    def _generate_json(
+    def _generate_json_full(
             self,
+            timestamp: int,
+            formatted_date: str,
             tram_links_dictionary: dict[str, str],
             bus_links_dictionary: dict[str, str]
     ):
@@ -162,30 +171,25 @@ class TransitAgency:
             return
         bus_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("bus", bus_stops_dictionary)
 
-        current_time = datetime.datetime.now()
-        timestamp = int(current_time.timestamp())
-        formatted_date = current_time.strftime("%d-%m-%Y")
-
-        json_dict = {
+        json_full_dict = {
             self._TRANSIT_AGENCY_ATTR: self.get_transit_agency_name(),
             self._TIMESTAMP_ATTR: timestamp,
             self._TIMESTAMP_FORMATTED_ATTR: formatted_date,
-            self._DATA_VERSION_ATTR: 1,
+            self._DATA_VERSION_ATTR: self._DATA_VERSION_VALUE,
             self._TRAMS_LINES_ATTR: tram_lines_list,
             self._BUSES_LINES_ATTR: bus_lines_list,
             self._TRAM_STOPS_ATTR: tram_stops_json_dictionary,
             self._BUS_STOPS_ATTR: bus_stops_json_dictionary
         }
 
-        raw_json = json.dumps(json_dict, ensure_ascii=False)
         file_name_without_extension = self._get_data_file_name_without_extension()
-        _create_json_file(raw_json, self._OUTPUT_DIR, file_name_without_extension + ".json")
-        raw_json_encrypted = encrypt_json(raw_json)
-        _create_json_file(
-            raw_json_encrypted,
-            self._OUTPUT_DIR_ENCRYPTED,
-            file_name_without_extension + ".txt"
-        )
+
+        raw_json_full = json.dumps(json_full_dict, ensure_ascii=False)
+        _create_json_file(raw_json_full, self._OUTPUT_DIR, file_name_without_extension + ".json")
+
+        raw_json_full_encrypted = encrypt_json(raw_json_full)
+        _create_json_file(raw_json_full_encrypted, self._OUTPUT_DIR_ENCRYPTED,
+                          file_name_without_extension + ".txt")
 
     def _get_vehicle_lines(self, vehicle_links_dictionary: dict[str, str]) -> list[dict[str:str]]:
         vehicle_data: list[dict] = []

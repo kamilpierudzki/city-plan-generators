@@ -32,10 +32,12 @@ def _get_tram_timetable_links(all_divs_in_content_div) -> list[bs4.element.Tag]:
 
 def _read_directions_from_h2(h2: bs4.element.Tag) -> list[str]:
     filtered = h2.text.split(" &leftrightarrow ")
-    directions = []
+    directions_set: set[str] = set()
     for direction in filtered:
-        directions.append(direction)
-    return directions
+        directions_set.add(direction)
+
+    directions_list: list[str] = list(directions_set)
+    return directions_list
 
 
 class MpkPoznan(TransitAgency):

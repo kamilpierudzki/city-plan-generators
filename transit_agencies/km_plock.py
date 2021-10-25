@@ -37,52 +37,70 @@ class KmPlock(TransitAgency):
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)
-        all_td_tags = sub_page_content.find_all('td')
-        filtered_td_tags = find_all_attribute_matching_or_error(
-            elements=all_td_tags,
+        try:
+            all_td_tags = sub_page_content.find_all('td')
+            filtered_td_tags = find_all_attribute_matching_or_error(
+                elements=all_td_tags,
+                attribute="class",
+                value_to_match=["text-center", "bg-lightgray"]
+            )
+
+            directions_set: set[str] = set()
+            for td_tag in filtered_td_tags:
+                raw_text = td_tag.text
+                if "Kierunek:" in raw_text:
+                    strong_tag = td_tag.find_next('strong')
+                    direction = strong_tag.text
+                    directions_set.add(direction)
+
+            directions_list: list[str] = list(directions_set)
+            return directions_list
+        except Exception:
+            sub_sub_page_link = self._get_sub_sub_link(sub_page_content)
+            return self._get_directions_for_sub_page(sub_sub_page_link)
+
+    def _get_sub_sub_link(self, sub_page_content: bs4.BeautifulSoup) -> str:
+        all_link_tags = sub_page_content.find_all('a')
+        first_link_tag = find_first_containing_values_or_error(
+            elements=all_link_tags,
             attribute="class",
-            value_to_match=["text-center", "bg-lightgray"]
+            values_to_match=["block"]
         )
-
-        directions_set: set[str] = set()
-        for td_tag in filtered_td_tags:
-            raw_text = td_tag.text
-            if "Kierunek:" in raw_text:
-                strong_tag = td_tag.find_next('strong')
-                direction = strong_tag.text
-                directions_set.add(direction)
-
-        directions_list: list[str] = list(directions_set)
-        return directions_list
+        sub_sub_page_link = first_link_tag.attrs['href']
+        return self._MAIN_PAGE_LINK + sub_sub_page_link
 
     def _get_all_stops_for_link(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)
-        all_table_tags = sub_page_content.find_all('table')
-        filtered_table_tags = find_all_attribute_matching_or_error(
-            elements=all_table_tags,
-            attribute="class",
-            value_to_match=["route"]
-        )
+        try:
+            all_table_tags = sub_page_content.find_all('table')
+            filtered_table_tags = find_all_attribute_matching_or_error(
+                elements=all_table_tags,
+                attribute="class",
+                value_to_match=["route"]
+            )
 
-        stops_set: set[str] = set()
-        for table_tag in filtered_table_tags:
-            link_tags = table_tag.find_all('a')
-            if len(link_tags) == 0:
-                continue
+            stops_set: set[str] = set()
+            for table_tag in filtered_table_tags:
+                link_tags = table_tag.find_all('a')
+                if len(link_tags) == 0:
+                    continue
 
-            try:
-                first_link_tag = find_first_containing_values_or_error(
-                    elements=link_tags,
-                    attribute="href",
-                    values_to_match=["rozklad"]
-                )
-                stop_name = first_link_tag.text
-                stops_set.add(stop_name)
-            except Exception:
-                continue
+                try:
+                    first_link_tag = find_first_containing_values_or_error(
+                        elements=link_tags,
+                        attribute="href",
+                        values_to_match=["rozklad"]
+                    )
+                    stop_name = first_link_tag.text
+                    stops_set.add(stop_name)
+                except Exception:
+                    continue
 
-        stops_list: list[str] = list(stops_set)
-        return stops_list
+            stops_list: list[str] = list(stops_set)
+            return stops_list
+        except Exception:
+            sub_sub_page_link = self._get_sub_sub_link(sub_page_content)
+            return self._get_all_stops_for_link(sub_sub_page_link)
 
 
 if __name__ == '__main__':

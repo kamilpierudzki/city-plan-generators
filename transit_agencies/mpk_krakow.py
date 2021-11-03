@@ -34,7 +34,6 @@ def _get_link_tags_from_td_tags(vehicle_type_td_tags: list[bs4.element.Tag]) -> 
 def _enable_mobile_version_of_sub_page(url: str, session: requests.Session):
     _r1 = session.get(url)
     _r2 = session.get(url + '/?akcja=telefon')
-    print()
 
 
 def _read_directions(p_tags: list[bs4.element.Tag]) -> list[str]:

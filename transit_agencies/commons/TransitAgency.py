@@ -35,6 +35,10 @@ class TransitAgency:
     _OUTPUT_DIR_ENCRYPTED = os.path.join("output", "transit-agencies-encrypted")
 
     errors: list[str] = []
+    _print_errors_in_place: bool = None
+
+    def __init__(self, print_errors_in_place: bool = False):
+        self._print_errors_in_place = print_errors_in_place
 
     def generate_data(self):
         tram_links_dictionary = self._get_tram_links_dictionary()
@@ -44,7 +48,8 @@ class TransitAgency:
                             self.get_transit_agency_name() + \
                             ". tram links verification failed, message: " + \
                             tram_links_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
 
@@ -55,7 +60,8 @@ class TransitAgency:
                             self.get_transit_agency_name() + \
                             "bus links verification failed, message: " + \
                             bus_links_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
 
@@ -114,7 +120,8 @@ class TransitAgency:
             except Exception as e:
                 error_message = "Error, " + e.__str__() + ", link " + vehicle_links_dictionary[key] + " is broken"
                 self.errors.append(error_message)
-                print(error_message)
+                if self._print_errors_in_place:
+                    print(error_message)
                 continue
         if len(_stops_dictionary) == 0:
             error_message = "Error, stops data not created"
@@ -135,7 +142,8 @@ class TransitAgency:
             error_message = "Error, " + self.get_transit_agency_name() + \
                             " tram lines list verification failed, message: " + \
                             tram_lines_list_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
 
@@ -145,7 +153,8 @@ class TransitAgency:
             error_message = "Error, " + self.get_transit_agency_name() + \
                             " bus lines list verification failed, message: " + \
                             bus_lines_list_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
 
@@ -155,7 +164,8 @@ class TransitAgency:
             error_message = "Error, " + self.get_transit_agency_name() + \
                             "tram stops dictionary verification failed, message: " + \
                             tram_stops_dictionary_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
         tram_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("tram", tram_stops_dictionary)
@@ -166,7 +176,8 @@ class TransitAgency:
             error_message = "Error, " + self.get_transit_agency_name() + \
                             "bus stops dictionary verification failed, message: " + \
                             bus_stops_dictionary_verification_result.error_message
-            print(error_message)
+            if self._print_errors_in_place:
+                print(error_message)
             self.errors.append(error_message)
             return
         bus_stops_json_dictionary = self._create_vehicle_json_stops_dictionary("bus", bus_stops_dictionary)
@@ -207,7 +218,8 @@ class TransitAgency:
                                 ". _get_vehicle_lines, message: " + \
                                 str(e) + ", link " + \
                                 vehicle_links_dictionary[key]
-                print(error_message)
+                if self._print_errors_in_place:
+                    print(error_message)
                 self.errors.append(error_message)
                 continue
         return vehicle_data

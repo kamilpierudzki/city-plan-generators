@@ -6,21 +6,6 @@ from transit_agencies.commons.search_util import find_first_attribute_matching_o
     find_all_attribute_matching_or_error
 
 
-def _get_bus_h2_tags(
-        all_h2_tags: list[bs4.element.Tag],
-        values_to_match: list[list[str]]
-) -> list[bs4.element.Tag]:
-    tags: list[bs4.element.Tag] = []
-    for value in values_to_match:
-        tag = find_first_attribute_matching_or_error(
-            elements=all_h2_tags,
-            attribute="class",
-            value_to_match=value
-        )
-        tags.append(tag)
-    return tags
-
-
 def _read_directions(td_tag: bs4.element.Tag) -> list[str]:
     strong_tag = td_tag.find_next('strong')
     directions = [str(strong_tag.contents[0]), str(strong_tag.contents[2])]
@@ -55,7 +40,14 @@ class ZdtmSzczecin(TransitAgency):
         return create_links_dictionary(tram_all_link_tags, self._SUB_PAGE_LINK)
 
     def _get_bus_links_dictionary(self) -> dict[str, str]:
-        bus_h2_tags = _get_bus_h2_tags(self._all_h2_tags, [['adz'], ['adz1'], ['adp'], ['ada'], ['anz']])
+        bus_h2_tags: list[bs4.element.Tag] = []
+        for value in [['adz'], ['adz1'], ['adp'], ['anz']]:
+            tag = find_first_attribute_matching_or_error(
+                elements=self._all_h2_tags,
+                attribute="class",
+                value_to_match=value
+            )
+            bus_h2_tags.append(tag)
 
         bus_all_link_tags: list[bs4.element.Tag] = []
         for h2_tag in bus_h2_tags:

@@ -1,15 +1,23 @@
 import base64
+from typing import Callable
 
 import bs4.element
 import requests
 from bs4 import BeautifulSoup
 
 
-def create_links_dictionary(vehicle_link_tags: list[bs4.element.Tag], sub_link_to_append: str = "") -> dict[str, str]:
+def create_links_dictionary(
+        vehicle_link_tags: list[bs4.element.Tag],
+        sub_link_to_append: str = "",
+        line_number_processor: Callable[[bs4.element.Tag], str] = lambda link_tag: link_tag.text.strip(),
+        link_processor: Callable[[bs4.element.Tag, str], str] = lambda link_tag,
+                                                                       sub_link_to_append: sub_link_to_append +
+                                                                                           link_tag.attrs['href'],
+) -> dict[str, str]:
     dictionary: dict[str, str] = {}
-    for link in vehicle_link_tags:
-        line_number = link.text.strip()
-        link_to_timetable = sub_link_to_append + link.attrs['href']
+    for link_tag in vehicle_link_tags:
+        line_number = line_number_processor(link_tag)
+        link_to_timetable = link_processor(link_tag, sub_link_to_append)
         dictionary[line_number] = link_to_timetable
     if len(dictionary) == 0:
         raise Exception("Error, vehicle tag link list is empty")

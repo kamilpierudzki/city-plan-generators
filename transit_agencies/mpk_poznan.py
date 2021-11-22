@@ -49,8 +49,7 @@ class MpkPoznan(TransitAgency):
     _tram_tag_links: list[bs4.element.Tag] = None
     _bus_tag_links: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         self._all_divs = self._main_page_content.find_all('div')
         self._content_div = find_first_attribute_matching_or_error(
@@ -61,6 +60,7 @@ class MpkPoznan(TransitAgency):
         pair: (bs4.element.Tag, bs4.element.Tag) = self._get_tram_and_bus_timetable_links()
         self._tram_tag_links = pair[0]
         self._bus_tag_links = pair[1]
+        TransitAgency.generate_data(self)
 
     def _get_tram_links_dictionary(self) -> dict[str, str]:
         return create_links_dictionary(self._tram_tag_links)

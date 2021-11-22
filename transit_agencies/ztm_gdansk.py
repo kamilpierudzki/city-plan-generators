@@ -24,8 +24,7 @@ class ZtmGdansk(TransitAgency):
 
     _link_parent_img_tags: list[bs4.element.Tag] = []
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_link_tags = main_page_content.find_all('a')
         filtered_link_tags = find_all_attribute_matching_or_error(
@@ -37,6 +36,7 @@ class ZtmGdansk(TransitAgency):
             parent_tag = link_tag.parent
             img_tag = parent_tag.find_next("img")
             self._link_parent_img_tags.append(img_tag)
+        TransitAgency.generate_data(self)
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

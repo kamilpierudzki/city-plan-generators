@@ -12,10 +12,10 @@ class MpkLodz(TransitAgency):
 
     _all_link_tags: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         main_page_link = get_page_content(self._MAIN_PAGE_LINK, verify=False)
         self._all_link_tags = main_page_link.find_all('a')
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "MPK Łódź"

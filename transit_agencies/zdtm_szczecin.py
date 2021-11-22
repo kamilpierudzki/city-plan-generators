@@ -18,10 +18,10 @@ class ZdtmSzczecin(TransitAgency):
 
     _all_h2_tags: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         self._all_h2_tags = main_page_content.find_all('h2')
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "ZDiTM Szczecin"

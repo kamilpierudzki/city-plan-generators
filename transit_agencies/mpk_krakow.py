@@ -61,8 +61,7 @@ class MpkKrakow(TransitAgency):
     _vehicle_type_td_tags_pairs: list[tuple[str, bs4.element.Tag]] = []
     _session: requests.Session = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_td_tags = self._main_page_content.find_all('td')
         filtered_td_tags = find_all_attribute_matching_or_error(
@@ -75,6 +74,7 @@ class MpkKrakow(TransitAgency):
             self._vehicle_type_td_tags_pairs.append((vehicle_type, td_tag))
         self._session = requests.Session()
         _enable_mobile_version_of_sub_page(self._MAIN_PAGE_LINK, self._session)
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "MPK Kraków"

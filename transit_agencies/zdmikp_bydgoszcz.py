@@ -72,8 +72,7 @@ class ZdmikpBydgoszcz(TransitAgency):
     _tram_link_tags: list[bs4.element.Tag] = []
     _bus_link_tags: list[bs4.element.Tag] = []
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_link_tags = main_page_content.find_all('a')
         tram_bus_link_tags_pair = _get_tram_and_bus_link_tags_2(
@@ -83,6 +82,7 @@ class ZdmikpBydgoszcz(TransitAgency):
         )
         self._tram_link_tags = tram_bus_link_tags_pair[0]
         self._bus_link_tags = tram_bus_link_tags_pair[1]
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "ZDMiKP Bydgoszczy"

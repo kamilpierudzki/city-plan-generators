@@ -57,8 +57,7 @@ class MpkWroclaw(TransitAgency):
     _main_page_content: bs4.BeautifulSoup = None
     _all_table_tags: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_table_tags = self._main_page_content.find_all('table')
         self._all_table_tags = find_all_attribute_matching_or_error(
@@ -66,6 +65,7 @@ class MpkWroclaw(TransitAgency):
             attribute="class",
             value_to_match=["table", "table-bordered", "table-schedule"]
         )
+        TransitAgency.generate_data(self)
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

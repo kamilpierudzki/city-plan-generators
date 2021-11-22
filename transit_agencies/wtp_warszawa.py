@@ -32,8 +32,7 @@ class WtpWarszawa(TransitAgency):
     _bus_tag_links: list[bs4.element.Tag] = None
     _filtered_links: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super(WtpWarszawa, self).__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_links = self._main_page_content.find_all('a')
         self._filtered_links = find_all_attribute_matching_or_error(
@@ -41,6 +40,7 @@ class WtpWarszawa(TransitAgency):
             attribute="class",
             value_to_match=["timetable-button", "timetable-button-tile"]
         )
+        TransitAgency.generate_data(self)
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

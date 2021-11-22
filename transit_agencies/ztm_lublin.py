@@ -49,9 +49,9 @@ class ZtmLublin(TransitAgency):
 
     _main_page_content: bs4.BeautifulSoup = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
+        TransitAgency.generate_data(self)
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

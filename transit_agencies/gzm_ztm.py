@@ -23,10 +23,10 @@ class GzmZtm(TransitAgency):
     _main_page_content: bs4.BeautifulSoup = None
     _all_divs: bs4.element.ResultSet = None
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         self._all_divs = self._main_page_content.find_all('div')
+        TransitAgency.generate_data(self)
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
         sub_page_content = get_page_content(url)

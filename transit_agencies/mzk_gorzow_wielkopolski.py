@@ -13,9 +13,7 @@ class MzkGorzowWielkopolski(TransitAgency):
 
     _filtered_div_tags: list[bs4.element.Tag] = None
 
-    def __init__(self):
-        super().__init__()
-
+    def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK, headers=self._HEADERS)
         all_div_tags = main_page_content.find_all('div')
         self._filtered_div_tags = find_all_attribute_matching_or_error(
@@ -23,6 +21,7 @@ class MzkGorzowWielkopolski(TransitAgency):
             attribute="class",
             value_to_match=["lineName"]
         )
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "MZK Gorzów Wielkopolski"

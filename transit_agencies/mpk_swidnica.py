@@ -12,8 +12,7 @@ class MpkSwidnica(TransitAgency):
     _main_page_content: bs4.BeautifulSoup = None
     _number_h6_tag_dict: dict[str, bs4.element.Tag] = {}
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)
 
         all_h6_tags = self._main_page_content.find_all('h6')
@@ -36,6 +35,7 @@ class MpkSwidnica(TransitAgency):
                 self._number_h6_tag_dict[number_str] = h6_tag
             except Exception:
                 continue
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "MPK Świdnica"

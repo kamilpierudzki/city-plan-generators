@@ -46,7 +46,6 @@ if __name__ == '__main__':
     ]
     for transit_agency in transit_agencies:
         transit_agency.generate_data()
-
     print("---")
     for transit_agency in transit_agencies:
         print_generation_results(transit_agency.get_transit_agency_name(), transit_agency.errors)

@@ -21,8 +21,7 @@ class MzkBielskoBiala(TransitAgency):
     _number_div_tags_dict: dict[str, bs4.element.Tag] = {}
     _stops_number_div_tags_dict: dict[str, bs4.element.Tag] = {}
 
-    def __init__(self):
-        super().__init__()
+    def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)
         all_div_tags = main_page_content.find_all('div')
         filtered_div_tags = find_all_attribute_matching_or_error(
@@ -47,6 +46,7 @@ class MzkBielskoBiala(TransitAgency):
             img_tag = div_tag.find_next('img')
             number = _read_number_for_div(img_tag)
             self._stops_number_div_tags_dict[number] = div_tag
+        TransitAgency.generate_data(self)
 
     def get_transit_agency_name(self) -> str:
         return "MZK Bielsko-Biała"

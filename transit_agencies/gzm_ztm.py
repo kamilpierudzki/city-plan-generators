@@ -20,8 +20,10 @@ def _read_directions(div_tags: list[bs4.element.Tag]) -> [str]:
 class GzmZtm(TransitAgency):
     _MAIN_PAGE_LINK = "https://rj.metropoliaztm.pl"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _all_divs: bs4.element.ResultSet = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._all_divs: bs4.element.ResultSet = None
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

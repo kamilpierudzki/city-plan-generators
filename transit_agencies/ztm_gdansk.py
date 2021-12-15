@@ -22,7 +22,9 @@ class ZtmGdansk(TransitAgency):
     _TRAM_SEARCH_KEY = "Tram"
     _BUS_SEARCH_KEY = "bus"
 
-    _link_parent_img_tags: list[bs4.element.Tag] = []
+    def __init__(self):
+        super().__init__()
+        self._link_parent_img_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)

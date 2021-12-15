@@ -27,10 +27,12 @@ def _read_inactive_direction(div_inactive_direction: bs4.element.Tag) -> str:
 class WtpWarszawa(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.wtp.waw.pl/rozklady-jazdy/"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _tram_tag_links: list[bs4.element.Tag] = None
-    _bus_tag_links: list[bs4.element.Tag] = None
-    _filtered_links: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._tram_tag_links: list[bs4.element.Tag] = []
+        self._bus_tag_links: list[bs4.element.Tag] = []
+        self._filtered_links: list[bs4.element.Tag] = []
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

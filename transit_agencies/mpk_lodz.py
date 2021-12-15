@@ -10,7 +10,9 @@ class MpkLodz(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.mpk.lodz.pl/rozklady/linie.jsp"
     _SUB_PAGE_LINK = "https://www.mpk.lodz.pl/rozklady/"
 
-    _all_link_tags: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._all_link_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_link = get_page_content(self._MAIN_PAGE_LINK, verify=False)

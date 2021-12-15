@@ -16,7 +16,9 @@ class ZdtmSzczecin(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.zditm.szczecin.pl/pl/pasazer/rozklady-jazdy,wedlug-linii"
     _SUB_PAGE_LINK = "https://www.zditm.szczecin.pl/"
 
-    _all_h2_tags: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._all_h2_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)

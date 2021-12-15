@@ -57,9 +57,11 @@ class MpkKrakow(TransitAgency):
     _BUS_SEARCH_KEY = "auto"
     _OTHER_SEARCH_KEY = "Linie aglomeracyjne nocne"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _vehicle_type_td_tags_pairs: list[tuple[str, bs4.element.Tag]] = []
-    _session: requests.Session = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._vehicle_type_td_tags_pairs: list[tuple[str, bs4.element.Tag]] = []
+        self._session: requests.Session = None
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

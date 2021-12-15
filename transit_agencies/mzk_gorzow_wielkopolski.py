@@ -11,7 +11,9 @@ class MzkGorzowWielkopolski(TransitAgency):
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
     }
 
-    _filtered_div_tags: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._filtered_div_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK, headers=self._HEADERS)

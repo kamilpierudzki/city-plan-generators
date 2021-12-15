@@ -34,10 +34,8 @@ class TransitAgency:
     _OUTPUT_DIR = os.path.join("output", "transit-agencies")
     _OUTPUT_DIR_ENCRYPTED = os.path.join("output", "transit-agencies-encrypted")
 
-    errors: list[str] = []
-    _print_errors_in_place: bool = None
-
     def __init__(self, print_errors_in_place: bool = False):
+        self.errors: list[str] = []
         self._print_errors_in_place = print_errors_in_place
 
     def generate_data(self):

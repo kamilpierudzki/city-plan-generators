@@ -41,8 +41,10 @@ class MCzestochowa(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.m.rozkladzik.pl/czestochowa/rozklad_jazdy.html"
     _SUB_PAGE_LINK = "https://www.m.rozkladzik.pl/czestochowa/"
 
-    _tram_link_tags: list[bs4.element.Tag] = []
-    _bus_link_tags: list[bs4.element.Tag] = []
+    def __init__(self):
+        super().__init__()
+        self._tram_link_tags: list[bs4.element.Tag] = []
+        self._bus_link_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)

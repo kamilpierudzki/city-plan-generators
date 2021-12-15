@@ -54,8 +54,10 @@ class MpkWroclaw(TransitAgency):
     _TRAM_SEARCH_KEY = "tram"
     _BUS_SEARCH_KEY = "auto"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _all_table_tags: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._all_table_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

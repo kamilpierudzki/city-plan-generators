@@ -9,8 +9,10 @@ from transit_agencies.commons.search_util import find_first_attribute_matching_o
 class MpkSwidnica(TransitAgency):
     _MAIN_PAGE_LINK = "http://rozklad.mpk.swidnica.pl/"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _number_h6_tag_dict: dict[str, bs4.element.Tag] = {}
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._number_h6_tag_dict: dict[str, bs4.element.Tag] = {}
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

@@ -18,8 +18,10 @@ class MzkBielskoBiala(TransitAgency):
     _MAIN_PAGE_LINK = "https://komunikacja.um.bielsko.pl/index.php/rozklad-jazdy-do-wydruku/"
     _STOPS_PAGE_LINK = "https://komunikacja.um.bielsko.pl/index.php/linie-komunikacyjne/"
 
-    _number_div_tags_dict: dict[str, bs4.element.Tag] = {}
-    _stops_number_div_tags_dict: dict[str, bs4.element.Tag] = {}
+    def __init__(self):
+        super().__init__()
+        self._number_div_tags_dict: dict[str, bs4.element.Tag] = {}
+        self._stops_number_div_tags_dict: dict[str, bs4.element.Tag] = {}
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)

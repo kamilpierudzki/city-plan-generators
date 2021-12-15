@@ -47,7 +47,9 @@ def _read_stop_name(td_tag: bs4.element.Tag) -> str:
 class ZtmLublin(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.ztm.lublin.eu"
 
-    _main_page_content: bs4.BeautifulSoup = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

@@ -43,11 +43,13 @@ def _read_directions_from_h2(h2: bs4.element.Tag) -> list[str]:
 class MpkPoznan(TransitAgency):
     _MAIN_PAGE_LINK = "https://www.mpk.poznan.pl/rozklad-jazdy"
 
-    _main_page_content: bs4.BeautifulSoup = None
-    _all_divs: bs4.element.ResultSet = None
-    _content_div: bs4.element.Tag = None
-    _tram_tag_links: list[bs4.element.Tag] = None
-    _bus_tag_links: list[bs4.element.Tag] = None
+    def __init__(self):
+        super().__init__()
+        self._main_page_content: bs4.BeautifulSoup = None
+        self._all_divs: bs4.element.ResultSet = None
+        self._content_div: bs4.element.Tag = None
+        self._tram_tag_links: list[bs4.element.Tag] = []
+        self._bus_tag_links: list[bs4.element.Tag] = []
 
     def generate_data(self):
         self._main_page_content = get_page_content(self._MAIN_PAGE_LINK)

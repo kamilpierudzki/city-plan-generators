@@ -69,8 +69,10 @@ class ZdmikpBydgoszcz(TransitAgency):
     _TRAM_LINE_RANGE_BEGIN = 1
     _TRAM_LINE_RANGE_END = 11
 
-    _tram_link_tags: list[bs4.element.Tag] = []
-    _bus_link_tags: list[bs4.element.Tag] = []
+    def __init__(self):
+        super().__init__()
+        self._tram_link_tags: list[bs4.element.Tag] = []
+        self._bus_link_tags: list[bs4.element.Tag] = []
 
     def generate_data(self):
         main_page_content = get_page_content(self._MAIN_PAGE_LINK)

@@ -21,8 +21,8 @@ def _process_sub_page_link_number(link_tag: bs4.element.Tag) -> str:
 
 
 class ZkmGdynia(TransitAgency):
-    _MAIN_PAGE_LINK = "https://www2.zkmgdynia.pl/rozklady/linie0.htm"
-    _SUB_PAGE_LINK = "https://www2.zkmgdynia.pl"
+    _MAIN_PAGE_LINK = "https://zkmgdynia.pl/rozklady/linie0.htm"
+    _SUB_PAGE_LINK = "https://zkmgdynia.pl"
 
     def get_transit_agency_name(self) -> str:
         return "ZKM Gdynia"
@@ -34,7 +34,7 @@ class ZkmGdynia(TransitAgency):
         return {}
 
     def _get_bus_links_dictionary(self) -> dict[str, str]:
-        main_page_content: bs4.BeautifulSoup = get_page_content(self._MAIN_PAGE_LINK)
+        main_page_content: bs4.BeautifulSoup = get_page_content(self._MAIN_PAGE_LINK, verify=False)
         all_link_tags = main_page_content.find_all("a")
         filtered_link_tags = find_all_containing_values_or_error(
             elements=all_link_tags,
@@ -49,7 +49,7 @@ class ZkmGdynia(TransitAgency):
         )
 
     def _get_directions_for_sub_page(self, url: str) -> list[str]:
-        sub_page_content: bs4.BeautifulSoup = get_page_content(url)
+        sub_page_content: bs4.BeautifulSoup = get_page_content(url, verify=False)
         all_td_tags = sub_page_content.find_all("td")
         filtered_td_tags = find_all_attribute_matching_or_error(
             elements=all_td_tags,
@@ -66,7 +66,7 @@ class ZkmGdynia(TransitAgency):
         return directions_list
 
     def _get_all_stops_for_link(self, url: str) -> list[str]:
-        sub_page_content: bs4.BeautifulSoup = get_page_content(url)
+        sub_page_content: bs4.BeautifulSoup = get_page_content(url, verify=False)
         all_td_tags = sub_page_content.find_all("td")
         filtered_td_tags = find_all_attribute_matching_or_error(
             elements=all_td_tags,

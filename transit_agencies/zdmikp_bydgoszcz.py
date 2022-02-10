@@ -67,7 +67,7 @@ class ZdmikpBydgoszcz(TransitAgency):
     _SUB_PAGE_LINK = "http://www.zdmikp.bydgoszcz.pl/rozklady/paczka/"
     # UPDATE THIS INFORMATION
     _TRAM_LINE_RANGE_BEGIN = 1
-    _TRAM_LINE_RANGE_END = 11
+    _TRAM_LINE_RANGE_END = 10
 
     def __init__(self):
         super().__init__()
